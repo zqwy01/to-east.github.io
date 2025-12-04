@@ -1,11 +1,11 @@
 ---
-title: ZQWY - ENDORPHIN
+title: endorphin
 description:
 icon: FasFaceGrinBeamSweat
 tags:
-  - zqwy_music
   - phonk
   - house
+  - dancehop
 aliases:
   - электронная_музыка
   - слушать_электронную_музыку
@@ -16,7 +16,7 @@ aliases:
 cssclasses:
 date: 2023-05-27
 author: ZQWY
-cover: "[[ZQWY_ENDORPHIN_COVER.png]]"
+cover: "[[zqwy_endorphin_cover.png]]"
 genre:
   - Phonk
   - Club
@@ -35,7 +35,7 @@ publish: "true"
 ---
 
 <h1 align=center>
-<img src="Music/Singles/Endorphin/Attachments/Covers/ZQWY_ENDORPHIN_COVER.png" alt="ENDORPHIN" />
+<img src="../attachments/tracks/endorphin/covers/zqwy_endorphin_banner.png" alt="endorphin" />
 </h1>
 
 <iframe src="https://audiomack.com//embed/zqwy/song/endorphin-1" scrolling="no" width="100%" height="252" frameborder="0" title="Endorphin"></iframe>

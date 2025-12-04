@@ -35,7 +35,7 @@ bpm:
 publish: "false"
 ---
 <h1 align=center>
-<img src="https://music.to-east.org/biela/covers/zqwy_biela_banner.jpg" alt="biela" />
+<img src="../attachments/tracks/biela/covers/zqwy_biela_banner.jpg" alt="biela" />
 </h1>
 
 <iframe src="https://audiomack.com//embed/zqwy/song/biela" scrolling="no" width="100%" height="252" frameborder="0" title="Biela"></iframe>

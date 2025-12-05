@@ -24,7 +24,7 @@ aliases:
 publish: "true"
 ---
 
-![[tolan_k7_m1.png]]
+![[zqwy_tolan_k7_m1.png]]
 
 
 EthnicFit Calculator by www.dnagenics.com

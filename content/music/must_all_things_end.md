@@ -1,12 +1,8 @@
 ---
-title: ZQWY - MUST ALL THINGS END
+title: must_all_things_end
 tags:
-  - zqwy_music
   - metal
   - phonk
-  - flute
-  - nuclearphonk
-  - phonkmetal
 aliases:
   - электронная_музыка
   - слушать_электронную_музыку

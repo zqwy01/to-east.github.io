@@ -1,3 +1,28 @@
+---
+title: tolan_k7_m1
+description:
+author: zqwy
+tags:
+  - dna
+date:
+cover:
+size_album:
+instrument:
+emotions:
+genre:
+epocha:
+bpm:
+daw:
+upc:
+ISWC:
+multi_url:
+icon:
+cssclasses:
+aliases:
+  - зкву
+  - зкву_музыка
+publish: "true"
+---
 
 ![[tolan_k7_m1.png]]
 

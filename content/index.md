@@ -11,7 +11,7 @@ tags:
 publish: "true"
 ---
 <h1 align=center>
-<img src="/Arts/Paints/Paint Art/Void Face/shorts/1x4.png" alt="Void Face" />
+<img src="attachments/tracks/void_face/covers/1x4.png" alt="Void Face" />
 </h1>
 
 ![[clear-lq.gif]]

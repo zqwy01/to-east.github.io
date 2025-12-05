@@ -16,7 +16,7 @@ cssclasses:
 date: 2024-11-14
 author: ZQWY
 icon: FasBrain
-cover: "[[ZQWY_GLIOMA_COVER.jpg]]"
+cover: "[[zqwy_glioma_cover.jpg]]"
 genre:
   - Drone
   - Dark Ambient
@@ -34,7 +34,7 @@ publish: "true"
 ---
 
 <h1 align=center>
-<img src="attachments/glioma/covers/ZQWY_GLIOMA_COVER.jpg" alt="glioma" />
+<img src="../attachments/tracks/glioma/covers/zqwy_glioma_cover.jpg" alt="glioma" />
 </h1>
 
 <iframe src="https://audiomack.com//embed/zqwy/song/glioma" scrolling="no" width="100%" height="252" frameborder="0" title="glioma"></iframe>

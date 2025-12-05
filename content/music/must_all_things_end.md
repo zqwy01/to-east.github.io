@@ -13,7 +13,7 @@ cssclasses:
 date: 2024-12-02
 author: ZQWY
 icon: RaDeathSkull
-cover: "[[ZQWY_MUST_ALL_THINGS_END_COVER.jpg]]"
+cover: "[[zqwy_must_all_things_end_cover.jpg]]"
 genre:
   - PostMetal
   - NuclearMetal
@@ -33,6 +33,10 @@ daw: Fl Studio
 size_album: single
 publish: "true"
 ---
+
+<h1 align=center>
+<img src="../attachments/tracks/must_all_things_end/covers/zqwy_must_all_things_end_cover.jpg" width='100%' height='100%' alt="must_all_things_end" />
+</h1>
 
 <iframe src="https://audiomack.com//embed/zqwy/song/must-all-things-end" scrolling="no" width="100%" height="252" frameborder="0" title="MUST ALL THINGS END"></iframe>
 

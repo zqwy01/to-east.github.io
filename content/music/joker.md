@@ -30,7 +30,7 @@ alias: joker
 publish: "true"
 ---
 <h1 align=center>
-<img src="../attachments/tracks/joker/covers/zqwy_joker_banner.png" alt="joker" />
+<img src="../attachments/tracks/joker/covers/zqwy_joker_cover.jpg" alt="joker" />
 </h1>
 
 <iframe src="https://audiomack.com//embed/zqwy/song/joker" scrolling="no" width="100%" height="252" frameborder="0" title="Joker"></iframe>

@@ -14,7 +14,7 @@ aliases:
 cssclasses:
 date: 2023-06-04
 author: ZQWY
-cover: "[[ZQWY_NEW_ADVENTURE_COVER.jpg]]"
+cover: "[[zqwy_new_adventure_cover.jpg]]"
 genre:
   - Orchestral
   - Cinematic

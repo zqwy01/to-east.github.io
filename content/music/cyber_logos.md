@@ -1,5 +1,5 @@
 ---
-title: ZQWY - CYBER LOGOS
+title: cyber_logos
 description:
 tags:
   - trap
@@ -9,6 +9,23 @@ tags:
   - triphop
   - hiphop
   - electronic
+  - darksynth
+  - idm
+  - grime
+  - techno
+  - house
+  - dubstep
+  - ukgarage
+  - edm
+  - drumandbass
+  - chillwave
+  - electro
+  - basshouse
+  - dub
+  - downtempo
+  - breakbeat
+  - psydub
+  - dancepop
 author: ZQWY
 genre:
   - Hip-Hop
@@ -36,10 +53,10 @@ bpm:
 publish: "true"
 ---
 <h1 align=center>
-<img src="../attachments/tracks/cyber_logos/covers/zqwy_cyber_logos_banner.png" alt="cyber_logos" />
+<img src="../attachments/tracks/cyber_logos/covers/zqwy_cyber_logos_cover.jpg" alt="cyber_logos" />
 </h1>
 
-
+<iframe src="https://audiomack.com//embed/zqwy/album/cyber-logos" scrolling="no" width="100%" height="800" frameborder="0" title="cyber_logos"></iframe>
 
 # Состоящий исключительно из данных, вместо биоматериала
 

@@ -2,7 +2,6 @@
 title: rastignac
 description:
 tags:
-  - zqwy_music
   - darkhouse
   - darkwave
 aliases:

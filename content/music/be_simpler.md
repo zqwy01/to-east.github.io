@@ -2,13 +2,11 @@
 title: be_simpler
 icon: LiBird
 tags:
-  - zqwy_music
   - hip-hop
   - tropical_hop
   - summer_trap
   - rnb
   - trap
-  - guitar_beat
 aliases:
 cssclasses:
 date: 2023-05-23

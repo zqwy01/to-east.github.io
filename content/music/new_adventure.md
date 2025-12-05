@@ -4,9 +4,7 @@ tags:
   - ambient
   - orchestral
   - folk
-  - soundtrack
   - cinematic
-  - cinematicambient
 aliases:
   - электронная_музыка
   - слушать_электронную_музыку

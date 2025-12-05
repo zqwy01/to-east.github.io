@@ -1,10 +1,8 @@
 ---
 title: cybernetic_lifeform
 tags:
-  - zqwy_music
   - dubstep
   - midtempo
-  - electronic_music
 aliases:
 cssclasses:
 date: 2025-08-18

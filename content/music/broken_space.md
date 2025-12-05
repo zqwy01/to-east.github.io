@@ -4,7 +4,6 @@ description: ZQWY - Мысли о сломанном космосе
 tags:
   - darkambient
   - sovietwave
-  - zqwy_music
 aliases:
   - сломанный космос
 cssclasses:
@@ -32,7 +31,7 @@ publish: "true"
 <img src="https://music.to-east.org/broken_space/covers/zqwy_broken_space_banner.jpg" alt="broken_space" />
 </h1>
 
-
+<iframe src="https://audiomack.com//embed/zqwy/song/broken-space" scrolling="no" width="100%" height="252" frameborder="0" title="Broken Space"></iframe>
 
 # Подавляющая, гнетущая атмосфера безнадёжности и бессмысленности. Попытки человеческого разума, как пытки и поиски действительности, в реальности способной решительности в новом колонизаторстве.
 

@@ -37,10 +37,10 @@ publish: "true"
 ---
 
 <h1 align=center>
-<img src="attachments/cyber_absolutus/covers/zqwy_limon_cover.png" alt="Void Face" />
+<img src="../attachments/tracks/cyber_absolutus/covers/zqwy_limon_cover.png" alt="cyber_absolutus" />
 </h1>
 
-<iframe src="https://audiomack.com//embed/zqwy/album/cyber-absolutus" scrolling="no" width="100%" height="400" frameborder="0" title="cyber_absolutus"></iframe>
+<iframe src="https://audiomack.com//embed/zqwy/album/cyber-absolutus" scrolling="no" width="100%" height="800" frameborder="0" title="cyber_absolutus"></iframe>
 
 # sphere_wall
 # its_mizraim

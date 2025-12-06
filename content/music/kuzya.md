@@ -53,7 +53,7 @@ publish: "false"
 <img src="../attachments/tracks/kuzya/covers/zqwy_kuzya_cover.jpg" alt="kuzya" />
 </h1>
 
-
+<iframe src="https://audiomack.com//embed/zqwy/album/kuzya" scrolling="no" width="100%" height="1200" frameborder="0" title="kuzya"></iframe>
 
 # Дионисийческиаполонический гений
 
@@ -66,7 +66,3 @@ publish: "false"
 ## Его конечная судьба, привела к естественной кончине, чтобы грустно не было, ему пришлось уйти вдаль, дабы его тело не нашёл человек
 
 ## Мыши в стенах, словно сны на местах, где не видно их. Котик не ловил мышей, боязнь причинение вреда. Даже последний птенец не был тронут
-
-<h1 align=center>
-<img src="Covers/ZQWY_KUZYA_COVER.jpg" width='100%' height='100%' alt="Clear IQ" />
-</h1>

@@ -32,9 +32,9 @@ multi_url: https://onerpm.link/956124143730
 publish: "true"
 ---
 <h1 align=center>
-<img src="attachments/dystopian_future/covers/dystopian_future_banner.jpg" alt="dystopian_future" />
+<img src="" alt="dystopian_future" />
 </h1>
 
-<iframe src="https://audiomack.com//embed/zqwy/album/dystopian-future" scrolling="no" width="100%" height="400" frameborder="0" title="Dystopian Future"></iframe>
+<iframe src="https://audiomack.com//embed/zqwy/album/dystopian-future" scrolling="no" width="100%" height="600" frameborder="0" title="Dystopian Future"></iframe>
 
 ## Печальное будущее движимое сопротивлением к живому:[[Hurting Other People| ненавистью к человеческому]], даёт ключ к глубокому размышлению о поисках возможных вариантов избежать неизбежную погибель живого. Хотя это скудное наблюдение за сгорающим в огне противоречий человеческого сознания. Упрощение живых существ, примитивизация на простые объекты, оптимизация абсолютное существо, некто уничтожил всё сущее скомплировал киберлогос, который проник и разрушил связь между мирами. Утопическая часть воплощается, чуть более через сломанный космос 

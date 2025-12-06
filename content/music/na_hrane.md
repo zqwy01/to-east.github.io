@@ -1,6 +1,20 @@
 ---
 tags:
   - trap
+  - ambient
+  - cinematic
+  - dubstep
+  - idm
+  - lofi
+  - grime
+  - downtempo
+  - phonk
+  - wave
+  - drone
+  - ukgarage
+  - boombap
+  - basshouse
+  - noise
 title: na_hrane
 description:
 publish: "true"

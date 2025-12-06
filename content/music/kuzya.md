@@ -50,7 +50,7 @@ bpm:
 publish: "false"
 ---
 <h1 align=center>
-<img src="../attachments/tracks/kuzya/covers/zqwy_kuzya_banner.png" alt="kuzya" />
+<img src="../attachments/tracks/kuzya/covers/zqwy_kuzya_cover.jpg" alt="kuzya" />
 </h1>
 
 

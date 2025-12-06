@@ -1,8 +1,24 @@
 ---
 title: voidstorm
 tags:
-  - multigenre
-  - electronic
+  - cinematic
+  - ambient
+  - classical
+  - dub
+  - phonk
+  - folk
+  - edm
+  - lofi
+  - hardcore
+  - avantgarde
+  - boombap
+  - drone
+  - noise
+  - trance
+  - metal
+  - wave
+  - jazz
+  - synthwave
 aliases:
 cssclasses:
 date: 2025-02-02
@@ -22,4 +38,4 @@ publish: "true"
 <img src="../attachments/tracks/voidstorm/covers/zqwy_voidstorm_cover.jpg" alt="voidstorm" />
 </h1>
 
-<iframe src="https://audiomack.com//embed/zqwy/album/voidstorm" scrolling="no" width="100%" height="600" frameborder="0" title="Voidstorm"></iframe>
+<iframe src="https://audiomack.com//embed/zqwy/album/voidstorm" scrolling="no" width="100%" height="1200" frameborder="0" title="Voidstorm"></iframe>

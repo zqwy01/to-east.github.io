@@ -28,7 +28,7 @@ publish: "true"
 ---
 
 <h1 align=center>
-<img src="https://music.to-east.org/broken_space/covers/zqwy_broken_space_banner.jpg" alt="broken_space" />
+<img src="../attachments/tracks/broken_space/covers/zqwy_broken_space_cover.jpg" alt="broken_space" />
 </h1>
 
 <iframe src="https://audiomack.com//embed/zqwy/song/broken-space" scrolling="no" width="100%" height="252" frameborder="0" title="Broken Space"></iframe>

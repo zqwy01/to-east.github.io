@@ -24,6 +24,7 @@ instrument:
 epocha: 21st
 upc: "720167164949"
 multi_url: https://onerpm.link/895605872012
+alias: hop
 publish: "true"
 ---
 

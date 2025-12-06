@@ -1,5 +1,7 @@
 ---
 title: runner
+tags:
+  - phonk
 description:
 author: zqwy
 date:
@@ -16,7 +18,6 @@ ISWC:
 multi_url:
 icon:
 cssclasses:
-tags:
 aliases:
   - зкву
   - зкву_музыка

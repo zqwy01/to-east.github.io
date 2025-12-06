@@ -1,6 +1,5 @@
 ---
 tags:
-  - zqwy_music
   - piano
 title: ZQWY - ALGIZ
 description:
@@ -37,12 +36,10 @@ aliases:
   - зкву_музыка
 bpm:
 emotions:
-publish: "false"
+publish: "true"
 ---
 <h1 align=center>
-<img src="https://music.to-east.org/algiz/covers/zqwy_algiz_banner.png" alt="Algiz" />
+<img src="../attachments/tracks/algiz/covers/zqwy_algiz_cover.png" alt="Algiz" />
 </h1>
 
 <iframe src="https://audiomack.com//embed/zqwy/song/algiz" scrolling="no" width="100%" height="252" frameborder="0" title="Algiz"></iframe>
-
-![](https://youtu.be/0iIT_5a7e1w?list=RD0iIT_5a7e1w)

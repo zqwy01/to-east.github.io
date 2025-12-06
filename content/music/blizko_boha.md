@@ -38,7 +38,7 @@ bpm:
 publish: "true"
 ---
 <h1 align=center>
-<img src="../attachments/tracks/blizko_boha/covers/zqwy_blizko_boha_banner.jpg" alt="blizko_boha" />
+<img src="../attachments/tracks/blizko_boha/covers/zqwy_blizko_boha_cover.jpg" alt="blizko_boha" />
 </h1>
 
 <iframe src="https://audiomack.com//embed/zqwy/song/blizko-boha" scrolling="no" width="100%" height="252" frameborder="0" title="Blizko Boha"></iframe>

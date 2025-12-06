@@ -20,7 +20,7 @@ multi_url: https://onerpm.link/858063428585
 publish: "true"
 ---
 
-<iframe src="https://audiomack.com//embed/zqwy/album/cybernetic-lifeform" scrolling="no" width="100%" height="400" frameborder="0" title="Cybernetic Lifeform"></iframe>
+<iframe src="https://audiomack.com//embed/zqwy/album/cybernetic-lifeform" scrolling="no" width="100%" height="750" frameborder="0" title="Cybernetic Lifeform"></iframe>
 
 
 И к чему же привёл [[Someone|Некто]]?

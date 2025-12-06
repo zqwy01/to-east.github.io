@@ -12,7 +12,7 @@ publish: "true"
 <img src="../attachments/tracks/new_tablet/covers/zqwy_tablet_of_the_souls_banner.jpg" alt="new_tablet" />
 </h1>
 
-<iframe src="https://audiomack.com//embed/zqwy/album/new-tablet" scrolling="no" width="100%" height="400" frameborder="0" title="new_tablet"></iframe>
+<iframe src="https://audiomack.com//embed/zqwy/album/new-tablet" scrolling="no" width="100%" height="600" frameborder="0" title="new_tablet"></iframe>
 
 ## Скрижаль душ это центр лабиринта, происхождение всего, каждый синтез и их переход в междумирье, на гране. Хранит память всех путей, которые уже прошли и готовит подходящие для тех, кто ещё придёт.  Души вновь и вновь возвращаются к скрижали, а по-другую сторону переходят в иную скрижаль. 
 

@@ -47,7 +47,7 @@ cssclasses:
 icon: BoBxsCat
 aliases:
 bpm:
-publish: "false"
+publish: "true"
 ---
 <h1 align=center>
 <img src="../attachments/tracks/kuzya/covers/zqwy_kuzya_cover.jpg" alt="kuzya" />

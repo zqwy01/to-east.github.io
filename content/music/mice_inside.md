@@ -5,6 +5,14 @@ icon: TiMickey
 tags:
   - darkhappy
   - electronic
+  - downtempo
+  - piano
+  - cinematic
+  - drone
+  - ambient
+  - phonk
+  - metal
+  - idm
 publish: "true"
 alias: mi
 ---

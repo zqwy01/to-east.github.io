@@ -40,4 +40,4 @@ publish: "false"
 
 <iframe src="https://audiomack.com//embed/zqwy/song/biela" scrolling="no" width="100%" height="252" frameborder="0" title="Biela"></iframe>
 
-## Белая лань с помощью [[algiz|руны]] осталась [[The_Remaining|одной из выживших]]. В отличие от тёмной лани, которая была связана с помощью [[Odal|другой руны]] и находилась по другую сторону [[music/long_play/Na_Hrane/Attachments/Lores/Na_Hrane|междумирья]], и её суть - уничтожить всё на собственном пути!
+# Белая лань с помощью [[algiz|руны]] осталась [[The_Remaining|одной из выживших]]. В отличие от тёмной лани, которая была связана с помощью [[Odal|другой руны]] и находилась по другую сторону [[music/long_play/Na_Hrane/Attachments/Lores/Na_Hrane|междумирья]], и её суть - уничтожить всё на собственном пути!

@@ -50,6 +50,7 @@ ISWC:
 daw: Fl Studio
 size_album:
 bpm:
+alias: cl
 publish: "true"
 ---
 <h1 align=center>
@@ -140,7 +141,8 @@ publish: "true"
 
 # walk_on_the_light 🜪
 
-# second_patch
+
+# first_patch
 
 ## find_by_traces
 

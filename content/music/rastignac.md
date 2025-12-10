@@ -28,10 +28,7 @@ icon: FasClipboardUser
 publish: "true"
 ---
 
-
-
 <iframe src="https://audiomack.com//embed/zqwy/song/rastignac" scrolling="no" width="100%" height="252" frameborder="0" title="Rastignac"></iframe>
 
 ## Растиньяк? Ремиссия? Реквием? Или это всё в реверсии? Человеческая суть заключенная в [[someone|Некто]]. 
 ## Заключение души в Некто, в ходе разрушение города и воплощение Некто через множество эпох  
-

@@ -18,6 +18,11 @@ tags:
 title: na_hrane
 description:
 publish: "true"
+date:
+emotions:
+alias: nh
+bpm:
+author:
 ---
 
 <h1 align=center>
@@ -26,122 +31,122 @@ publish: "true"
 
 <iframe src="https://audiomack.com//embed/zqwy/album/na-hrane" scrolling="no" width="100%" height="800" frameborder="0" title="na_hrane"></iframe>
 
-# BIELA DUSA
+# biela_dusa
 
-# CIERNY GRANAT
+# cierny_granat
 
-# CEZ OBAVY
+# cez_obavy
 
-# DUH
+# duh
 
-# FISHERUV PRINCIP
+# fisheruv_princip
 
-# HUBA
+# huba
 
-# IST PARALELNE
+# ist_paralelne
 
-# HROZA
+# hroza
 
-# DOMORODE
+# domorode
 
-# KOVOVE PUZDRO
+# kovove_puzdro
 
-# KRUTENIE NOHY
+# krutenie_nohy
 
-# KUSE
+# kuse
 
-# PODME POSLAT POSLA
+# podme_poslat_posla
 
-# NERVOZNY
+# nervozny
 
-# SENDVIC
+# sendvic
 
-# MEDUZY
+# meduzy
 
-# POSLEDNY CLOVEK
+# posledny_clovek
 
-# NIEKO KOSLOV
+# nieko_koslov
 
-# POSLEDNY
+# posledny
 
-# CHLADENIE MOZGU
+# chladenie_mozgu
 
-# HYPERAKTIVNE
+# hyperaktivne
 
-# PORAZIT CERNOCHOV
+# porazit_cernochov
 
-# SODOMIE
+# sodomie
 
-# POTKANY V STENACH
+# potkany_v_stenach
 
-# NAJVIAC
+# najviac
 
-# ZABIL SOM SA UMYSELNE
+# zabil_som_sa_umyselne
 
-# RUZA
+# ruza
 
-# ODAL
+# odal
 
-# TROID
+# troid
 
-# TROCHU KOREKTNOSTI
+# trochu_korektnosti
 
-# VAJCIA
+# vajcia
 
-# VEK
+# vek
 
-# VOJNA A MIER
+# vojna_a_mier
 
-# VOJNY NEKONCIA
+# vojny_nekoncia
 
-# TUCKER
+# tucker
 
-# POHLAND
+# pohland
 
-# MOTOR SA NASTARTOVAL
+# motor_sa_nastartoval
 
-# ZACHVAT PANIKY
+# zachvat_paniky
 
-# ROZDRVIT BURZOAZIU
+# rozdrvit_burzoaziu
 
-# POSLEDNY VTAK
+# posledny_vtak
 
-# IBA SVET
+# iba_svet
 
-# SPANKOVA PARALYZA
+# spankova_paralyza
 
-# OPAT VOJNA
+# opat_vojna
 
-# ZIARA 
+# ziara 
 
-# MOJE USTA
+# moje_usta
 
-# HEX
+# hex
 
-# ZMENA PODY
+# zmena_pody
 
-# BURST
+# burst
 
-# ZVONY ZVONIA
+# zvony_zvonia
 
-# METAMORPHOSIS TO A CLOWN
+# metamorphosis_to_a_clown
 
-# I HATE PEOPLE
+# i_hate_people
 
-# PLATON TALKING IT
+# platon_talking_it
 
-# ZNICIT IDIOTOV
+# znicit_idiotov
 
-# LAST SCENE
+# last_scene
 
-# SUGAR HORSE
+# sugar_horse
 
-# NATIONAL DEFENSE AUTHORIZATION ACT
+# national_defense_authorization_act
 
-# AGI
+# agi
 
-# OPINION SHIFTING
+# opinion_shifting
 
 # 27_07_24
 
-# NO HARMONY
+# no_harmony

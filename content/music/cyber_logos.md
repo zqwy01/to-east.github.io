@@ -27,9 +27,10 @@ tags:
   - psydub
   - dancepop
 author: ZQWY
+emotions:
+  - dark
 genre:
   - Hip-Hop
-  - Cyber Hop
   - Electronic Music
 icon: SiCyberdefenders
 aliases:
@@ -48,7 +49,6 @@ multi_url: https://links.freshtunes.com/yo0Mp
 ISWC:
 daw: Fl Studio
 size_album:
-emotions:
 bpm:
 publish: "true"
 ---
@@ -66,77 +66,76 @@ publish: "true"
 
 ## Его формирование уничтожило надежду человека, в последствие человек перестал стремится преодолевать и начал стремительно падать и самоуничтожаться из-за своей беспомощности и отсутствием необходимости в следствие автоматизации металла  
 
+# the_word_flesh_was 🜊
 
-# THE WORD FLESH WAS 🜊
+# metal_basis_everything 🜂
 
-# METAL BASIS EVERYTHING 🜂
+# space_and_time 🜃
 
-# SPACE AND TIME 🜃
+# there_is_no_hope 🜅
 
-# THERE IS NO HOPE 🜅
+# automatization 🜆
 
-# AUTOMATIZATION 🜆
+# arche_at_os 🜇
 
-# ARCHE AT OS 🜇
+# digital_multiplex_hierarchy 🜈
 
-# DIGITAL MULTIPLEX HIERARCHY 🜈
+# circuit_breaker 🜉
 
-# CIRCUIT BREAKER 🜉
+# neuro_sub 🜁
 
-# NEURO SUB 🜁
+# executive_functions 🜋
 
-# EXECUTIVE FUNCTIONS 🜋
+# petroleum 🜌
 
-# PETROLEUM 🜌
+# forced_strike 🜍
 
-# FORCED STRIKE 🜍
+# anti_social 🜎
 
-# ANTI SOCIAL 🜎
+# virus 🜐
 
-# VIRUS 🜐
+# post_information 🜑
 
-# POST INFORMATION 🜑
+# digital_sublime 🜒
 
-# DIGITAL SUBLIME 🜒
+# vector 🜓
 
-# VECTOR 🜓
+# last_instument 🜩
 
-# LAST INSTUMENT 🜩
+# no_pain 🜔
 
-# NO PAIN 🜔
+# wither 🜘
 
-# WITHER 🜘
+# cluster 🜙
 
-# CLUSTER 🜙
+# the_urban_genome 🜚
 
-# THE URBAN GENOME 🜚
+# the_saints 🜛
 
-# THE SAINTS 🜛
+# proxy 🜜
 
-# PROXY 🜜
+# plasma 🜝
 
-# PLASMA 🜝
+# no_emotions 🜞
 
-# NO EMOTIONS 🜞
+# absurdistan 🜟
 
-# ABSURDISTAN 🜟
+# meeting 🜠
 
-# MEETING 🜠
+# to_entrophy 🜠
 
-# TO ENTROPHY 🜠
+# internet_freedom 🜢
 
-# INTERNET FREEDOM 🜢
+# fonticulua 🜣
 
-# FONTICULUA 🜣
+# fusing_disk 🜤
 
-# FUSING DISK 🜤
+# chemical_heart 🜥
 
-# CHEMICAL HEART 🜥
+# drill_baby 🜰
 
-# DRILL BABY 🜰
+# synthetic_life 🜾
 
-# SYNTHETIC LIFE 🜾
+# aperture_diaphragm 🜲
 
-# APERTURE DIAPHRAGM 🜲
-
-# WALK ON THE LIGHT 🜪
+# walk_on_the_light 🜪

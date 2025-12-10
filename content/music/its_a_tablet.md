@@ -2,7 +2,6 @@
 title: its_a_tablet
 tags:
   - ambient
-  - darkambient
 aliases:
   - электронная_музыка
   - скрижаль

@@ -11,6 +11,8 @@ aliases:
   - слушать zqwy
   - музыка zqwy
   - zqwy послушать
+emotions:
+  - dark
 cssclasses:
 date: 2024-11-18
 author: ZQWY

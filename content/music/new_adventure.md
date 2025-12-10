@@ -35,6 +35,12 @@ description:
 publish: "true"
 ---
 
-<iframe src="https://audiomack.com//embed/zqwy/album/new-adventure" scrolling="no" width="100%" height="600" frameborder="0" title="New Adventure"></iframe>
+<iframe src="https://audiomack.com//embed/zqwy/album/new-adventure" scrolling="no" width="100%" height="500" frameborder="0" title="New Adventure"></iframe>
 
 ## Цикличность нового пути связана с парадоксом бремени каждого выжившего. Ведь у каждого из них своего путешествие, а вот исход схож
+
+# elves_town
+
+# harpy
+
+# level_up

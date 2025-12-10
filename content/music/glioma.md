@@ -12,6 +12,8 @@ aliases:
   - болезнь мозга
   - глиома
   - рак мозга
+emotions:
+  - dark
 cssclasses:
 date: 2024-11-14
 author: ZQWY
@@ -29,7 +31,7 @@ size_album:
 emotional:
 daw:
 ISWC:
-emotions:
+alias: glioma
 publish: "true"
 ---
 

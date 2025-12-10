@@ -3,7 +3,7 @@ title: blizko_boha
 description:
 tags:
   - phonk
-  - darkambient
+  - ambient
 aliases:
   - электронная_музыка
   - слушать_электронную_музыку
@@ -34,6 +34,7 @@ emotional:
 ISWC:
 daw:
 emotions:
+  - dark
 bpm:
 publish: "true"
 ---

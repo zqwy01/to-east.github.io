@@ -26,16 +26,11 @@ publish: "true"
 И к чему же привёл [[someone|Некто]]?
 Кибернетический абсолют?
 
-## Dark Rider
-
-## Conquest Of Logical Networks
-
-
-1. Dark Rider
-2. Conquest of Logical Networks
-3. We Need Oil
-4. Beat Your Metal
-5. The Last Defense
-6. Survivor Human
-7. Encapsulation
-8. Generator Energy
+# Dark Rider
+# Conquest of Logical Networks
+# We Need Oil
+# Beat Your Metal
+# The Last Defense
+# Survivor Human
+# Encapsulation
+# Generator Energy

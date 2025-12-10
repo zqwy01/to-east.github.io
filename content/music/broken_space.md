@@ -2,8 +2,8 @@
 title: broken_space
 description: ZQWY - Мысли о сломанном космосе
 tags:
-  - darkambient
   - sovietwave
+  - ambient
 aliases:
   - сломанный космос
 cssclasses:

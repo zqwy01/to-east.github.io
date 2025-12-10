@@ -6,8 +6,8 @@ tags:
   - folk
   - neofolk
 genre:
-publish: "true"
 alias: some
+publish: "true"
 ---
 
 <h1 align=center>

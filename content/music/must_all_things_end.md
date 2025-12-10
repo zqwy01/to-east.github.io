@@ -32,6 +32,7 @@ emotional: apocalypse
 daw: Fl Studio
 size_album: single
 publish: "true"
+alias: mate
 ---
 
 <h1 align=center>

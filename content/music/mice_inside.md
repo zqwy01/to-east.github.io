@@ -1,5 +1,5 @@
 ---
-title:
+title: mice_inside
 description:
 icon: TiMickey
 tags:
@@ -13,15 +13,23 @@ tags:
   - phonk
   - metal
   - idm
+emotions:
+  - dark
+  - darkhappy
 publish: "true"
 alias: mi
+genre:
+instrument:
+author:
+size_album:
+date:
 ---
 
 <h1 align=center>
 <img src="../attachments/tracks/mice_inside/covers/mice_inside_cover.png" width='100%' height='100%' alt="mice_inside" />
 </h1>
 
-<iframe src="https://audiomack.com//embed/zqwy/album/mice-inside" scrolling="no" width="100%" height="800" frameborder="0" title="mice_inside"></iframe>
+<iframe src="https://audiomack.com//embed/zqwy/album/mice-inside" scrolling="no" width="100%" height="1200" frameborder="0" title="mice_inside"></iframe>
 
 
 Мышь прямоходящая как и Акс
@@ -31,48 +39,26 @@ alias: mi
 Душа мыши внутри
 Стала последней душой необходимой для починки оружие и восстановление скрижали
 
-## TRACHEA
-
-## ESOPHAGUS
-
-## LUNGS
-
-## HEART
-
-## LIVER
-
-## STOMACH
-
-## SPLEEN
-
-## GALL BLADDER
-
-## KIDNEYS
-
-## DUODENUM
-
-## PANCREAS
-
-## APPENDIX
-
-## SMALL INTESTINE
-
-## LARGE INTESTINE
-
-## BLADDER AND RECTUM
-
-## MORNING
-
-## MIDDAY
-
-## EVENING
-
-## NIGHT
-
-## AGNOSIA
-
-## COMA
-
-## SPASM
-
-## DEATH
+# trachea
+# esophagus
+# lungs
+# heart
+# liver
+# stomach
+# spleen
+# gall_bladder
+# kidneys
+# duodenum
+# pancreas
+# appendix
+# small_intestine
+# large_intestine
+# bladder_and_rectum
+# morning
+# midday
+# evening
+# night
+# agnosia
+# coma
+# spasm
+# death

@@ -39,5 +39,12 @@ publish: "true"
 <img src="../attachments/tracks/death_to_capital/covers/zqwy_death_to_capital_cover.jpg" alt="death_to_capital" />
 </h1>
 
+<iframe src="https://audiomack.com//embed/zqwy/album/death-to-capital" scrolling="no" width="100%" height="900" frameborder="0" title="death_to_capital"></iframe>
 
-<iframe src="https://audiomack.com//embed/zqwy/album/death-to-capital" scrolling="no" width="100%" height="600" frameborder="0" title="death_to_capital"></iframe>
+# end_spirituality
+
+# it_happened
+
+# we_are_differenet
+
+# deal

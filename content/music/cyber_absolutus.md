@@ -34,6 +34,7 @@ instrument:
 epocha:
 upc:
 publish: "true"
+alias: ca
 ---
 
 <h1 align=center>

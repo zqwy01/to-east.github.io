@@ -1,5 +1,5 @@
 ---
-title: its_a_tablet
+title: new_tablet
 tags:
   - ambient
 aliases:
@@ -29,8 +29,7 @@ publish: "false"
 ---
 
 <h1 align=center>
-<img src="" alt="its_a_tablet" />
+<img src="" alt="tablet" />
 </h1>
 
-## Акс впервые встречает скрижаль так близко, что становится заложником в вечном лабиринте.
-
+# Акс впервые встречает скрижаль так близко, что становится заложником в вечном лабиринте.

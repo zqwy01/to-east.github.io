@@ -33,8 +33,9 @@ genre:
 instrument:
 epocha:
 upc:
-publish: "true"
 alias: ca
+distribution:
+publish: "true"
 ---
 
 <h1 align=center>

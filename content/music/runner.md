@@ -22,6 +22,8 @@ aliases:
   - зкву
   - зкву_музыка
 alias: runner
+distribution:
+  - onerpm
 publish: "true"
 ---
 

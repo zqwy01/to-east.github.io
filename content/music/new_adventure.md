@@ -32,6 +32,8 @@ daw: Fl Studio
 size_album: ep
 icon:
 description:
+distribution:
+  - onerpm
 publish: "true"
 ---
 

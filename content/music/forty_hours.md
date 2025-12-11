@@ -1,5 +1,6 @@
 ---
 title: forty_hours
+description:
 tags:
   - electronic
   - dancepop
@@ -18,6 +19,8 @@ author: ZQWY
 upc: "5063673882422"
 cover:
 genre:
+distribution:
+  - freshtunes
 publish: "true"
 ---
 <h1 align=center>

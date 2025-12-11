@@ -14,9 +14,10 @@ tags:
   - triphop
   - dubstep
 description:
-publish: "true"
 alias: tro
 date: 2025-08-01
+distribution:
+publish: "true"
 ---
 <h1 align=center>
 <img src="../attachments/tracks/the_remaining_one/covers/the_remaining_one_banner.jpg" alt="the_remaining_one" />

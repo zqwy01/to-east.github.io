@@ -33,6 +33,8 @@ ISWC:
 emotions:
   - dark
 bpm:
+distribution:
+  - freshtunes
 publish: "true"
 ---
 <h1 align=center>

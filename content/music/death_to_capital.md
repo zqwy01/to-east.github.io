@@ -32,6 +32,9 @@ emotions:
 bpm:
 daw:
 ISWC:
+alias: dto
+distribution:
+  - soundcheck
 publish: "true"
 ---
 

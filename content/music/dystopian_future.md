@@ -33,6 +33,8 @@ epocha: 22st
 upc: "718114582489"
 multi_url: https://onerpm.link/956124143730
 alias: df
+distribution:
+  - onerpm
 publish: "true"
 ---
 <h1 align=center>

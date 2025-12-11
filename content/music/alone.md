@@ -1,19 +1,23 @@
 ---
+title: alone
 tags:
   - house
   - dancepop
-title: alone
 icon: Fas1
 aliases:
 cssclasses:
 date: 2025-08-19
 author: ZQWY
+size_album: single
 cover: "[[zqwy_alone_cover.png]]"
 genre:
 instrument:
 epocha:
 upc: "704522578381"
 multi_url: https://onerpm.link/299557654892
+distribution:
+  - onerpm
+alias: alone
 publish: "true"
 ---
 

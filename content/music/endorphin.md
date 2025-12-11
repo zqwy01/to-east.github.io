@@ -30,7 +30,9 @@ instrument: Synthesizer
 epocha: 21st
 upc: "707331953974"
 multi_url: https://onerpm.link/108610662935
-size_album:
+size_album: single
+distribution:
+  - onerpm
 publish: "true"
 ---
 

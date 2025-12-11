@@ -8,6 +8,7 @@ tags:
 emotions:
   - dark
 alias: nt
+distribution:
 publish: "true"
 ---
 <h1 align=center>

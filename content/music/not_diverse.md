@@ -28,6 +28,8 @@ aliases:
   - зкву
   - зкву_музыка
 alias: not_diverse
+distribution:
+  - onerpm
 publish: "true"
 ---
 

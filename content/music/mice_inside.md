@@ -16,13 +16,14 @@ tags:
 emotions:
   - dark
   - darkhappy
-publish: "true"
 alias: mi
 genre:
 instrument:
 author:
 size_album:
 date:
+distribution:
+publish: "true"
 ---
 
 <h1 align=center>

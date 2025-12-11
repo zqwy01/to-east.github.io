@@ -17,6 +17,9 @@ instrument:
 epocha: 22st
 upc: "718114582021"
 multi_url: https://onerpm.link/858063428585
+alias: cyber_life
+distribution:
+  - onerpm
 publish: "true"
 ---
 

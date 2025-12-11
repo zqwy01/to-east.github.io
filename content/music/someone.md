@@ -1,13 +1,16 @@
 ---
 title: someone
 description:
-icon: FasFaceMeh
 tags:
   - folk
   - neofolk
 genre:
 alias: some
+distribution:
+  - onerpm
+size_album: "8"
 publish: "true"
+date:
 ---
 
 <h1 align=center>

@@ -31,8 +31,10 @@ ISWC:
 emotional: apocalypse
 daw: Fl Studio
 size_album: single
-publish: "true"
 alias: mate
+distribution:
+  - soundcheck
+publish: "true"
 ---
 
 <h1 align=center>

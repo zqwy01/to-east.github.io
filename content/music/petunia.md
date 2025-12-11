@@ -23,6 +23,7 @@ aliases:
   - зкву
   - зкву_музыка
 alias: petunia
+distribution:
 publish: "true"
 ---
 

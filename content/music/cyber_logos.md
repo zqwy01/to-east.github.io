@@ -52,6 +52,8 @@ daw: Fl Studio
 size_album:
 bpm:
 alias: cl
+distribution:
+  - freshtunes
 publish: "true"
 ---
 <h1 align=center>

@@ -29,8 +29,9 @@ instrument:
 epocha:
 upc: "5063673868327"
 multi_url: https://links.freshtunes.com/B7giN
-icon: TiStorm
 size_album: "20"
+distribution:
+  - soundcheck
 publish: "true"
 ---
 

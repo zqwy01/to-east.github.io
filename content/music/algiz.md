@@ -6,7 +6,7 @@ description:
 author: ZQWY
 date: 2024-11-16
 cover: "[[zqwy_algiz_cover.png]]"
-size_album: Single
+size_album: single
 instrument: Piano
 emotional:
   - Misery
@@ -26,17 +26,19 @@ genre:
   - Modern
   - Classical
 epocha: 18st
-daw: Fl Studio
+daw: fl_studio
 upc: "3617666042601"
 ISWC:
 multi_url:
 cssclasses:
 icon: FasA
 aliases:
-  - зкву_музыка
 bpm:
 emotions:
 publish: "true"
+alias: algiz
+distribution:
+  - soundcheck
 ---
 <h1 align=center>
 <img src="../attachments/tracks/algiz/covers/zqwy_algiz_cover.png" alt="Algiz" />

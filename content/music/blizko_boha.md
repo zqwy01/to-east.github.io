@@ -36,6 +36,8 @@ daw:
 emotions:
   - dark
 bpm:
+distribution:
+  - soundcheck
 publish: "true"
 ---
 <h1 align=center>

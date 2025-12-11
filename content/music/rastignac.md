@@ -25,6 +25,8 @@ multi_url: https://onerpm.link/331657192749
 ISWC:
 emotional:
 icon: FasClipboardUser
+distribution:
+  - onerpm
 publish: "true"
 ---
 

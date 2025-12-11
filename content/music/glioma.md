@@ -32,6 +32,8 @@ emotional:
 daw:
 ISWC:
 alias: glioma
+distribution:
+  - soundcheck
 publish: "true"
 ---
 

@@ -29,13 +29,15 @@ epocha: 20st
 upc: "3617666137406"
 multi_url:
 alias: joker
+distribution:
+  - soundcheck
 publish: "true"
 ---
 <h1 align=center>
 <img src="../attachments/tracks/joker/covers/zqwy_joker_cover.jpg" alt="joker" />
 </h1>
 
-<iframe src="https://audiomack.com//embed/zqwy/song/joker" scrolling="no" width="100%" height="252" frameborder="0" title="Joker"></iframe>
+<iframe src="https://audiomack.com//embed/zqwy/song/joker" scrolling="no" width="100%" height="300" frameborder="0" title="Joker"></iframe>
 
 ## Эпоха возникнование мира непрырывно связана с  эпохой исчезновение. Эпоха стремлений к [[MUST ALL THINGS END|распаду мира]]наступает для тех, кто на грани и связанны со своей склонностью быть словно [[манекен]], который способен примерить любую форму. Разница манекена и изменчивости связаны с непрерывностью существование, а не способом управление к которому приближается арбитр -  [[someone|некто]] 
 

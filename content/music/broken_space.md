@@ -24,6 +24,8 @@ ISWC:
 daw: Fl Studio
 bpm:
 emotions:
+distribution:
+  - soundcheck
 publish: "true"
 ---
 

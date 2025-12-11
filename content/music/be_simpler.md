@@ -27,6 +27,8 @@ emotional:
 daw:
 size_album:
 description:
+distribution:
+  - onerpm
 publish: "true"
 ---
 
@@ -34,8 +36,7 @@ publish: "true"
 <img src="../attachments/tracks/be_simpler/covers/zqwy_be_simpler_banner.png" alt="be_simpler" />
 </h1>
 
-
-<iframe src="https://audiomack.com//embed/zqwy/album/be-simpler" scrolling="no" width="100%" height="400" frameborder="0" title="Be Simpler"></iframe>
+<iframe src="https://audiomack.com//embed/zqwy/album/be-simpler" scrolling="no" width="100%" height="600" frameborder="0" title="Be Simpler"></iframe>
 
 Бисимплер
 

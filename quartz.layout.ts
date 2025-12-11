@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "tik-tok-live": "https://www.tiktok.com/@zqwy.live",
       "tik-tok-to-east": "https://www.tiktok.com/@zqwy_to_east",
+	  "pond5": "https://www.pond5.com/ru/artist/zqwy_music",
     },
   }),
 }

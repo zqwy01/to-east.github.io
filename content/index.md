@@ -1,7 +1,6 @@
 ---
 title: Welcome From ZQWY, And Go To The East!
 description:
-icon: TiHome
 date: 2025-08-07
 aliases:
 cssclasses:

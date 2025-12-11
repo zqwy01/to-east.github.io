@@ -26,6 +26,7 @@ tags:
   - breakbeat
   - psydub
   - dancepop
+  - midtempo
 author: ZQWY
 emotions:
   - dark

@@ -33,9 +33,9 @@ publish: "true"
 
 <iframe src="https://audiomack.com//embed/zqwy/album/na-hrane" scrolling="no" width="100%" height="800" frameborder="0" title="na_hrane"></iframe>
 
-# biela_dusa
+# biela_dusa 🐻‍❄️
 
-# cierny_granat
+# [cierny_granat](https://www.pond5.com/ru/royalty-free-music/item/295038945-electronic-cyber-dance-cierny-granat)
 
 # cez_obavy
 
@@ -45,15 +45,15 @@ publish: "true"
 
 # huba
 
-# ist_paralelne
+# [ist_paralelne](https://www.pond5.com/ru/royalty-free-music/item/295039073-electronic-cyber-dance-ist-paralelne)
 
 # hroza
 
-# domorode
+# [domorode](https://www.pond5.com/ru/royalty-free-music/item/295039105-electronic-cyber-dance-domorode)
 
 # kovove_puzdro
 
-# krutenie_nohy
+# [krutenie_nohy](https://www.pond5.com/ru/royalty-free-music/item/295039107-electronic-cyber-dance-krutenie-nohy)
 
 # kuse
 
@@ -89,7 +89,7 @@ publish: "true"
 
 # odal
 
-# troid
+# [troid](https://www.pond5.com/ru/royalty-free-music/item/295039111-electronic-cyber-dance-troid)
 
 # trochu_korektnosti
 
@@ -101,7 +101,7 @@ publish: "true"
 
 # vojny_nekoncia
 
-# tucker
+# [tucker](https://www.pond5.com/ru/royalty-free-music/item/295039106-electronic-cyber-dance-tucker)
 
 # pohland
 
@@ -119,17 +119,18 @@ publish: "true"
 
 # opat_vojna
 
-# ziara 
+# [ziara](https://www.pond5.com/ru/royalty-free-music/item/295039074-electronic-cyber-dance-ziara) 
 
 # moje_usta
 
+# [no_reload](https://www.pond5.com/ru/royalty-free-music/item/295039076-electronic-cyber-dance-no-reload)
 # hex
 
-# zmena_pody
+# [zmena_pody](https://www.pond5.com/ru/royalty-free-music/item/295039044-electronic-cyber-dance-zmena-pody)
 
 # burst
 
-# zvony_zvonia
+# [zvony_zvonia](https://www.pond5.com/ru/royalty-free-music/item/295039042-electronic-cyber-dance-zvony-zvonia)
 
 # metamorphosis_to_a_clown
 
@@ -145,7 +146,7 @@ publish: "true"
 
 # national_defense_authorization_act
 
-# agi
+# [agi](https://www.pond5.com/ru/royalty-free-music/item/295038906-electronic-cyber-dance-agi)
 
 # opinion_shifting
 

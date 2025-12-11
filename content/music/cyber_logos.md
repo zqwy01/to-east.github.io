@@ -33,7 +33,6 @@ emotions:
 genre:
   - Hip-Hop
   - Electronic Music
-icon: SiCyberdefenders
 aliases:
   - Кибер Логос
   - киберлогос
@@ -88,7 +87,7 @@ publish: "true"
 
 # neuro_sub 🜁
 
-# executive_functions 🜋
+# [executive_functions](https://www.pond5.com/ru/royalty-free-music/item/293485647-electronic-cyber-dance-executive-functions) 🜋
 
 # petroleum 🜌
 

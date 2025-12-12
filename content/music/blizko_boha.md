@@ -38,6 +38,7 @@ emotions:
 bpm:
 distribution:
   - soundcheck
+  - pond5
 publish: "true"
 ---
 <h1 align=center>
@@ -45,3 +46,5 @@ publish: "true"
 </h1>
 
 <iframe src="https://audiomack.com//embed/zqwy/song/blizko-boha" scrolling="no" width="100%" height="252" frameborder="0" title="Blizko Boha"></iframe>
+
+# [blizka_boha](https://www.pond5.com/ru/royalty-free-music/item/292404577-blizko-boha)

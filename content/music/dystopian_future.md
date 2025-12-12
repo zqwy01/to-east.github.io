@@ -41,12 +41,12 @@ publish: "true"
 <img src="" alt="dystopian_future" />
 </h1>
 
-<iframe src="https://audiomack.com//embed/zqwy/album/dystopian-future" scrolling="no" width="100%" height="600" frameborder="0" title="Dystopian Future"></iframe>
+<iframe src="https://audiomack.com//embed/zqwy/album/dystopian-future" scrolling="no" width="100%" height="500" frameborder="0" title="Dystopian Future"></iframe>
 
 # Печальное будущее движимое сопротивлением к живому:[[Hurting Other People| ненавистью к человеческому]], даёт ключ к глубокому размышлению о поисках возможных вариантов избежать неизбежную погибель живого. Хотя это скудное наблюдение за сгорающим в огне противоречий человеческого сознания. Упрощение живых существ, примитивизация на простые объекты, оптимизация абсолютное существо, некто уничтожил всё сущее скомплировал киберлогос, который проник и разрушил связь между мирами. Утопическая часть воплощается, чуть более через сломанный космос 
 
-# rd-21
+# [rd-21](https://www.pond5.com/ru/royalty-free-music/item/241261865-dark-ambient-cyberpunk-utopia-sci-fi-video-game-film)
 
-# realism
+# [realism](https://www.pond5.com/ru/royalty-free-music/item/241261811-dark-ambient-cyberpunk-utopia-sci-fi-video-game-film)
 
 # decomposition

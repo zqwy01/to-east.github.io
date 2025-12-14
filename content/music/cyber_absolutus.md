@@ -27,7 +27,8 @@ aliases:
 cssclasses:
 date: 2025-08-18
 author: ZQWY
-icon: SiElectron
+size_album: "7"
+created_with:
 cover:
 genre:
 instrument:
@@ -35,6 +36,7 @@ epocha:
 upc:
 alias: ca
 distribution:
+  - freshtunes
 publish: "true"
 ---
 

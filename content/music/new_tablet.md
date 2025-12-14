@@ -1,14 +1,19 @@
 ---
 title: new_tablet
 description: Album about tablet
+date: 2025-08-01
 tags:
   - drone
   - orchestral
   - phonk
+created_with: vital (spectral warping wavetable synth) https://vital.audio/
+author: ZQWY
 emotions:
   - dark
+size_album: "5"
 alias: nt
 distribution:
+  - freshtunes
 publish: "true"
 ---
 <h1 align=center>

@@ -17,7 +17,10 @@ description:
 alias: tro
 date: 2025-08-01
 distribution:
+  - freshtunes
 publish: "true"
+author: ZQWY
+daw: fl_studio
 ---
 <h1 align=center>
 <img src="../attachments/tracks/the_remaining_one/covers/the_remaining_one_banner.jpg" alt="the_remaining_one" />

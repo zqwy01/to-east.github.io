@@ -7,20 +7,23 @@ tags:
   - electronic
   - basshouse
 author: zqwy
-date:
+date: 2025-11-14
 cover:
-size_album:
+size_album: "13"
 instrument:
+  - synthesizer
 emotions:
 genre:
 epocha:
 bpm:
-daw:
+daw: fl_studio
 upc:
 ISWC:
 multi_url:
 icon:
 cssclasses:
+distribution:
+  - freshtunes
 alias: ax
 publish: "true"
 ---

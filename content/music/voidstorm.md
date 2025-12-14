@@ -32,6 +32,8 @@ multi_url: https://links.freshtunes.com/B7giN
 size_album: "20"
 distribution:
   - soundcheck
+daw: fl_studio
+alias: void
 publish: "true"
 ---
 

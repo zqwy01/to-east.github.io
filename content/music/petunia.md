@@ -24,6 +24,7 @@ aliases:
   - зкву_музыка
 alias: petunia
 distribution:
+  - freshtunes
 publish: "true"
 ---
 

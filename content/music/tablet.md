@@ -23,7 +23,7 @@ multi_url:
 description:
 ISWC:
 emotional:
-daw: Fl Studio
+daw: fl_studio
 size_album: ep
 publish: "false"
 ---

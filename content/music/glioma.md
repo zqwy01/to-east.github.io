@@ -43,8 +43,6 @@ publish: "true"
 
 <iframe src="https://audiomack.com//embed/zqwy/song/glioma" scrolling="no" width="100%" height="252" frameborder="0" title="glioma"></iframe>
 
-# [Glioma](https://www.pond5.com/ru/royalty-free-music/item/292062079-glioma-dark-ambient-drone-sci-fi-cyber)
-
 # В преддверии самозабвенного [[dystopian_future|уничтожение человечества]], наиболее уязвимым объектом для массовой атаки, оказался человеческий мозг. [[cyber_logos|Кибер логос]] в ходе успешного анализа уязвимостей, сформулировал скрытый способ атаки с помощью ярких и быстро мигающих вспышек. 
 
 # Они довели человеческие взаимоотношений до абсурда и [[not_diverse|отсутствие разнообразности]] 
@@ -52,3 +50,5 @@ publish: "true"
 # Исход человека привязан с бегом Акса в пустыни в поисках лабиринта
 
 # Гибель разума приводит к пустоте и инертном в бесконечном цикле [[voidstorm| бури пустоты]] которая засасывает внутрь своей нескончаемым разнообразие и в следствие однообразием.
+
+# [Glioma](https://www.pond5.com/ru/royalty-free-music/item/292062079-glioma-dark-ambient-drone-sci-fi-cyber)

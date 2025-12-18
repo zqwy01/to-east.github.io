@@ -31,7 +31,6 @@ distribution:
   - onerpm
 publish: "true"
 ---
-
 <h1 align=center>
 <img src="../attachments/tracks/be_simpler/covers/zqwy_be_simpler_banner.png" alt="be_simpler" />
 </h1>

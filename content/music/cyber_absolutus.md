@@ -39,7 +39,6 @@ distribution:
   - freshtunes
 publish: "true"
 ---
-
 <h1 align=center>
 <img src="../attachments/tracks/cyber_absolutus/covers/zqwy_limon_cover.png" alt="cyber_absolutus" />
 </h1>

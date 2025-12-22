@@ -6,6 +6,8 @@ tags:
   - drone
   - orchestral
   - phonk
+instrument:
+  - synthesizer
 created_with: vital (spectral warping wavetable synth) https://vital.audio/
 author: ZQWY
 emotions:

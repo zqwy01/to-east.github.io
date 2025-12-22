@@ -43,7 +43,7 @@ publish: "true"
 # heart
 # liver
 
-# [[stomach]]
+# [stomach](https://www.pond5.com/ru/royalty-free-music/item/323654646-dark-electronic-criminal-atmosphere-investigation-psychopati)
 
 ![[stomach]]
 
@@ -59,7 +59,7 @@ publish: "true"
 # small_intestine
 # large_intestine
 # bladder_and_rectum
-# [[morning]]
+# [morning](https://www.pond5.com/ru/royalty-free-music/item/323654877-inspiring-piano-swing-harmony-mood-morning-cycle-day-and-nig)
 ![[morning]]
 
 # midday

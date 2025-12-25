@@ -9,6 +9,7 @@ tags:
 instrument:
   - synthesizer
 created_with: vital (spectral warping wavetable synth) https://vital.audio/
+daw: fl_studio
 author: ZQWY
 emotions:
   - dark

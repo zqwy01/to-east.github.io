@@ -14,12 +14,12 @@ tags:
   - triphop
   - dubstep
 description:
+author: ZQWY
 alias: tro
 date: 2025-08-01
 distribution:
   - freshtunes
 publish: "true"
-author: ZQWY
 daw: fl_studio
 ---
 <h1 align=center>

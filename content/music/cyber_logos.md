@@ -1,5 +1,5 @@
 ---
-title: cyber_logos 😥
+title: cyber_logos 🤖
 description:
 tags:
   - trap

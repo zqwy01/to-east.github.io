@@ -27,7 +27,7 @@ alias: mi
 publish: "true"
 ---
 <h1 align=center>
-<img src="to-east.github.io/content/attachments/tracks/mice_inside/covers/mice_inside_cover.png" width='100%' height='100%' alt="mice_inside" />
+<img src="attachments/tracks/mice_inside/covers/mice_inside_cover.png" width='100%' height='100%' alt="mice_inside" />
 </h1>
 
 <iframe src="https://audiomack.com//embed/zqwy/album/mice-inside" scrolling="no" width="100%" height="1200" frameborder="0" title="mice_inside"></iframe>

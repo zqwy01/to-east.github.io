@@ -28,7 +28,7 @@ alias: ax
 publish: "true"
 ---
 <h1 align=center>
-<img src="../attachments/tracks/ax/covers/axolotl_cover.png" alt="ax" />
+<img src="to-east.github.io/content/attachments/tracks/ax/covers/axolotl_cover.png" alt="ax" />
 </h1>
 
 <iframe src="https://audiomack.com//embed/zqwy/album/axolotl" scrolling="no" width="100%" height="800" frameborder="0" title="Axolotl"></iframe>

@@ -1,5 +1,5 @@
 ---
-title: cyber_logos
+title: "zqwy: cyber_logos | listen zqwy music"
 description:
 tags:
   - trap

@@ -1,5 +1,5 @@
 ---
-title: "ZQWY: Music For All, On To The East"
+title: "ZQWY: Listen Music For All - And Go To The East"
 description:
 date: 2025-08-07
 aliases:

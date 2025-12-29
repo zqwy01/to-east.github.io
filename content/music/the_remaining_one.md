@@ -1,5 +1,5 @@
 ---
-title: the_remaining_one
+title: the_remaining_one 🏜️
 tags:
   - idm
   - cinematic
@@ -23,7 +23,7 @@ publish: "true"
 daw: fl_studio
 ---
 <h1 align=center>
-<img src="music/the_remaining_one/covers/the_remaining_one_banner.jpg" alt="zqwy_the_remaining_one" />
+<img src="attachments/tracks/the_remaining_one/covers/the_remaining_one_banner.jpg" alt="zqwy_the_remaining_one" />
 </h1>
 
 <iframe src="https://audiomack.com//embed/zqwy/album/the-remaining-one" scrolling="no" width="100%" height="800" frameborder="0" title="the_remaining_one"></iframe>

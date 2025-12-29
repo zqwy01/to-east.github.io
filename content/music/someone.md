@@ -13,7 +13,6 @@ distribution:
 size_album: "8"
 publish: "true"
 ---
-
 <h1 align=center>
 <img src="../attachments/tracks/someone/covers/someone_cover.png" width='100%' height='100%' alt="someone" />
 </h1>

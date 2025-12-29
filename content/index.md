@@ -1,5 +1,5 @@
 ---
-title: Welcome From ZQWY, And Go To The East!
+title: "ZQWY: Music For All, On To The East"
 description:
 date: 2025-08-07
 aliases:
@@ -12,6 +12,7 @@ publish: "true"
 <h1 align=center>
 <img src="attachments/tracks/void_face/covers/1x4.png" alt="Void Face" />
 </h1>
+# Welcome From ZQWY, And Go To The East!
 
 ![[clear-lq.gif]]
 

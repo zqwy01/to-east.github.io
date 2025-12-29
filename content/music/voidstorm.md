@@ -36,7 +36,6 @@ daw: fl_studio
 alias: void
 publish: "true"
 ---
-
 <h1 align=center>
 <img src="../attachments/tracks/voidstorm/covers/zqwy_voidstorm_cover.jpg" alt="voidstorm" />
 </h1>

@@ -22,7 +22,7 @@ publish: "true"
 ---
 
 <h1 align=center>
-<img src="../attachments/tracks/alone/covers/zqwy_alone_banner.png" alt="alone" />
+<img src="attachments/tracks/alone/covers/zqwy_alone_banner.png" alt="alone" />
 </h1>
 
 <iframe src="https://audiomack.com//embed/zqwy/song/alone" scrolling="no" width="100%" height="252" frameborder="0" title="Alone"></iframe>

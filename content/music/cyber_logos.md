@@ -1,5 +1,5 @@
 ---
-title: cyber_logos 🤖
+title: zqwy - cyber_logos 🤖| Listen ZQWY
 description:
 tags:
   - trap

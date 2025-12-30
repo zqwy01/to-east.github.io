@@ -73,10 +73,7 @@ export const defaultListPageLayout: PageLayout = {
 
 Component.Explorer({
   mapFn: (node) => {
-    if (node.isFolder) {
-      node.displayName = "📁 " + node.displayName
-    } else {
-      node.displayName = "📄 " + node.displayName
-    }
+    node.displayName = node.displayName.toUpperCase()
+    return node
   },
 })

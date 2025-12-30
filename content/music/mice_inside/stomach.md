@@ -40,6 +40,7 @@ cssclasses:
 aliases:
   - зкву
   - зкву_музыка
+alias: stomach
 publish: "true"
 ---
 <h1 align=center>

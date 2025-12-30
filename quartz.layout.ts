@@ -79,14 +79,9 @@ Component.Explorer({
   // omitted but shown later
   sortFn: ...,
   filterFn: ...,
-  mapFn: ...,
-  // what order to apply functions in
-  order: ["filter", "map", "sort"],
-})
-
-Component.Explorer({
   mapFn: (node) => {
     node.displayName = node.displayName.toUpperCase()
     return node
   },
+  order: ["filter", "map", "sort"],
 })

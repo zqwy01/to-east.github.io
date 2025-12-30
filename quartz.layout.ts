@@ -70,7 +70,7 @@ export const defaultListPageLayout: PageLayout = {
 }
 
 //
-
+type MapFn = (node: FileTrieNode) => void
 Component.Explorer({
   mapFn: (node) => {
     node.displayName = node.displayName.toUpperCase()

@@ -45,6 +45,7 @@ publish: "true"
 >## скрипка, флейта, синтезатор, деревянные духовые, перкуссия, электрогитара, драм-машина, медные духовые
 
 >[!faq] Где можно послушать?
+>[pond5](https://www.pond5.com/ru/royalty-free-music/item/323658681-neoclassical-smooth-trap-and-dreamy-folk-elated-atmosphere-b)
 
 >[!faq] Музыкальные характеристики
 >жанр: идм, неоклассика, трэп, синематик;

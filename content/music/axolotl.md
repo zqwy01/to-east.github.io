@@ -43,7 +43,9 @@ publish: "true"
 
 # warlock_on_ruins
 
-# from_the_tent_of_meeting
+# [from_the_tent_of_meeting](https://www.pond5.com/ru/royalty-free-music/item/323659782-inspiration-phonk-minimal-techno-bass-metal-electronic-cool)
+
+![[from_the_tent_of_meeting]]
 
 # purim
 

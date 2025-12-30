@@ -14,7 +14,7 @@ genre:
 epocha:
 bpm:
 daw:
-upc:
+upc: "5063827593631"
 ISWC:
 multi_url:
 icon:

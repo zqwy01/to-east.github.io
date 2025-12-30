@@ -68,3 +68,15 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+//
+
+Component.Explorer({
+  mapFn: (node) => {
+    if (node.isFolder) {
+      node.displayName = "📁 " + node.displayName
+    } else {
+      node.displayName = "📄 " + node.displayName
+    }
+  },
+})

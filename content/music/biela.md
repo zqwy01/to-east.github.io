@@ -6,29 +6,22 @@ tags:
   - phonk
   - ambient
 aliases:
-  - электронная_музыка
-  - слушать_электронную_музыку
-  - слушать zqwy
-  - музыка zqwy
-  - zqwy послушать
-  - белый
-  - биела
 cssclasses:
 date: 2024-11-03
 author: ZQWY
-icon: 🏳
 cover: "[[zqwy_biela_cover.jpg]]"
 genre:
   - Folk
-  - Instrumental
-  - Dark Ambient
+  - Ambient
+  - Folk
+  - Phonk
 instrument:
 epocha: 18st
 upc: "5063600285227"
 multi_url: https://links.freshtunes.com/66K1x
 size_album:
 emotional:
-daw:
+daw: fl_studio
 ISWC:
 emotions:
   - dark
@@ -46,17 +39,17 @@ publish: "true"
 >[!abstract] Сюжет
 ># Белая лань с помощью [[algiz|руны]] осталась [[The_Remaining|одной из выживших]]. В отличие от тёмной лани, которая была связана с помощью [[Odal|другой руны]] и находилась по другую сторону [[music/long_play/Na_Hrane/Attachments/Lores/Na_Hrane|междумирья]]. Её суть - уничтожить всё на собственном пути!
 
->[!info] Описание музыки
-> Эмбиент-фолкотроника
+>[!info] Описание композиции
+> # Загадочный саундтрек: мистический, эзотерический оркестр и эпический скандинавский фольклёр. Мрачный эпос, таинственное фэнтези, эфирный фолк. Фолкотроника эмбиент и фонк. Сумеречный скрытный и запретный оккультизм. Слияние восточного и западного, мифологический синкопированный хтонический нигилизм. Магическая энергия, арканическая ритуальность и спиритуальность.
 
 >[!faq] Какие инструменты используются?
->
+># Флейта, тальхарпа, пианино, ковбел, акустические ударные и синтезированные, синтезатор
 
 >[!faq] Где можно послушать?
 >🟢𝄞 [Spotify](https://open.spotify.com/album/61O9fZ5G4yQeP6zbstNIGk)
 >🟪 SumbitHub: https://www.submithub.com/artist/zqwy
 >🔊 Soundclick: http://soundclick.com/
->🎼 [Audiomack](https://audiomack.com/zqwy/song/biela):
+>🎼 [Audiomack](https://audiomack.com/zqwy/song/biela)
 >🎤 Rapchat: https://rapchat.com/profile/340DB690-9E23-11EB-8017-D314B4DFDD5D
 >🍏 [AppleMusic](https://music.apple.com/ru/album/biela-single/1781826881)
 >📦 [AmazonMusic](https://music.amazon.com/albums/B0DLNFSV9N)
@@ -80,3 +73,6 @@ publish: "true"
 >dynamic
 >elements:
 >timbre:
+
+>[!faq] Саундтрек для
+># Трейлера, фильма, видеоигры, видео, D&D, рекламы, тиктока или шорта

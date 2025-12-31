@@ -20,6 +20,8 @@ date: 2025-08-01
 distribution:
   - freshtunes
 publish: "true"
+upc: "5063827579949"
+created_with: vital (spectral warping wavetable synth) https://vital.audio/
 daw: fl_studio
 ---
 <h1 align=center>

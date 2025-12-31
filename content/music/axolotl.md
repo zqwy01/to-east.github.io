@@ -17,7 +17,7 @@ genre:
 epocha:
 bpm:
 daw: fl_studio
-upc:
+upc: "5063827593310"
 ISWC:
 multi_url:
 icon:

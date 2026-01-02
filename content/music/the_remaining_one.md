@@ -1,5 +1,5 @@
 ---
-title: the_remaining_one 🏜️
+title: the_remaining_one
 tags:
   - idm
   - cinematic
@@ -32,7 +32,7 @@ daw: fl_studio
 
 # [barchans](https://www.pond5.com/ru/royalty-free-music/item/323658681-neoclassical-smooth-trap-and-dreamy-folk-elated-atmosphere-b)
 
-![[deploy/to-east.github.io/content/music/the_remaining_one_/barchans|barchans]]
+![[deploy/to-east.github.io/content/music/the_remaining_one 🏜️/barchans|barchans]]
 
 # shiny_sand
 

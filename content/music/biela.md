@@ -22,6 +22,7 @@ emotions:
 bpm: "110"
 distribution:
   - freshtunes
+alias: biela
 publish: "true"
 ---
 <h1 align=center>
@@ -31,7 +32,7 @@ publish: "true"
 <iframe src="https://audiomack.com//embed/zqwy/song/biela" scrolling="no" width="100%" height="300" frameborder="0" title="Biela"></iframe>
 
 >[!info] Описание Композиции
-> # Загадочный саундтрек: мистический, эзотерический оркестр и эпический скандинавский фольклёр. Мрачный эпос, таинственное фэнтези, эфирный фолк. Фолкотроника эмбиент и страшный фонк. Сумеречный скрытный и запретный оккультизм. Слияние восточного и западного, мифологический синкопированный хтонический нигилизм. Магическая энергия, арканическая ритуальность и спиритуальность.
+> # Загадочный саундтрек. Мистический, эзотерический оркестр и эпический скандинавский фольклёр. Мрачный эпос, таинственное фэнтези, эфирный фолк. Фолкотроника эмбиент и страшный фонк. Сумеречный скрытный и запретный оккультизм. Слияние восточного и западного, мифологический синкопированный хтонический нигилизм. Магическая энергия, арканическая ритуальность и спиритуальность.
 
 >[!abstract] Сюжет Композиции
 ># Белая лань с помощью [[algiz|руны]] осталась [[The_Remaining|одной из выживших]]. В отличие от тёмной лани, которая была связана с помощью [[Odal|другой руны]] и находилась по другую сторону [[music/long_play/Na_Hrane/Attachments/Lores/Na_Hrane|междумирья]]. Её суть - уничтожить всё на собственном пути!
@@ -40,35 +41,21 @@ publish: "true"
 ># Флейта, тальхарпа, пианино, ковбел, акустические ударные и синтезированные, синтезатор
 
 >[!faq] Где Можно Послушать?
->🟢𝄞 [Spotify](https://open.spotify.com/album/61O9fZ5G4yQeP6zbstNIGk)
->
->🟪 SumbitHub: https://www.submithub.com/artist/zqwy
->
->🔊 Soundclick: http://soundclick.com/
->
->🎼 [Audiomack](https://audiomack.com/zqwy/song/biela)
->
->🎤 Rapchat: https://rapchat.com/profile/340DB690-9E23-11EB-8017-D314B4DFDD5D
->
->🍏 [AppleMusic](https://music.apple.com/ru/album/biela-single/1781826881)
->
->📦 [AmazonMusic](https://music.amazon.com/albums/B0DLNFSV9N)
->
->👍 [YandexMusic](https://music.yandex.ru/album/33870363)
->
->🥚 [MTSMusic](https://music.mts.ru/album/33870363)
->
->🏛️ [SberZvuk](https://zvuk.com/release/35985388)
->
->🌀 [Shazam](https://www.shazam.com/album/1781826881/biela-single)
->
->🎵 Bandcamp: https://zqwy.bandcamp.com/
->
->👌 [OK](https://ok.ru/music/album/122964261241800)
->
->🌊 Tidal: https://tidal.com/browse/artist/20930958?u
->
->⭕ Audius: https://audius.co/_zqwy_
+>##### 🟢𝄞 [Spotify](https://open.spotify.com/album/61O9fZ5G4yQeP6zbstNIGk)
+>##### 🟪 SumbitHub: https://www.submithub.com/artist/zqwy
+>##### 🔊 Soundclick: http://soundclick.com/
+>##### 🎼 [Audiomack](https://audiomack.com/zqwy/song/biela)
+>##### 🎤 Rapchat: https://rapchat.com/profile/340DB690-9E23-11EB-8017-D314B4DFDD5D
+>##### 🍏 [AppleMusic](https://music.apple.com/ru/album/biela-single/1781826881)
+>##### 📦 [AmazonMusic](https://music.amazon.com/albums/B0DLNFSV9N)
+>##### 👍 [YandexMusic](https://music.yandex.ru/album/33870363)
+>##### 🥚 [MTSMusic](https://music.mts.ru/album/33870363)
+>##### 🏛️ [SberZvuk](https://zvuk.com/release/35985388)
+>##### 🌀 [Shazam](https://www.shazam.com/album/1781826881/biela-single)
+>##### 🎵 Bandcamp: https://zqwy.bandcamp.com/
+>##### 👌 [OK](https://ok.ru/music/album/122964261241800)
+>##### 🌊 Tidal: https://tidal.com/browse/artist/20930958?u
+>##### ⭕ Audius: https://audius.co/_zqwy_
 
 >[!faq] Музыкальные Характеристики
 >harmony:

@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "ru-RU",
     baseUrl: "to-east.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",

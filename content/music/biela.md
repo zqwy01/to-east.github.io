@@ -61,17 +61,4 @@ publish: "true"
 ># Трейлера, фильма, видеоигры, видео, D&D, рекламы, тиктока или шорта
 
 >[!faq] Где Можно Послушать?
->🟢𝄞 [Spotify](https://open.spotify.com/album/61O9fZ5G4yQeP6zbstNIGk) <br>🟪 SumbitHub: https://www.submithub.com/artist/zqwy
->🔊 Soundclick: http://soundclick.com/
->🎼 [Audiomack](https://audiomack.com/zqwy/song/biela)
->🎤 Rapchat: https://rapchat.com/profile/340DB690-9E23-11EB-8017-D314B4DFDD5D
->🍏 [AppleMusic](https://music.apple.com/ru/album/biela-single/1781826881)
->📦 [AmazonMusic](https://music.amazon.com/albums/B0DLNFSV9N)
->##### 👍 [YandexMusic](https://music.yandex.ru/album/33870363)
->##### 🥚 [MTSMusic](https://music.mts.ru/album/33870363)
->##### 🏛️ [SberZvuk](https://zvuk.com/release/35985388)
->##### 🌀 [Shazam](https://www.shazam.com/album/1781826881/biela-single)
->##### 🎵 Bandcamp: https://zqwy.bandcamp.com/
->##### 👌 [OK](https://ok.ru/music/album/122964261241800)
->##### 🌊 Tidal: https://tidal.com/browse/artist/20930958?u
->##### ⭕ Audius: https://audius.co/_zqwy_
+>🟢𝄞 [Spotify](https://open.spotify.com/album/61O9fZ5G4yQeP6zbstNIGk) <br>🟪 SumbitHub: https://www.submithub.com/artist/zqwy <br>🔊 Soundclick: http://soundclick.com/ <br> 🎼 [Audiomack](https://audiomack.com/zqwy/song/biela) <br>🎤 Rapchat: https://rapchat.com/profile/340DB690-9E23-11EB-8017-D314B4DFDD5D <br> 🍏 [AppleMusic](https://music.apple.com/ru/album/biela-single/1781826881) <br>📦 [AmazonMusic](https://music.amazon.com/albums/B0DLNFSV9N) <br>👍 [YandexMusic](https://music.yandex.ru/album/33870363) <br>🥚 [MTSMusic](https://music.mts.ru/album/33870363) <br>🏛️ [SberZvuk](https://zvuk.com/release/35985388) <br> 🌀 [Shazam](https://www.shazam.com/album/1781826881/biela-single) <br> 🎵 Bandcamp: https://zqwy.bandcamp.com/ <br>👌 [OK](https://ok.ru/music/album/122964261241800) <br> 🌊 Tidal: https://tidal.com/browse/artist/20930958?u <br> ⭕ Audius: https://audius.co/_zqwy_

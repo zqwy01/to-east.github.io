@@ -45,7 +45,7 @@ publish: "true"
 
 # [stomach](https://www.pond5.com/ru/royalty-free-music/item/323654646-dark-electronic-criminal-atmosphere-investigation-psychopati)
 
-![[stomach]]
+![[deploy/to-east.github.io/content/music/mice_inside 🐭/stomach]]
 
 # spleen
 # gall_bladder
@@ -54,19 +54,19 @@ publish: "true"
 # pancreas
 # appendix
 
-![[appendix]]
+![[deploy/to-east.github.io/content/music/mice_inside 🐭/appendix]]
 
 # small_intestine
 # large_intestine
 # bladder_and_rectum
 # [morning](https://www.pond5.com/ru/royalty-free-music/item/323654877-inspiring-piano-swing-harmony-mood-morning-cycle-day-and-nig)
-![[morning]]
+![[deploy/to-east.github.io/content/music/mice_inside 🐭/morning]]
 
 # midday
 # evening
 # night
 # [agnosia](https://www.pond5.com/ru/royalty-free-music/item/323654962-minimalistic-piano-dreamy-creatove-soft-play-timelapse)
-![[agnosia]]
+![[deploy/to-east.github.io/content/music/mice_inside 🐭/agnosia]]
 
 # coma
 # spasm

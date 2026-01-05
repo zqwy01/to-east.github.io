@@ -52,7 +52,8 @@ publish: "true"
 # kidneys
 # duodenum
 # pancreas
-# appendix
+
+# [[deploy/to-east.github.io/content/music/mice_inside 🐭/appendix|appendix]]
 
 ![[deploy/to-east.github.io/content/music/mice_inside 🐭/appendix]]
 

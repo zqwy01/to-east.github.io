@@ -31,8 +31,6 @@ upc: "3617666042601"
 ISWC:
 multi_url:
 cssclasses:
-icon: FasA
-aliases:
 bpm:
 emotions:
 publish: "true"
@@ -45,3 +43,9 @@ distribution:
 </h1>
 
 <iframe src="https://audiomack.com//embed/zqwy/song/algiz" scrolling="no" width="100%" height="300" frameborder="0" title="Algiz"></iframe>
+
+>[!abstract] Сюжет Композиции
+
+>[!info] Описание Композиции
+
+>[!faq] Какие Инструменты Используются?

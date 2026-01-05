@@ -20,6 +20,21 @@ export const sharedPageComponents: SharedLayout = {
 	  "sumbit_hub": "https://submithub.com/link/zqwy",
 	  "soundclick": "https://www.soundclick.com/zqwy",
     },
+	links_test: {
+	  "soundcloud": "https://soundcloud.com/zqwy-sc",
+	  "rapchat": "https://rapchat.com/profile/340DB690-9E23-11EB-8017-D314B4DFDD5D",
+	  "yandex_music": "https://music.yandex.ru/artist/9811686",
+	  "mts_music": "https://music.mts.ru/artist/9811686",
+	  "sber_zvuk": "https://zvuk.com/artist/211125232",
+	  "shazam": "https://www.shazam.com/artist/zqwy/1524644220",
+	  "deezer": "https://www.deezer.com/ru/artist/104037322",
+	  "bandcamp": "https://zqwy.bandcamp.com/",
+	  "pandora": "https://www.pandora.com/artist/zqwy/ARlndnxfh6fpnqg",
+	  "qobuz": "https://www.qobuz.com/us-en/interpreter/zqwy/13364978",
+	  "ok": "https://ok.ru/music/artist/122906744693434",
+	  "tidal": "https://tidal.com/browse/artist/20930958?u",
+	  "flo": "https://www.music-flo.com/detail/artist/406541046",
+	}
   }),
 }
 

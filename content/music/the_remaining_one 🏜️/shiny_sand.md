@@ -1,5 +1,5 @@
 ---
-title: (Trackname) - (Single/Ep/Lp) From ZQWY And Go To East!
+title: shiny_sand
 tags:
 description:
 author: ZQWY

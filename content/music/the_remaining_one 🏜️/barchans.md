@@ -7,7 +7,7 @@ tags:
   - neoclassic
 description: Неоклассика с лёгким трэпом и небольшой атмосферой мечтательного фолка. Кинематографичное, восторженное вступление плaк-синтезатора, жизнерадостное продолжение под красивое ликование гитары. Милое звучание виолончели на заднем фоне с флейтой в духе приключения. Скрипка ярко воодушевляет, создавая недосказанность и загадочность истории. Композиция в натуральном миноре (Emin) в среднем темпе с разной динамикой.
 author: ZQWY
-alias: bar
+alias: barchans
 date: 2025-12-25
 created_with: vital (spectral warping wavetable synth) https://vital.audio/
 instrument:
@@ -32,7 +32,7 @@ cssclasses:
 publish: "true"
 ---
 <h1 align=center>
-<img src="covers/zqwy_tro_barchans_cover.jpeg" width='100%' height='100%' alt="zqwy_tro_barchans" />
+<img src="../../attachments/tracks/the_remaining_one/covers/tracks/barchans/zqwy_tro_barchans_cover.jpeg" width='100%' height='100%' alt="zqwy_tro_barchans" />
 </h1>
 
 >[!info] Описание композиции

@@ -23,7 +23,7 @@ upc:
 ISWC:
 multi_url:
 cssclasses:
-alias: candles_out
+alias: candles
 publish: "true"
 ---
 <h1 align=center>

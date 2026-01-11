@@ -37,8 +37,10 @@ ISWC:
 
 <iframe src="https://audiomack.com//embed/zqwy/song/biela" scrolling="no" width="100%" height="300" frameborder="0" title="Biela"></iframe>
 
+# Загадочный саундтрек: мистический, эзотерический оркестр
+
 >[!info] Описание Композиции
-> # Загадочный саундтрек. Мистический, эзотерический оркестр и эпический скандинавский фольклёр. Мрачный эпос, таинственное фэнтези, эфирный фолк. Фолкотроника эмбиент и страшный фонк. Сумеречный скрытный и запретный оккультизм. Слияние восточного и западного, мифологический синкопированный хтонический нигилизм. Магическая энергия, арканическая ритуальность и спиритуальность.
+> # Эпический скандинавский фольклёр. Мрачный эпос, таинственное фэнтези, эфирный фолк. Фолкотроника эмбиент и страшный фонк. Сумеречный скрытный и запретный оккультизм. Слияние восточного и западного, мифологический синкопированный хтонический нигилизм. Магическая энергия, арканическая ритуальность и спиритуальность.
 
 >[!abstract] Сюжет Композиции
 ># Белая лань с помощью [[algiz|руны]] осталась [[The_Remaining|одной из выживших]]. В отличие от тёмной лани, которая была связана с помощью [[Odal|другой руны]] и находилась по другую сторону [[music/long_play/Na_Hrane/Attachments/Lores/Na_Hrane|междумирья]]. Её суть - уничтожить всё на собственном пути!
@@ -47,18 +49,14 @@ ISWC:
 ># Флейта, тальхарпа, пианино, ковбел, акустические и синтезированные ударные, а также перкуссии, синтезатор
 
 >[!faq] Музыкальные Характеристики
->accord: natural (Emin)
->rhythm: repetitive
->melody: contemplative, dark, dreamy
->texture:
->temp:
->register:
->dynamic: epic, discovery
->elements:
->timbre:
->genres: фонк (phonk), фолк (folk), эмбиент (ambient)
->
->chaotic, ethereal, haunting, magical, mystical, nature, reflective, repetitive, searching, mysterious,, ambient, esoteric, occultism, magic, scandinavian, nihilism, chthonic, arcane, secretive, spirituality, mythological, fantasy, 19th century, ritual, twilight, forbidden
+>аккорд: natural (Emin)
+>ритм: повторяется бит
+>мелодия: contemplative, dark, dreamy
+>динамика: epic, discovery
+>элементы:
+>тембр: спокойный
+>жанры: фонк (phonk), фолк (folk), эмбиент (ambient)
+>тэги: chaotic, ethereal, haunting, magical, mystical, nature, reflective, repetitive, searching, mysterious,, ambient, esoteric, occultism, magic, scandinavian, nihilism, chthonic, arcane, secretive, spirituality, mythological, fantasy, 19th century, ritual, twilight, forbidden
 
 >[!faq] Саундтрек для
 ># Трейлера, фильма, видеоигры, видео, рекламы, тиктока или шорта

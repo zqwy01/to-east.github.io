@@ -49,13 +49,7 @@ ISWC:
 ># Флейта, тальхарпа, пианино, ковбел, акустические и синтезированные ударные, а также перкуссии, синтезатор
 
 >[!faq] Музыкальные Характеристики
->аккорд: natural (Emin)
->ритм: повторяется бит
->мелодия: contemplative, dark, dreamy
->динамика: epic, discovery
->элементы:
->тембр: спокойный
->жанры: фонк (phonk), фолк (folk), эмбиент (ambient)
+># аккорд: natural (Emin); ритм: повторяющийся бит; мелодия: contemplative, dark, dreamy; динамика: epic, discovery; тембр: спокойный; жанры: фонк (phonk), фолк (folk), эмбиент (ambient)
 >тэги: chaotic, ethereal, haunting, magical, mystical, nature, reflective, repetitive, searching, mysterious,, ambient, esoteric, occultism, magic, scandinavian, nihilism, chthonic, arcane, secretive, spirituality, mythological, fantasy, 19th century, ritual, twilight, forbidden
 
 >[!faq] Саундтрек для

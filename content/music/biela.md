@@ -55,8 +55,12 @@ ISWC:
 >[!faq] Саундтрек для
 ># Трейлера, фильма, видеоигры, видео, рекламы, тиктока или шорта
 
->[!faq] Где Можно Послушать?
->🤔 [pond5](https://www.pond5.com/ru/royalty-free-music/item/323659995-mysterious-soundtrack-esoteric-atmosphere-orchestra-folk-pho) <br>🟢 [spotify](https://open.spotify.com/album/61O9fZ5G4yQeP6zbstNIGk) <br>🟪 [sumbit_hub](https://www.submithub.com/link/zqwy-biela) <br> 🎶 [sound_cloud](https://soundcloud.com/zqwy-sc/biela) <br> 🔊 [sound_click](https://soundclick.com/song/15175991) <br> 🎼 [Audiomack](https://audiomack.com/zqwy/song/biela) <br>🎤 [rap_chat](https://rapchat.com/beats/A3087890-EA50-11F0-AD02-0944064249B0) <br> 🍏 [apple_music](https://music.apple.com/ru/album/biela-single/1781826881) <br>📦 [amazon_music](https://music.amazon.com/albums/B0DLNFSV9N) <br>👍 [yandex_music](https://music.yandex.ru/album/33870363) <br>🥚 [mts_music](https://music.mts.ru/album/33870363) <br>🏛️ [sber_zvuk](https://zvuk.com/release/35985388) <br> 🌀 [shazam](https://www.shazam.com/album/1781826881/biela-single) <br> 🎵 [band_camp](https://zqwy.bandcamp.com/track/biela)<br>👌 [ok](https://ok.ru/music/album/122964261241800)
+>[!faq] Где Можно Послушать? 🤔 А Вот и Списочек! 🫡
+>🤔 [pond5](https://www.pond5.com/ru/royalty-free-music/item/323659995-mysterious-soundtrack-esoteric-atmosphere-orchestra-folk-pho) <br>🟢 [spotify](https://open.spotify.com/album/61O9fZ5G4yQeP6zbstNIGk) <br>🟪 [sumbit_hub](https://www.submithub.com/link/zqwy-biela) <br> 🎶 [sound_cloud](https://soundcloud.com/zqwy-sc/biela) <br> 🔊 [sound_click](https://soundclick.com/song/15175991) <br> 🎼 [Audiomack](https://audiomack.com/zqwy/song/biela) <br>🎤 [rap_chat](https://rapchat.com/beats/A3087890-EA50-11F0-AD02-0944064249B0) <br> 🍏 [apple_music](https://music.apple.com/ru/album/biela-single/1781826881) <br>📦 [amazon_music](https://music.amazon.com/albums/B0DLNFSV9N) <br>👍 [yandex_music](https://music.yandex.ru/album/33870363) <br>🥚 [mts_music](https://music.mts.ru/album/33870363) <br>🏛️ [sber_zvuk](https://zvuk.com/release/35985388) <br> 🌀 [shazam](https://www.shazam.com/album/1781826881/biela-single) <br> 🎵 [band_camp](https://zqwy.bandcamp.com/track/biela)<br>👌 [ok](https://ok.ru/music/album/122964261241800) <br> 🛜 [vk](https://vk.com/audio-2001995875_131995875) <br>🎆 [boomplay](https://www.boomplay.com/songs/187661112)
+>discogs
+>allmusic
+>[lastfm](https://www.last.fm/music/Zqwy/Biela)
+>
 
 >[!faq] Другие языки
 >English

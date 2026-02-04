@@ -21,15 +21,17 @@ instrument:
 epocha: 19st
 upc: "5063600285227"
 ISRC: AEA0Q2448892
+ISWC:
+created_with: vital (spectral warping wavetable synth) https://vital.audio/
 multi_url: https://links.freshtunes.com/66K1x
 daw: fl_studio
 emotions:
+tonal: Emin
 bpm: "110"
 distribution:
   - freshtunes
 alias: biela
 publish: "true"
-ISWC:
 ---
 <h1 align=center>
 <img src="../attachments/tracks/biela/covers/zqwy_biela_cover.jpeg" alt="zqwy_biela" />
@@ -50,17 +52,24 @@ ISWC:
 
 >[!faq] Музыкальные Характеристики
 ># аккорд: natural (Emin); ритм: повторяющийся бит; мелодия: contemplative, dark, dreamy; динамика: epic, discovery; тембр: спокойный; жанры: фонк (phonk), фолк (folk), эмбиент (ambient)
->тэги: chaotic, ethereal, haunting, magical, mystical, nature, reflective, repetitive, searching, mysterious,, ambient, esoteric, occultism, magic, scandinavian, nihilism, chthonic, arcane, secretive, spirituality, mythological, fantasy, 19th century, ritual, twilight, forbidden
+>тэги: chaotic, ethereal, haunting, magical, mystical, nature, reflective, repetitive, searching, mysterious, ambient, esoteric, occultism, magic, scandinavian, nihilism, chthonic, arcane, secretive, spirituality, mythological, fantasy, 19th century, ritual, twilight, forbidden
 
->[!faq] Саундтрек для
-># Трейлера, фильма, видеоигры, видео, рекламы, тиктока или шорта
+>[!faq] Саундтрек подходит для
+># Трейлера, фильма, видео, видеоигры 
 
 >[!faq] Где Можно Послушать? 🤔 А Вот и Списочек! 🫡
 >🤔 [pond5](https://www.pond5.com/ru/royalty-free-music/item/323659995-mysterious-soundtrack-esoteric-atmosphere-orchestra-folk-pho) <br>🟢 [spotify](https://open.spotify.com/album/61O9fZ5G4yQeP6zbstNIGk) <br>🟪 [sumbit_hub](https://www.submithub.com/link/zqwy-biela) <br> 🎶 [sound_cloud](https://soundcloud.com/zqwy-sc/biela) <br> 🔊 [sound_click](https://soundclick.com/song/15175991) <br> 🎼 [Audiomack](https://audiomack.com/zqwy/song/biela) <br>🎤 [rap_chat](https://rapchat.com/beats/A3087890-EA50-11F0-AD02-0944064249B0) <br> 🍏 [apple_music](https://music.apple.com/ru/album/biela-single/1781826881) <br>📦 [amazon_music](https://music.amazon.com/albums/B0DLNFSV9N) <br>👍 [yandex_music](https://music.yandex.ru/album/33870363) <br>🥚 [mts_music](https://music.mts.ru/album/33870363) <br>🏛️ [sber_zvuk](https://zvuk.com/release/35985388) <br> 🌀 [shazam](https://www.shazam.com/album/1781826881/biela-single) <br> 🎵 [band_camp](https://zqwy.bandcamp.com/track/biela)<br>👌 [ok](https://ok.ru/music/album/122964261241800) <br> 🛜 [vk](https://vk.com/audio-2001995875_131995875) <br>🎆 [boomplay](https://www.boomplay.com/songs/187661112)
->discogs
 >allmusic
 >[lastfm](https://www.last.fm/music/Zqwy/Biela)
->
+>[youtube](https://youtu.be/ybMHyWendr4)
+>[rumble](https://rumble.com/v75a70s-mysterious-soundtrack-esoteric-atmosphere-orchestra-folk-phonk-occultism-ma.html)
+>[rutube](https://rutube.ru/video/private/b584036244839371593c7eac5a6d5f04/?p=QL2isHruMBa-eo9OL3jANw)
+>[substack](https://open.substack.com/pub/zqwy/p/mysterious-soundtrack-esoteric-atmosphere?r=60rkgu&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+>[instagram](https://www.instagram.com/p/DUV0ycNknIG/)
+>[x](https://x.com/Z_Q_W_Y/status/2019078245929341111?s=20)
+>[Dzen](https://dzen.ru/video/watch/69837968e1c60e54b0af37f7)
+>[Mastodon](https://mastodon.social/@zqwy/116013468166612957)
+>[Facebook](https://www.facebook.com/share/v/1883aHUpMa/)
 
 >[!faq] Другие языки
 >English

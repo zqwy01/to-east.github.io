@@ -37,12 +37,12 @@ publish: "true"
 <img src="../attachments/tracks/biela/covers/zqwy_biela_cover.jpeg" alt="zqwy_biela" />
 </h1>
 
-<iframe src="https://audiomack.com//embed/zqwy/song/biela" scrolling="no" width="100%" height="300" frameborder="0" title="Biela"></iframe>
+<iframe src="https://archive.org/embed/1-zqwy-biela" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # Загадочный саундтрек: мистический, эзотерический оркестр
 
 >[!info] Описание Композиции
-> # Эпический скандинавский фольклёр. Мрачный эпос, таинственное фэнтези, эфирный фолк. Фолкотроника эмбиент и страшный фонк. Сумеречный скрытный и запретный оккультизм. Слияние восточного и западного, мифологический синкопированный хтонический нигилизм. Магическая энергия, арканическая ритуальность и спиритуальность.
+> # Эпический скандинавский фольклёр. Мрачный эпос, таинственное фэнтези, эфирный фолк. Фолкотроника эмбиент и страшный фонк. Сумеречный скрытный и запретный оккультизм. Слияние восточного и западного, атмосфера мифологическая, синкопированный хтонический нигилизм. Магическая энергия, арканическая ритуальность и спиритуальность.
 
 >[!abstract] Сюжет Композиции
 ># Белая лань с помощью [[algiz|руны]] осталась [[The_Remaining|одной из выживших]]. В отличие от тёмной лани, которая была связана с помощью [[Odal|другой руны]] и находилась по другую сторону [[music/long_play/Na_Hrane/Attachments/Lores/Na_Hrane|междумирья]]. Её суть - уничтожить всё на собственном пути!
@@ -51,7 +51,7 @@ publish: "true"
 ># Флейта, тальхарпа, пианино, ковбел, акустические и синтезированные ударные, а также перкуссии, синтезатор
 
 >[!faq] Музыкальные Характеристики
-># аккорд: natural (Emin); ритм: повторяющийся бит; мелодия: contemplative, dark, dreamy; динамика: epic, discovery; тембр: спокойный; жанры: фонк (phonk), фолк (folk), эмбиент (ambient)
+># Модальная гармония, аккорд: натуральный (Emin); ритм: повторяющийся бит; мелодия: contemplative, dark, dreamy; динамика: epic, discovery; тембр: спокойный; жанры: фонк (phonk), фолк (folk), эмбиент (ambient)
 >тэги: chaotic, ethereal, haunting, magical, mystical, nature, reflective, repetitive, searching, mysterious, ambient, esoteric, occultism, magic, scandinavian, nihilism, chthonic, arcane, secretive, spirituality, mythological, fantasy, 19th century, ritual, twilight, forbidden
 
 >[!faq] Саундтрек подходит для

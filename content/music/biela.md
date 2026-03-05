@@ -9,6 +9,7 @@ tags:
   - esoteric
   - epic
   - scandinavia
+  - dark
 date: 2024-11-03
 author: ZQWY
 cover: "[[zqwy_biela_cover.jpg]]"
@@ -37,7 +38,7 @@ publish: "true"
 <img src="../attachments/tracks/biela/covers/zqwy_biela_cover.jpeg" alt="zqwy_biela" />
 </h1>
 
-<iframe src="https://archive.org/embed/1-zqwy-biela" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/1-zqwy-biela" width="80%" height="100%" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # Загадочный саундтрек: мистический, эзотерический оркестр
 

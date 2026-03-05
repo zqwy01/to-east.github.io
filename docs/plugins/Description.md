@@ -4,12 +4,12 @@ tags:
   - plugin/transformer
 ---
 
-This plugin generates descriptions that are used as metadata for the HTML `head`, the [[RSS Feed]] and in [[folder and tag listings]] if there is no main body content, the description is used as the text between the title and the listing.
+This plugin generates descriptions that are used as metadata for the HTML `head`, the [[deploy/to-east.github.io/docs/features/RSS Feed]] and in [[deploy/to-east.github.io/docs/features/folder and tag listings]] if there is no main body content, the description is used as the text between the title and the listing.
 
-If the frontmatter contains a `description` property, it is used (see [[authoring content#Syntax]]). Otherwise, the plugin will do its best to use the first few sentences of the content to reach the target description length.
+If the frontmatter contains a `description` property, it is used (see [[deploy/to-east.github.io/docs/authoring content#Syntax]]). Otherwise, the plugin will do its best to use the first few sentences of the content to reach the target description length.
 
 > [!note]
-> For information on how to add, remove or configure plugins, see the [[configuration#Plugins|Configuration]] page.
+> For information on how to add, remove or configure plugins, see the [[deploy/to-east.github.io/docs/configuration#Plugins|Configuration]] page.
 
 This plugin accepts the following configuration options:
 

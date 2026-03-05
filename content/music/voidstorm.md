@@ -28,12 +28,13 @@ genre:
 instrument:
 epocha:
 upc: "5063673868327"
+isrc:
 multi_url: https://links.freshtunes.com/B7giN
 size_album: "20"
 distribution:
   - soundcheck
 daw: fl_studio
-alias: void
+alias: voidstorm
 publish: "true"
 ---
 <h1 align=center>

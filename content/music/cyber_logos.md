@@ -57,7 +57,7 @@ tags_check: "false"
 <img src="../attachments/tracks/cyber_logos/covers/zqwy_cyber_logos_cover.webp" alt="cyber_logos" />
 </h1>
 
-<iframe src="https://archive.org/details/cyber_logos" scrolling="no" width="100%" height="600" frameborder="0" title="cyber_logos"></iframe>
+<iframe src="https://archive.org/details/cyber_logos" scrolling="no" width="100%" height="500" frameborder="0" title="cyber_logos"></iframe>
 
 >[!abstract] Сюжет Композиции
 ># Кибер Логос состоит исключительно из данных, а не из органического или синтетического материала

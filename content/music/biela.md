@@ -37,7 +37,7 @@ seo_check: "false"
 tags_check: "false"
 ---
 <h1 align=center>
-<img src="../attachments/tracks/biela/covers/zqwy_biela_cover.jpeg" alt="zqwy_biela" />
+<img src="../attachments/tracks/biela/covers/zqwy_biela_cover.webp" alt="zqwy_biela" />
 </h1>
 
 <iframe src="https://archive.org/embed/1-zqwy-biela" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

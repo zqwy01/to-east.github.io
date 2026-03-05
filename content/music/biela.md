@@ -1,6 +1,7 @@
 ---
 title: biela
 alias: biela
+cover: "[[zqwy_biela_cover.jpg]]"
 description: "Загадочный саундтрек: мистический, эзотерический оркестр и эпический скандинавский фольклёр. Мрачный эпос, таинственное фэнтези, эфирный фолк. Фолкотроника эмбиент и фонк. Сумеречный скрытный и запретный оккультизм. Слияние восточного и западного, мифологический синкопированный хтонический нигилизм. Магическая энергия, арканическая ритуальность и спиритуальность."
 tags:
   - folk
@@ -13,7 +14,6 @@ tags:
   - dark
 date: 2024-11-03
 author: ZQWY
-cover: "[[zqwy_biela_cover.jpg]]"
 genre:
   - folk
   - ambient
@@ -33,6 +33,8 @@ bpm: "110"
 distribution:
   - freshtunes
 publish: "true"
+seo_check: "false"
+tags_check: "false"
 ---
 <h1 align=center>
 <img src="../attachments/tracks/biela/covers/zqwy_biela_cover.jpeg" alt="zqwy_biela" />

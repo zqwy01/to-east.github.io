@@ -1,6 +1,8 @@
 ---
 title: cyber_logos
-description:
+alias: cl
+cover: "[[zqwy_cyber_logos_cover.jpg]]"
+description: Кибер Логос состоит исключительно из данных, а не из органического или синтетического материала
 tags:
   - trap
   - hyperpop
@@ -27,39 +29,35 @@ tags:
   - psydub
   - dancepop
   - midtempo
+date: 2024-03-12
 author: ZQWY
-emotions:
-  - dark
 genre:
   - Hip-Hop
   - Electronic Music
-aliases:
-  - Кибер Логос
-  - киберлогос
-  - Кибернетический логос
-cssclasses:
-date: 2024-03-12
-cover: "[[zqwy_cyber_logos_cover.jpg]]"
 instrument:
   - Synthesizer
   - Sampler
 epocha: 22st
+emotions:
+  - dark
 upc: "5063600103408"
-multi_url: https://links.freshtunes.com/yo0Mp
-ISWC:
-daw: Fl Studio
-size_album:
+isrc:
+isws:
+daw: fl_studio
+size_album: "46"
+tonal: Emin, Amin
 bpm:
-alias: cl
 distribution:
   - freshtunes
 publish: "true"
+seo_check: "false"
+tags_check: "false"
 ---
 <h1 align=center>
-<img src="../attachments/tracks/cyber_logos/covers/zqwy_cyber_logos_cover.jpg" alt="cyber_logos" />
+<img src="../attachments/tracks/cyber_logos/covers/zqwy_cyber_logos_cover.webp" alt="cyber_logos" />
 </h1>
 
-<iframe src="https://audiomack.com//embed/zqwy/album/cyber-logos" scrolling="no" width="100%" height="800" frameborder="0" title="cyber_logos"></iframe>
+<iframe src="https://archive.org/details/cyber_logos" scrolling="no" width="100%" height="800" frameborder="0" title="cyber_logos"></iframe>
 
 >[!abstract] Сюжет Композиции
 ># Кибер Логос состоит исключительно из данных, а не из органического или синтетического материала
@@ -164,3 +162,6 @@ publish: "true"
 ## last_config
 
 ## null_resistance
+
+
+https://links.freshtunes.com/yo0Mp

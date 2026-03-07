@@ -28,7 +28,7 @@ alias: dark_human
 
 # Prompt: The vibe, the sense of inevitability and acceptance of something very scary
 
-# [[glioma| Listen Track]]
+# [[deploy/to-east.github.io/content/music/glioma| Listen Track]]
 ![[1_ZQWY_GLIOMA.wav]]
 
 ![[image-34860012.png]]

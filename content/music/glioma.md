@@ -67,14 +67,14 @@ tags_check: "false"
 | [deezer](https://link.deezer.com/s/32Dp3MmmJuzocpiFxakvj)                                                             |                                     | deployed |
 | 🌀 [shazam](https://www.shazam.com/album/1778619350/glioma-single)                                                    |                                     | deployed |
 | 🎵 [bandcamp](https://zqwy.bandcamp.com/track/glioma)                                                                 |                                     | deployed |
-| 🐼 Pandora:                                                                                                           |                                     |          |
+| 🐼 pandora                                                                                                            |                                     |          |
 | 🧊 [qobuz](https://www.qobuz.com/us-en/album/glioma-zqwy/d1tqdspzzqz0b)                                               |                                     | deployed |
-| [ok](https://ok.ru/music/album/122964431389452)                                                                       |                                     | deployed |
+| 👌 [ok](https://ok.ru/music/album/122964431389452)                                                                    |                                     | deployed |
 | 🌊 [tidal](https://tidal.com/album/398359094)                                                                         |                                     | deployed |
 | ⭕ [audius](https://audius.co/_zqwy_)                                                                                  |                                     |          |
 | 🌸 [flo](https://www.music-flo.com/detail/artist/406541046)                                                           |                                     |          |
 | allmusic                                                                                                              |                                     |          |
-| [lastfm](https://www.last.fm/music/Zqwy/Biela)                                                                        |                                     |          |
+| [lastfm](https://www.last.fm/music/Zqwy/Glioma)                                                                       |                                     |          |
 | [youtube](https://youtu.be/ybMHyWendr4)                                                                               |                                     |          |
 | [rumble](https://rumble.com/v75a70s-mysterious-soundtrack-esoteric-atmosphere-orchestra-folk-phonk-occultism-ma.html) |                                     |          |
 | [rutube](https://rutube.ru/video/private/b584036244839371593c7eac5a6d5f04/?p=QL2isHruMBa-eo9OL3jANw)                  |                                     |          |
@@ -93,3 +93,4 @@ tags_check: "false"
 | https://discord.com/                                                                                                  |                                     |          |
 | thumblr                                                                                                               |                                     |          |
 | pintrest                                                                                                              |                                     |          |
+| tiktok                                                                                                                |                                     |          |

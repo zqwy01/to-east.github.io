@@ -40,7 +40,8 @@ tags_check: "false"
 <img src="../attachments/tracks/biela/covers/zqwy_biela_cover.webp" alt="zqwy_biela" />
 </h1>
 
-<iframe src="https://archive.org/details/zqwy_biela" scrolling="no" width="80%" height="500" frameborder="0" title="cyber_logos"></iframe>
+
+<p align="center"> <iframe src="https://archive.org/details/zqwy_biela" scrolling="no" width="80%" height="450" align=center frameborder="0" title="cyber_logos"></iframe> </p>
 
 # Загадочный саундтрек: мистический, эзотерический оркестр!
 
@@ -62,7 +63,3 @@ tags_check: "false"
 
 >[!tip] Саундтрек подходит для
 ># Трейлера, фильма, видео, видеоигры 
-
->[!faq] Другие языки
->English
->Mysterious soundtrack. A mystical, esoteric orchestra and epic Scandinavian folklore. Dark epic, mysterious fantasy, ethereal folk. Folktronica ambient and eerie funk. Twilight, secretive, and forbidden occultism. A fusion of Eastern and Western, mythological syncopated chthonic nihilism. Magical energy, arcane ritual, and spirituality. 

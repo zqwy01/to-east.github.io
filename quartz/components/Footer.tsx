@@ -20,6 +20,8 @@ export default ((opts?: Options) => {
           <a href="https://www.de.to-east.org">de.to-east </a>
           <a href="https://www.fr.to-east.org">fr.to-east </a>
           <a href="https://www.po.to-east.org">po.to-east </a>
+          <br>
+          <a href="https://www.po.to-east.org">po.to-east </a>
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (

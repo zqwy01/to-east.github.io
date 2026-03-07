@@ -24,8 +24,8 @@ upc: "3617666042618"
 isrc: DGA0R2436051
 isws:
 daw: fl_studio
-tonal: Emin
-bpm:
+tonal: Cmaj
+bpm: "79"
 distribution:
   - soundcheck
 publish: "true"
@@ -40,7 +40,7 @@ tags_check: "false"
 <p align="center"> <iframe src="https://archive.org/details/zqwy_glioma" scrolling="no" width="80%" height="470" align=center frameborder="0" title="cyber_logos"></iframe> </p>
 
 >[!info] ОПИСАНИЕ  🎹
->Описание думается?
+>  #### Esoteric Ambient, Hopelessness Atmosphere (Contemplative Piano Soundtrack
 
 >[!abstract] СЮЖЕТ  📖
 >### В преддверии самозабвенного [[dystopian_future|уничтожение человечества]], наиболее уязвимым объектом для массовой атаки, оказался человеческий мозг. [[deploy/to-east.github.io/content/music/cyber_logos|Кибер логос]] в ходе успешного анализа уязвимостей, сформулировал скрытый способ атаки с помощью ярких и быстро мигающих вспышек. Поэтому реакция мозга доведенна до абсурда в [[not_diverse|отсутствие разнообразности]]? Исход человека привязан с бегом Акса в пустыни в поисках лабиринта. Гибель разума приводит к пустоте и инертном в бесконечном цикле [[voidstorm| бури пустоты]] которая засасывает внутрь своей нескончаемым разнообразие и в следствие - единообразие
@@ -56,7 +56,7 @@ tags_check: "false"
 | 🏓 [pond5](https://www.pond5.com/ru/royalty-free-music/item/292062079-glioma-dark-ambient-drone-sci-fi-cyber)         | buy                                 | deployed    |
 | 🟢𝄞 [spotify](https://open.spotify.com/track/5gAtei64CLdsaRv4SwgYzB?si=07b0831927254cf1)                             |                                     | deployed    |
 | 🟪 [sumbithub](https://www.submithub.com/artist/zqwy)                                                                 |                                     |             |
-| 🔊 soundclick http://soundclick.com/                                                                                  |                                     |             |
+| 🔊 [soundclick](https://soundclick.com/song/15210080)                                                                 | buy/streaming                       |             |
 | 🎤 [rapchat](https://rapchat.com/profile/340DB690-9E23-11EB-8017-D314B4DFDD5D)                                        |                                     |             |
 | [yandex_music](https://music.yandex.ru/album/33950497?utm_source=web&utm_medium=copy_link)<br>                        |                                     | deployed    |
 | 🥚 [mts_music](https://music.mts.ru/album/33950497)                                                                   |                                     | deployed    |

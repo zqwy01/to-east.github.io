@@ -37,7 +37,8 @@ tags_check: "false"
 <img src="../attachments/tracks/glioma/covers/zqwy_glioma_cover.webp" alt="glioma" />
 </h1>
 
-<iframe src="https://archive.org/details/zqwy_glioma" scrolling="no" width="100%" height="500" frameborder="0" title="cyber_logos"></iframe>
+<p align="center"> <iframe src="https://archive.org/details/zqwy_glioma" scrolling="no" width="80%" height="470" align=center frameborder="0" title="cyber_logos"></iframe> </p>
+
 
 >[!info] ОПИСАНИЕ  🎹
 >Описание думается?
@@ -91,6 +92,8 @@ tags_check: "false"
 | thumblr                                                                                                               |                                     |          |
 | pintrest                                                                                                              |                                     |          |
 | tiktok                                                                                                                |                                     |          |
+|                                                                                                                       |                                     |          |
+|                                                                                                                       |                                     |          |
 |                                                                                                                       |                                     |          |
 |                                                                                                                       |                                     |          |
 |                                                                                                                       |                                     |          |

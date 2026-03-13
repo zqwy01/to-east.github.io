@@ -40,7 +40,7 @@ tags_check: "false"
 <img src="../attachments/tracks/biela/covers/zqwy_biela_cover.webp" alt="zqwy_biela" />
 </h1>
 
-<p align="center"> <iframe src="https://archive.org/details/zqwy_biela" scrolling="no" width="100%" height="470" align=center frameborder="0" title="cyber_logos"></iframe> </p>
+<p align="center"> <iframe src="https://archive.org/details/zqwy_biela" scrolling="no" width="100%" height="500" align=center frameborder="0" title="cyber_logos"></iframe> </p>
 
 # Загадочный саундтрек: мистический, эзотерический оркестр!
 

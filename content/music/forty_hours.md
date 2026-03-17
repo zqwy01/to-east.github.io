@@ -8,9 +8,6 @@ tags:
   - industrial
   - basshouse
   - ambient
-aliases:
-  - электронная_музыка
-  - музыка zqwy
 emotions:
   - dark
 cssclasses:
@@ -22,6 +19,7 @@ genre:
 distribution:
   - freshtunes
 publish: "true"
+alias: fh
 ---
 <h1 align=center>
 <img src="Covers/ZQWY_FORTY_HOURS_BANNER.png" alt="Forty Hours - Ep" />

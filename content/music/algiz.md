@@ -37,12 +37,14 @@ publish: "true"
 alias: algiz
 distribution:
   - soundcheck
+seo_check: "false"
+tags_check: "false"
 ---
 <h1 align=center>
 <img src="attachments/tracks/algiz/covers/zqwy_algiz_cover.png" alt="Algiz" />
 </h1>
 
-<iframe src="https://audiomack.com//embed/zqwy/song/algiz" scrolling="no" width="100%" height="300" frameborder="0" title="Algiz"></iframe>
+<iframe src="https://archive.org/details/zqwy_algiz" scrolling="no" width="100%" height="500" frameborder="0" title="Algiz"></iframe>
 
 >[!abstract] Сюжет Композиции
 

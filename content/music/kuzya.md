@@ -1,5 +1,6 @@
 ---
 title: kuzya
+alias: kuzya
 tags:
   - ambient
   - piano
@@ -56,7 +57,7 @@ publish: "true"
 <img src="../attachments/tracks/kuzya/covers/zqwy_kuzya_cover.jpg" alt="kuzya" />
 </h1>
 
-<iframe src="https://audiomack.com//embed/zqwy/album/kuzya" scrolling="no" width="100%" height="1200" frameborder="0" title="kuzya"></iframe>
+<iframe src="https://archive.org/details/zqwy_kuzya" scrolling="no" width="100%" height="500" frameborder="0" title="kuzya"></iframe>
 
 # Дионисийческиаполонический гений
 

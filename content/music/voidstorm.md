@@ -19,7 +19,6 @@ tags:
   - wave
   - jazz
   - synthwave
-aliases:
 cssclasses:
 date: 2025-02-02
 author: ZQWY

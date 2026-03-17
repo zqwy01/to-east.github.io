@@ -31,7 +31,7 @@ publish: "true"
 <img src="../attachments/tracks/na_hrane/covers/ZQWY_NA_HRANE_COVER.png" alt="na_hrane" />
 </h1>
 
-<iframe src="https://audiomack.com//embed/zqwy/album/na-hrane" scrolling="no" width="100%" height="800" frameborder="0" title="na_hrane"></iframe>
+<iframe src="" scrolling="no" width="100%" height="500" frameborder="0" title="na_hrane"></iframe>
 
 # biela_dusa 🐻‍❄️
 

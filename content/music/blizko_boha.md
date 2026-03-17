@@ -4,16 +4,6 @@ description:
 tags:
   - phonk
   - ambient
-aliases:
-  - электронная_музыка
-  - слушать_электронную_музыку
-  - слушать zqwy
-  - музыка zqwy
-  - zqwy послушать
-  - близость к божественному
-  - близко к Богу
-  - ближе к богу
-  - фонк
 cssclasses:
 date: 2024-11-15
 author: ZQWY
@@ -39,6 +29,7 @@ bpm:
 distribution:
   - soundcheck
   - pond5
+alias: bb
 publish: "true"
 ---
 <h1 align=center>

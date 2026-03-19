@@ -28,10 +28,10 @@ distribution:
 publish: "true"
 ---
 <h1 align=center>
-<img src="" alt="zqwy_ax" />
+<img src="https://ia801809.us.archive.org/14/items/zqwy_axs/axolotl_cover_v1.webp" alt="zqwy_ax" />
 </h1>
 
-<iframe src="https://audiomack.com//embed/zqwy/album/axolotl" scrolling="no" width="100%" height="800" frameborder="0" title="Axolotl"></iframe>
+<iframe src="https://archive.org/details/zqwy_axs" scrolling="no" width="100%" height="500" frameborder="0" title="zqwy_axolotl"></iframe>
 
 # lilith
 

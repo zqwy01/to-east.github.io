@@ -19,6 +19,8 @@ epocha:
 bpm:
 daw: fl_studio
 upc: "5063827593310"
+isrc:
+isws:
 ISWC:
 multi_url:
 icon:
@@ -26,6 +28,8 @@ cssclasses:
 distribution:
   - freshtunes
 publish: "true"
+seo_check: "false"
+tags_check: "false"
 ---
 <h1 align=center>
 <img src="https://ia801809.us.archive.org/14/items/zqwy_axs/axolotl_cover_v1.webp" alt="zqwy_ax" />

@@ -1,7 +1,6 @@
 ---
 title: biela
 alias: biela
-cover: "[[zqwy_biela_cover.jpg]]"
 description: "Загадочный саундтрек: мистический, эзотерический оркестр и эпический скандинавский фольклёр. Мрачный эпос, таинственное фэнтези, эфирный фолк. Фолкотроника эмбиент и фонк. Сумеречный скрытный и запретный оккультизм. Слияние восточного и западного, мифологический синкопированный хтонический нигилизм. Магическая энергия, арканическая ритуальность и спиритуальность."
 tags:
   - folk
@@ -37,7 +36,7 @@ seo_check: "false"
 tags_check: "false"
 ---
 <h1 align=center>
-<img src="../attachments/tracks/biela/covers/zqwy_biela_cover.webp" alt="zqwy_biela" />
+<img src="https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp" alt="zqwy_biela" />
 </h1>
 
 <p align="center"> <iframe src="https://archive.org/details/zqwy_biela" scrolling="no" width="100%" height="500" align=center frameborder="0" title="cyber_logos"></iframe> </p>

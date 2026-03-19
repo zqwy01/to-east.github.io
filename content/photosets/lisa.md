@@ -1,10 +1,10 @@
 ---
-title: cat lisa
+title: cat_lisa
 tags:
 description:
 author: zqwy
 date: 2026-01-25
-created_with: canon e 60
+created_with: canon_e60
 cover:
 size_album:
 instrument:

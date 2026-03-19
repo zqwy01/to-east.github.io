@@ -1,12 +1,10 @@
 ---
 title: broken_space
+alias: bs
 description: ZQWY - Мысли о сломанном космосе
 tags:
   - sovietwave
   - ambient
-aliases:
-  - сломанный космос
-cssclasses:
 cover: "[[zqwy_broken_space_cover.jpg]]"
 date: 2024-11-17
 author: ZQWY
@@ -21,7 +19,7 @@ instrument:
 epocha: 20st
 size_album: single
 ISWC:
-daw: Fl Studio
+daw: fl_studio
 bpm:
 emotions:
 distribution:
@@ -30,7 +28,7 @@ publish: "true"
 ---
 
 <h1 align=center>
-<img src="../attachments/tracks/broken_space/covers/zqwy_broken_space_cover.jpg" alt="broken_space" />
+<img src="" alt="zqwy_broken_space" />
 </h1>
 
 <iframe src="https://audiomack.com//embed/zqwy/song/broken-space" scrolling="no" width="100%" height="252" frameborder="0" title="Broken Space"></iframe>

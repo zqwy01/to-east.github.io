@@ -41,7 +41,7 @@ seo_check: "false"
 tags_check: "false"
 ---
 <h1 align=center>
-<img src="attachments/tracks/algiz/covers/zqwy_algiz_cover.png" alt="zqwy_algiz" />
+<img src="https://ia600509.us.archive.org/4/items/zqwy_algiz/zqwy_algiz_cover.jpg" alt="zqwy_algiz" />
 </h1>
 
 <iframe src="https://archive.org/details/zqwy_algiz" scrolling="no" width="100%" height="500" frameborder="0" title="Algiz"></iframe>

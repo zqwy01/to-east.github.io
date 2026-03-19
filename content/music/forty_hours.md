@@ -1,5 +1,7 @@
 ---
 title: forty_hours
+alias: fh
+author: ZQWY
 description:
 tags:
   - electronic
@@ -12,14 +14,12 @@ emotions:
   - dark
 cssclasses:
 date: 2025-02-06
-author: ZQWY
 upc: "5063673882422"
 cover:
 genre:
 distribution:
   - freshtunes
 publish: "true"
-alias: fh
 ---
 <h1 align=center>
 <img src="Covers/ZQWY_FORTY_HOURS_BANNER.png" alt="zqwy_forty_hours" />

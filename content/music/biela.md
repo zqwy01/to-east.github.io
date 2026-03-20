@@ -21,9 +21,9 @@ tonal: Emin
 bpm: "110"
 distribution:
   - freshtunes
-publish: "true"
 seo_check: "false"
 tags_check: "false"
+publish: "true"
 ---
 <h1 align=center>
 <img src="https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp" alt="zqwy_biela" />
@@ -46,8 +46,6 @@ tags_check: "false"
 >[!faq] Где послушать? 🤔 А Вот и Списочек! 🫡 Репликация 
 
 <iframe name="player" class="player" src="https://archive.org/details/zqwy_biela" scrolling="no" width="100%" height="500" align=center frameborder="0" title="biela"></iframe>
-
-
 
 | 📀 [archive](https://archive.org/details/zqwy_biela) (deployed)                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -96,8 +94,9 @@ tags_check: "false"
 | pintrest                                                                                                                                       |
 | tiktok                                                                                                                                         |
 | ⛲ [freshtunes](https://links.freshtunes.com/66K1x)                                                                                             |
+| [to-east](https://www.to-east.org/music/biela)                                                                                                 |
 | [ru.to-east](https://www.ru.to-east.org/music/biela)                                                                                           |
-| en.to-east                                                                                                                                     |
+| [en.to-east](https://www.en.to-east.org/music/biela)                                                                                           |
 
 > [!faq] остальное ♾️
 >#### upc: 5063600285227 isrc: AEA0Q2448892

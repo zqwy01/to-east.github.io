@@ -41,6 +41,20 @@ tags_check: "false"
 
 <p align="center"> <iframe src="https://archive.org/details/zqwy_biela" scrolling="no" width="100%" height="500" align=center frameborder="0" title="cyber_logos"></iframe> </p>
 
+# Загадочный саундтрек: мистический, эзотерический оркестр!
+
+>[!info] описание  🎹
+> #### Эпический скандинавский фольклёр. Мрачный эпос, таинственное фэнтези, эфирный фолк. Фолкотроника эмбиент и страшный фонк. Сумеречный скрытный и запретный оккультизм. Слияние восточного и западного, атмосфера мифологическая, синкопированный хтонический нигилизм. Магическая энергия, арканическая ритуальность и спиритуальность
+
+>[!abstract] сюжет  📖
+>#### Белая лань с помощью [[algiz|руны]] осталась [[The_Remaining|одной из выживших]]. В отличие от тёмной лани, которая была связана с помощью [[Odal|другой руны]] и находилась по другую сторону [[music/long_play/Na_Hrane/Attachments/Lores/Na_Hrane|междумирья]]. Её суть - уничтожить всё на собственном пути!
+
+>[!done] список инструментов 🎵
+>#### Флейта, тальхарпа, пианино, ковбел, акустические и синтезированные ударные, а также перкуссии, синтезатор
+
+>[!hint] музыкальные характеристики 🔣
+>#### Модальная гармония, аккорд: натуральный (Emin); ритм: повторяющийся бит (110 ударов в минуту); мелодия: contemplative, dark, dreamy; динамика: epic, discovery; тембр: спокойный; жанры: фонк (phonk), фолк (folk), эмбиент (ambient)
+
 
 <style>
   .player { width:100%; height:400px; border:none; }
@@ -57,38 +71,20 @@ tags_check: "false"
   .nav a:hover { background:#e0e0e0; }
 </style>
 
-<div class="nav">
-  <a href="https://embed.music.apple.com/by/song/rotten-meat/1871546588"
-     target="player">Spotify</a>
 
-  <a href="https://www.youtube.com/embed/dQw4w9WgXcQ"
-     target="player">YouTube</a>
+<p align="center">
 
-  <a href="https://player.vimeo.com/video/76979871"
-     target="player">Vimeo</a>
-</div>
+<iframe name="player" class="player" src="https://archive.org/details/zqwy_biela" scrolling="no" width="100%" height="500" align=center frameborder="0" title="cyber_logos">
 
-<iframe name="player" class="player"
-        src="https://open.spotify.com/embed/track/7ouMYWpwJ422jRcDASZB7P"
-        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
 </iframe>
 
+<div class="nav">
+  <a href="https://embed.music.apple.com/by/song/rotten-meat/1871546588" target="player">😀</a>
+  <a href="https://archive.org/details/zqwy_biela" target="player">archive</a>
+  <a href="https://player.vimeo.com/video/76979871" target="player">Vimeo</a>
+</div>
 
-
-
-# Загадочный саундтрек: мистический, эзотерический оркестр!
-
->[!info] описание  🎹
-> #### Эпический скандинавский фольклёр. Мрачный эпос, таинственное фэнтези, эфирный фолк. Фолкотроника эмбиент и страшный фонк. Сумеречный скрытный и запретный оккультизм. Слияние восточного и западного, атмосфера мифологическая, синкопированный хтонический нигилизм. Магическая энергия, арканическая ритуальность и спиритуальность
-
->[!abstract] сюжет  📖
->#### Белая лань с помощью [[algiz|руны]] осталась [[The_Remaining|одной из выживших]]. В отличие от тёмной лани, которая была связана с помощью [[Odal|другой руны]] и находилась по другую сторону [[music/long_play/Na_Hrane/Attachments/Lores/Na_Hrane|междумирья]]. Её суть - уничтожить всё на собственном пути!
-
->[!done] список инструментов 🎵
->#### Флейта, тальхарпа, пианино, ковбел, акустические и синтезированные ударные, а также перкуссии, синтезатор
-
->[!hint] музыкальные характеристики 🔣
->#### Модальная гармония, аккорд: натуральный (Emin); ритм: повторяющийся бит (110 ударов в минуту); мелодия: contemplative, dark, dreamy; динамика: epic, discovery; тембр: спокойный; жанры: фонк (phonk), фолк (folk), эмбиент (ambient)
+</p>
 
 >[!faq] Где можно послушать? 🤔 А Вот и Списочек! 🫡 Репликация 
 

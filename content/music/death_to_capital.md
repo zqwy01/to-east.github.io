@@ -5,6 +5,7 @@ tags:
   - drone
   - noise
   - ambient
+author: ZQWY
 emotions:
   - dark
   - anxiety
@@ -19,11 +20,7 @@ emotions:
   - confident
   - century
 created_with: vital (spectral warping wavetable synth) https://vital.audio/
-aliases:
-cssclasses:
 date: 2024-11-19
-author: zqwy
-cover: "[[ZQWY_DEATH_TO_CAPITAL_COVER.jpg]]"
 genre:
   - Drone
   - Dark Ambient
@@ -45,14 +42,12 @@ alias: dtc
 distribution:
   - soundcheck
 publish: "true"
-tonal:
 ---
 
 <h1 align=center>
 <img src="../attachments/tracks/death_to_capital/covers/zqwy_death_to_capital_cover.jpg" alt="death_to_capital" />
 </h1>
 
-<iframe src="https://audiomack.com//embed/zqwy/album/death-to-capital" scrolling="no" width="100%" height="600" frameborder="0" title="death_to_capital"></iframe>
 
 # Кризисы, резкие всплески, эмциональные выпады. Смерть капитала не единственный резонный случай для подобного, это может быть и Death To Social и так далее. Суть в том, что это приводит к зрению в [[dystopian_future | утопичное будущее]].
 
@@ -68,3 +63,4 @@ tonal:
 
 # deal
 
+<iframe src="https://archive.org/details/death_to_capital" scrolling="no" width="100%" height="600" frameborder="0" title="death_to_capital"></iframe>

@@ -29,10 +29,8 @@ distribution:
 publish: "true"
 ---
 <h1 align=center>
-<img src="../attachments/tracks/cyber_absolutus/covers/zqwy_limon_cover.png" alt="cyber_absolutus" />
+<img src="https://dn720704.ca.archive.org/0/items/cyber_absolutus/zqwy_limon_cover.webp" alt="zqwy_cyber_absolutus" />
 </h1>
-
-<iframe src="https://audiomack.com//embed/zqwy/album/cyber-absolutus" scrolling="no" width="100%" height="800" frameborder="0" title="cyber_absolutus"></iframe>
 
 # sphere_wall
 # its_mizraim
@@ -42,3 +40,5 @@ publish: "true"
 # lord_skeleton
 # magpie_on_the_rock
 # rotten_meat
+
+<iframe src="https://archive.org/details/cyber_absolutus" scrolling="no" width="100%" height="500" frameborder="0" title="cyber_absolutus"></iframe>

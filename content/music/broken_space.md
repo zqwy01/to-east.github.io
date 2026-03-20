@@ -31,8 +31,6 @@ publish: "true"
 <img src="" alt="zqwy_broken_space" />
 </h1>
 
-<iframe src="" scrolling="no" width="100%" height="252" frameborder="0" title="Broken Space"></iframe>
-
 >[!abstract] Сюжет Композиции
 ># Подавляющая, гнетущая атмосфера безнадёжности и бессмысленности. Попытки человеческого разума, как пытки и поиски действительности, в реальности способной решительности в новом колонизаторстве.
 >
@@ -43,4 +41,4 @@ publish: "true"
 >[!faq] Какие Инструменты Используются?
 
 
-
+<iframe src="https://archive.org/details/zqwy_broken_space" scrolling="no" width="100%" height="500" frameborder="0" title="zqwy_broken_space"></iframe>

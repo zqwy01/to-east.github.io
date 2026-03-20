@@ -54,10 +54,8 @@ seo_check: "false"
 tags_check: "false"
 ---
 <h1 align=center>
-<img src="../attachments/tracks/cyber_logos/covers/zqwy_cyber_logos_cover.webp" alt="cyber_logos" />
+<img src="https://ia902908.us.archive.org/2/items/cyber_logos/zqwy_cyber_logos_cover_site.webp" alt="zqwy_cyber_logos" />
 </h1>
-
-<iframe src="https://archive.org/details/cyber_logos" scrolling="no" width="100%" height="500" frameborder="0" title="cyber_logos"></iframe>
 
 >[!abstract] Сюжет Композиции
 ># Кибер Логос состоит исключительно из данных, а не из органического или синтетического материала
@@ -68,6 +66,9 @@ tags_check: "false"
 >
 >## Его формирование уничтожило надежду человека, в последствие человек перестал стремится преодолевать и начал стремительно падать и самоуничтожаться из-за своей беспомощности и отсутствием необходимости в следствие автоматизации металла
 >
+
+<iframe src="https://archive.org/details/cyber_logos" scrolling="no" width="100%" height="500" frameborder="0" title="cyber_logos"></iframe>
+
 
 # [the_word_flesh_was](https://www.pond5.com/ru/royalty-free-music/item/293487558-electronic-cyber-dance-word-flesh-was) 🜊
 

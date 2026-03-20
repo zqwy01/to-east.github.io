@@ -41,6 +41,41 @@ tags_check: "false"
 
 <p align="center"> <iframe src="https://archive.org/details/zqwy_biela" scrolling="no" width="100%" height="500" align=center frameborder="0" title="cyber_logos"></iframe> </p>
 
+
+<style>
+  .player { width:100%; height:400px; border:none; }
+  .nav { margin-bottom:10px; }
+  .nav a {
+    display:inline-block;
+    padding:8px 12px;
+    margin-right:5px;
+    background:#f0f0f0;
+    color:#000;
+    text-decoration:none;
+    border-radius:4px;
+  }
+  .nav a:hover { background:#e0e0e0; }
+</style>
+
+<div class="nav">
+  <a href="https://embed.music.apple.com/by/song/rotten-meat/1871546588"
+     target="player">Spotify</a>
+
+  <a href="https://www.youtube.com/embed/dQw4w9WgXcQ"
+     target="player">YouTube</a>
+
+  <a href="https://player.vimeo.com/video/76979871"
+     target="player">Vimeo</a>
+</div>
+
+<iframe name="player" class="player"
+        src="https://open.spotify.com/embed/track/7ouMYWpwJ422jRcDASZB7P"
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+</iframe>
+
+
+
+
 # Загадочный саундтрек: мистический, эзотерический оркестр!
 
 >[!info] описание  🎹

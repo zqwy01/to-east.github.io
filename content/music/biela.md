@@ -13,17 +13,7 @@ tags:
   - dark
 date: 2024-11-03
 author: ZQWY
-genre:
-  - folk
-  - ambient
-  - phonk
-  - orchestra
-instrument:
 epocha: 19st
-emotions:
-  - dark
-upc: "5063600285227"
-isrc: AEA0Q2448892
 isws:
 created_with: vital (spectral warping wavetable synth) https://vital.audio/
 daw: fl_studio
@@ -41,7 +31,7 @@ tags_check: "false"
 
 # Загадочный саундтрек: мистический, эзотерический оркестр!
 
->[!info] описание  🎹
+>[!info] # Описание:
 > #### Эпический скандинавский фольклёр. Мрачный эпос, таинственное фэнтези, эфирный фолк. Фолкотроника эмбиент и страшный фонк. Сумеречный скрытный и запретный оккультизм. Слияние восточного и западного, атмосфера мифологическая, синкопированный хтонический нигилизм. Магическая энергия, арканическая ритуальность и спиритуальность
 
 >[!abstract] сюжет  📖
@@ -53,91 +43,9 @@ tags_check: "false"
 >[!hint] музыкальные характеристики 🔣
 >#### Модальная гармония, аккорд: натуральный (Emin); ритм: повторяющийся бит (110 ударов в минуту); мелодия: contemplative, dark, dreamy; динамика: epic, discovery; тембр: спокойный; жанры: фонк (phonk), фолк (folk), эмбиент (ambient)
 
+<iframe name="player" class="player" src="https://archive.org/details/zqwy_biela" scrolling="no" width="100%" height="500" align=center frameborder="0" title="biela"></iframe>
 
-<style>
-	.player { width:100%; height:400px; border:none; }
-	.nav { margin-bottom:10px; }
-	.nav a {
-		display:inline-block;
-		padding:8px 12px;
-		margin-right:5px;
-		background:#f0f0f0;
-		color:#000;
-		text-decoration:none;
-		border-radius:4px;
-		}
-	.nav a:hover { background:#e0e0e0; }
-	
-	/* Пример: иконка добавлена через ::after */
-	a::after {
-	    content: none !important;   /* убирает текст/символ */
-	    background: none !important;/* убирает фон‑изображение */
-	}
-	
-	/* Если иконка задаётся как background у ссылки */
-	a {
-	    background-image: none !important;
-	}
-	
-	/* Если используется класс, например .external-link */
-	a.external-link::after {
-	    display: none !important;
-	}
-</style>
-
-
-<p align="center">
-
-<iframe name="player" class="player" src="https://archive.org/details/zqwy_biela" scrolling="no" width="100%" height="500" align=center frameborder="0" title="cyber_logos">
-
-</iframe>
-
-<div class="nav">
-	<a href="https://archive.org/details/zqwy_biela" height="500" target="player">📀</a>
-	<a href="https://audiomack.com//embed/zqwy/song/biela" target="player">🎼</a>
-	<a href="https://embed.music.apple.com/by/song/rotten-meat/1871546588" target="player" height="50%">🍏</a>
-	<a href="" target="player">🎼</a>
-	<a href="https://music.amazon.com/embed/B0DLNFSV9N/?id=Mz3uATJ8u3" target="player">📦</a>
-	<a href="https://www.pond5.com/ru/royalty-free-music/item/323659995-mysterious-soundtrack-esoteric-atmosphere-orchestra-folk-pho" target="player">🏓</a>
-	<a href="https://open.spotify.com/embed/album/61O9fZ5G4yQeP6zbstNIGk?utm_source=generator&theme=0" target="player">🟢𝄞</a>
-	<a href="" target="player">🟪</a>
-	<a href="https://soundclick.com/song/15175991" target="player">🔊</a>
-	<a href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1949262839&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" target="player">🎶</a>
-	<a href="https://rapch.at/1g3wAW2ZE1b" target="player">🎤</a>
-	<a href="https://music.yandex.ru/iframe/album/33870363" height="50%" target="player">👏</a>
-	<a href="https://music.mts.ru/widget/album/33870363?widgetId=ezdaoBYGys" target="player">🥚</a>
-	<a href="https://zvuk.com/embed/track?id=141040970" target="player">🏛️</a>
-	<a href="" target="player">🦇</a>
-	<a href="" target="player">🌀</a>
-	<a href="https://bandcamp.com/EmbeddedPlayer/track=3823205462/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" target="player">🎵</a>
-	<a href="" target="player">🐼</a>
-	<a href="" target="player">🧊</a>
-	<a href="https://vk.com/audio-2001995875_131995875" target="player">🔵</a>
-	<a href="https://www.boomplay.com/embed/187661112/MUSIC?colType=2&colID=15190531" target="player">💥</a>
-	<a href="https://ok.ru/music/album/122964261241800" target="player">👌</a>
-	<a href="https://embed.tidal.com/albums/397033390" target="player">🌊</a>
-	<a href="" target="player">⭕</a>
-	<a href="" target="player">🌸</a>
-	<a href="" target="player">⏮️</a>
-	<a href="https://www.youtube.com/embed/ybMHyWendr4?si=PIJOswZbsdSxR5zS" target="player">🔴🧪</a>
-	<a href="https://rumble.com/embed/v733j0k/?pub=4" target="player">🚙</a>
-	<a href="https://rutube.ru/play/embed/b584036244839371593c7eac5a6d5f04" target="player">🧪</a>
-	<a href="https://zqwy.substack.com/p/mysterious-soundtrack-esoteric-atmosphere" target="player">➖</a>
-	<a href="" target="player">📷</a>
-	<a href="" target="player">X</a>
-	<a href="https://dzen.ru/embed/ouUbPjRILAAA?from_block=partner&from=zen&mute=0&autoplay=0&tv=0" target="player">💆</a>
-	<a href="https://mastodon.social/@zqwy/116013468166612957/embed" target="player">🐘</a>
-	<a href="" target="player">📘</a>
-	<a href="" target="player">🍢</a>
-	<a href="" target="player">☁️</a>
-	<a href="" target="player">🧵</a>
-	<a href="" target="player">⛲</a>
-	
-</div>
-
-</p>
-
->[!faq] Где можно послушать? 🤔 А Вот и Списочек! 🫡 Репликация 
+>[!faq] Где послушать? 🤔 А Вот и Списочек! 🫡 Репликация 
 
 | site                                                                                                                                         | type                                | status                         |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------ |

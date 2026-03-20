@@ -68,9 +68,20 @@ tags_check: "false"
 		}
 	.nav a:hover { background:#e0e0e0; }
 	
+	/* Пример: иконка добавлена через ::after */
 	a::after {
-		content: none !important;   /* убирает текст/символ */
-		background: none !important;/* убирает фон‑изображение */
+	    content: none !important;   /* убирает текст/символ */
+	    background: none !important;/* убирает фон‑изображение */
+	}
+	
+	/* Если иконка задаётся как background у ссылки */
+	a {
+	    background-image: none !important;
+	}
+	
+	/* Если используется класс, например .external-link */
+	a.external-link::after {
+	    display: none !important;
 	}
 </style>
 

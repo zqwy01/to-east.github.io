@@ -22,7 +22,6 @@ daw: fl_studio
 upc: "3617666042601"
 ISWC:
 bpm:
-emotions:
 publish: "true"
 alias: algiz
 distribution:

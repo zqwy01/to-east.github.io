@@ -39,8 +39,6 @@ tags_check: "false"
 <img src="https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp" alt="zqwy_biela" />
 </h1>
 
-<p align="center"> <iframe src="https://archive.org/details/zqwy_biela" scrolling="no" width="100%" height="500" align=center frameborder="0" title="cyber_logos"></iframe> </p>
-
 # Загадочный саундтрек: мистический, эзотерический оркестр!
 
 >[!info] описание  🎹
@@ -173,11 +171,6 @@ tags_check: "false"
 | pintrest                                                                                                                                     |                                     |                                |
 | tiktok                                                                                                                                       |                                     |                                |
 | ⛲ [freshtunes](https://links.freshtunes.com/66K1x)                                                                                           | distrub                             | no ready                       |
-|                                                                                                                                              |                                     |                                |
-|                                                                                                                                              |                                     |                                |
-|                                                                                                                                              |                                     |                                |
-|                                                                                                                                              |                                     |                                |
-|                                                                                                                                              |                                     |                                |
 
 > [!faq] остальное ♾️
 >#### upc: 5063600285227 isrc: AEA0Q2448892

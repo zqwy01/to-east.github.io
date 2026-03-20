@@ -5,6 +5,7 @@ tags:
   - drone
   - noise
   - ambient
+  - soundscape
 author: ZQWY
 emotions:
   - dark

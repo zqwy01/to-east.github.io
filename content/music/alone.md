@@ -3,6 +3,8 @@ title: alone
 tags:
   - house
   - dancepop
+  - jungle
+  - drumandbass
 icon: Fas1
 aliases:
 cssclasses:

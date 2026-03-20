@@ -31,7 +31,7 @@ publish: "true"
 <img src="" alt="zqwy_broken_space" />
 </h1>
 
-<iframe src="https://audiomack.com//embed/zqwy/song/broken-space" scrolling="no" width="100%" height="252" frameborder="0" title="Broken Space"></iframe>
+<iframe src="" scrolling="no" width="100%" height="252" frameborder="0" title="Broken Space"></iframe>
 
 >[!abstract] Сюжет Композиции
 ># Подавляющая, гнетущая атмосфера безнадёжности и бессмысленности. Попытки человеческого разума, как пытки и поиски действительности, в реальности способной решительности в новом колонизаторстве.

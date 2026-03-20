@@ -1,7 +1,6 @@
 ---
 title: glioma
 alias: glioma
-cover: "[[zqwy_glioma_cover.jpg]]"
 description: В преддверии самозабвенного уничтожение человечества, наиболее уязвимым объектом для массовой атаки, оказался человеческий мозг.
 tags:
   - drone
@@ -11,12 +10,6 @@ tags:
   - noise
 date: 2024-11-14
 author: ZQWY
-genre:
-  - Drone
-  - Dark Ambient
-  - Cinematic
-  - noise
-instrument: Synthesizer
 epocha: 19st
 emotions:
   - dark
@@ -28,9 +21,9 @@ tonal: Cmaj
 bpm: "79"
 distribution:
   - soundcheck
-publish: "true"
 seo_check: "false"
 tags_check: "false"
+publish: "true"
 ---
 
 <h1 align=center>

@@ -17,20 +17,10 @@ emotional:
   - Sorrow
   - Sadness
   - Remorse
-genre:
-  - Piano
-  - Minimalism
-  - Dark Piano
-  - Folk
-  - Cinematic
-  - Modern
-  - Classical
 epocha: 18st
 daw: fl_studio
 upc: "3617666042601"
 ISWC:
-multi_url:
-cssclasses:
 bpm:
 emotions:
 publish: "true"
@@ -43,8 +33,6 @@ tags_check: "false"
 <h1 align=center>
 <img src="https://ia600509.us.archive.org/4/items/zqwy_algiz/zqwy_algiz_cover.jpg" alt="zqwy_algiz" />
 </h1>
-
-<iframe src="https://archive.org/details/zqwy_algiz" scrolling="no" width="100%" height="500" frameborder="0" title="Algiz"></iframe>
 
 >[!abstract] Сюжет Композиции
 ># Алгиз - защита связи между ланями  
@@ -64,3 +52,5 @@ tags_check: "false"
 
 
 >[!faq] Какие Инструменты Используются?
+
+<iframe src="https://archive.org/details/zqwy_algiz" scrolling="no" width="100%" height="500" frameborder="0" title="Algiz"></iframe>

@@ -55,18 +55,23 @@ tags_check: "false"
 
 
 <style>
-  .player { width:100%; height:400px; border:none; }
-  .nav { margin-bottom:10px; }
-  .nav a {
-    display:inline-block;
-    padding:8px 12px;
-    margin-right:5px;
-    background:#f0f0f0;
-    color:#000;
-    text-decoration:none;
-    border-radius:4px;
-  }
-  .nav a:hover { background:#e0e0e0; }
+	.player { width:100%; height:400px; border:none; }
+	.nav { margin-bottom:10px; }
+	.nav a {
+		display:inline-block;
+		padding:8px 12px;
+		margin-right:5px;
+		background:#f0f0f0;
+		color:#000;
+		text-decoration:none;
+		border-radius:4px;
+		}
+	.nav a:hover { background:#e0e0e0; }
+	
+	a::after {
+		content: none !important;   /* убирает текст/символ */
+		background: none !important;/* убирает фон‑изображение */
+	}
 </style>
 
 
@@ -77,9 +82,9 @@ tags_check: "false"
 </iframe>
 
 <div class="nav">
-	<a href="https://archive.org/details/zqwy_biela" height="300" target="player">📀</a>
+	<a href="https://archive.org/details/zqwy_biela" height="500" target="player">📀</a>
 	<a href="https://audiomack.com//embed/zqwy/song/biela" target="player">🎼</a>
-	<a href="https://embed.music.apple.com/by/song/rotten-meat/1871546588" target="player">🍏</a>
+	<a href="https://embed.music.apple.com/by/song/rotten-meat/1871546588" target="player" height="50%">🍏</a>
 	<a href="" target="player">🎼</a>
 	<a href="https://music.amazon.com/embed/B0DLNFSV9N/?id=Mz3uATJ8u3" target="player">📦</a>
 	<a href="https://www.pond5.com/ru/royalty-free-music/item/323659995-mysterious-soundtrack-esoteric-atmosphere-orchestra-folk-pho" target="player">🏓</a>
@@ -88,7 +93,7 @@ tags_check: "false"
 	<a href="https://soundclick.com/song/15175991" target="player">🔊</a>
 	<a href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1949262839&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" target="player">🎶</a>
 	<a href="https://rapch.at/1g3wAW2ZE1b" target="player">🎤</a>
-	<a href="https://music.yandex.ru/iframe/album/33870363" target="player">👏</a>
+	<a href="https://music.yandex.ru/iframe/album/33870363" height="50%" target="player">👏</a>
 	<a href="https://music.mts.ru/widget/album/33870363?widgetId=ezdaoBYGys" target="player">🥚</a>
 	<a href="https://zvuk.com/embed/track?id=141040970" target="player">🏛️</a>
 	<a href="" target="player">🦇</a>

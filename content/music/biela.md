@@ -79,9 +79,46 @@ tags_check: "false"
 </iframe>
 
 <div class="nav">
-  <a href="https://embed.music.apple.com/by/song/rotten-meat/1871546588" target="player">😀</a>
-  <a href="https://archive.org/details/zqwy_biela" target="player">archive</a>
-  <a href="https://player.vimeo.com/video/76979871" target="player">Vimeo</a>
+	<a href="https://archive.org/details/zqwy_biela" height="300" target="player">📀</a>
+	<a href="https://audiomack.com//embed/zqwy/song/biela" target="player">🎼</a>
+	<a href="https://embed.music.apple.com/by/song/rotten-meat/1871546588" target="player">🍏</a>
+	<a href="" target="player">🎼</a>
+	<a href="https://music.amazon.com/embed/B0DLNFSV9N/?id=Mz3uATJ8u3" target="player">📦</a>
+	<a href="https://www.pond5.com/ru/royalty-free-music/item/323659995-mysterious-soundtrack-esoteric-atmosphere-orchestra-folk-pho" target="player">🏓</a>
+	<a href="https://open.spotify.com/embed/album/61O9fZ5G4yQeP6zbstNIGk?utm_source=generator&theme=0" target="player">🟢𝄞</a>
+	<a href="" target="player">🟪</a>
+	<a href="https://soundclick.com/song/15175991" target="player">🔊</a>
+	<a href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1949262839&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" target="player">🎶</a>
+	<a href="https://rapch.at/1g3wAW2ZE1b" target="player">🎤</a>
+	<a href="https://music.yandex.ru/iframe/album/33870363" target="player">👏</a>
+	<a href="https://music.mts.ru/widget/album/33870363?widgetId=ezdaoBYGys" target="player">🥚</a>
+	<a href="https://zvuk.com/embed/track?id=141040970" target="player">🏛️</a>
+	<a href="" target="player">🦇</a>
+	<a href="" target="player">🌀</a>
+	<a href="https://bandcamp.com/EmbeddedPlayer/track=3823205462/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" target="player">🎵</a>
+	<a href="" target="player">🐼</a>
+	<a href="" target="player">🧊</a>
+	<a href="https://vk.com/audio-2001995875_131995875" target="player">🔵</a>
+	<a href="https://www.boomplay.com/embed/187661112/MUSIC?colType=2&colID=15190531" target="player">💥</a>
+	<a href="https://ok.ru/music/album/122964261241800" target="player">👌</a>
+	<a href="https://embed.tidal.com/albums/397033390" target="player">🌊</a>
+	<a href="" target="player">⭕</a>
+	<a href="" target="player">🌸</a>
+	<a href="" target="player">⏮️</a>
+	<a href="https://www.youtube.com/embed/ybMHyWendr4?si=PIJOswZbsdSxR5zS" target="player">🔴🧪</a>
+	<a href="https://rumble.com/embed/v733j0k/?pub=4" target="player">🚙</a>
+	<a href="https://rutube.ru/play/embed/b584036244839371593c7eac5a6d5f04" target="player">🧪</a>
+	<a href="https://zqwy.substack.com/p/mysterious-soundtrack-esoteric-atmosphere" target="player">➖</a>
+	<a href="" target="player">📷</a>
+	<a href="" target="player">X</a>
+	<a href="https://dzen.ru/embed/ouUbPjRILAAA?from_block=partner&from=zen&mute=0&autoplay=0&tv=0" target="player">💆</a>
+	<a href="https://mastodon.social/@zqwy/116013468166612957/embed" target="player">🐘</a>
+	<a href="" target="player">📘</a>
+	<a href="" target="player">🍢</a>
+	<a href="" target="player">☁️</a>
+	<a href="" target="player">🧵</a>
+	<a href="" target="player">⛲</a>
+	
 </div>
 
 </p>
@@ -99,7 +136,7 @@ tags_check: "false"
 | 🟪 [sumbithub](https://www.submithub.com/link/zqwy-biela)                                                                                    | multi-link                          | 50/50, need upload other links |
 | 🔊 [sound_click](https://soundclick.com/song/15175991)                                                                                       | buy/streaming                       | deployed                       |
 | 🎶 [sound_cloud](https://soundcloud.com/zqwy-sc/biela)                                                                                       | streaming                           | deployed                       |
-| 🎤 [rapchat](https://rapchat.com/profile/340DB690-9E23-11EB-8017-D314B4DFDD5D))                                                              | streaming/recording                 | deployed                       |
+| 🎤 [rapchat](https://rapchat.com/profile/340DB690-9E23-11EB-8017-D314B4DFDD5D)                                                               | streaming/recording                 | deployed                       |
 | 👏 [yandex_music](https://music.yandex.ru/album/33870363?utm_source=web&utm_medium=copy_link)<br>                                            | streaming                           | deployed                       |
 | 🥚 [mts_music](https://music.mts.ru/album/33870363)                                                                                          | streaming                           | deployed                       |
 | 🏛️ [sber_zvuk](https://zvuk.com/track/141040970)                                                                                            | streaming                           | deployed                       |
@@ -107,7 +144,7 @@ tags_check: "false"
 | 🌀 [shazam](https://www.shazam.com/album/1781826881/biela-single)                                                                            |                                     | deployed                       |
 | 🎵 [bandcamp](https://zqwy.bandcamp.com/track/biela)                                                                                         |                                     | deployed                       |
 | 🐼 pandora                                                                                                                                   |                                     |                                |
-| 🧊 [qobuz](https://www.qobuz.com/us-en/album/glioma-zqwy/d1tqdspzzqz0b)                                                                      | streaming/lossless                  | no_released                    |
+| 🧊 qobuz                                                                                                                                     | streaming/lossless                  | no_released                    |
 | 🔵 [vk](https://vk.com/audio-2001995875_131995875)                                                                                           | streaming                           | deployed                       |
 | 💥 [boomplay](https://www.boomplay.com/songs/187661112)                                                                                      | streaming                           | deployed                       |
 | 👌 [ok](https://ok.ru/music/album/122964261241800)                                                                                           | streaming                           | deployed                       |

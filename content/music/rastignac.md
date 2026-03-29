@@ -1,36 +1,28 @@
 ---
 title: rastignac
-description:
-tags:
-  - darkhouse
-  - darkwave
-aliases:
-  - электронная_музыка
-  - слушать_электронную_музыку
-  - слушать zqwy
-  - музыка zqwy
-  - zqwy послушать
-  - растиньяк
-cssclasses:
-date: 2025-08-18
-author: ZQWY
-cover: "[[RASTIGNAC_ZQWY_COVER.jpg]]"
-genre:
-  - Techno
-instrument:
-  - Synthesizer
-epocha: 22st
-upc: "789550998356"
-multi_url: https://onerpm.link/331657192749
-ISWC:
-emotional:
-icon: FasClipboardUser
-distribution:
-  - onerpm
-publish: "true"
+author: zqwy
+alias: ra
+aliases: 
+tags: 
+- techno
+- darkhouse
+- darkwave
+description: Растиньяк? Ремиссия? Реквием? Или это всё в реверсии? Человеческая суть заключенная в Некто. Заключение души в Некто, в ходе разрушение города и воплощение Нект
+date: 
+publish: true
 ---
 
-<iframe src="https://audiomack.com//embed/zqwy/song/rastignac" scrolling="no" width="100%" height="252" frameborder="0" title="Rastignac"></iframe>
+<h1 align=center>
+<img src="" alt="zqwy_rastignac"/>
+</h1>
 
-## Растиньяк? Ремиссия? Реквием? Или это всё в реверсии? Человеческая суть заключенная в [[someone|Некто]]. 
-## Заключение души в Некто, в ходе разрушение города и воплощение Некто через множество эпох  
+>[!abstract] 
+> #### Растиньяк? Ремиссия? Реквием? Или это всё в реверсии? Человеческая суть заключенная в Некто. Заключение души в Некто, в ходе разрушение города и воплощение Некто через множество эпох
+
+>[!info] 
+> #### 
+
+>[!done] Музыкальные Инструменты:
+> #### synth
+
+<iframe name="player" class="player" src="" scrolling="no" width="100%" height="500" align=center frameborder="0" title="zqwy_rastignac"></iframe>

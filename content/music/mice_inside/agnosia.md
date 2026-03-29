@@ -1,0 +1,26 @@
+---
+title: agnosia
+author: zqwy
+alias: agnosia
+aliases: 
+tags: 
+- piano
+description: 
+date: 2026-01-03
+publish: true
+---
+
+<h1 align=center>
+<img src="" alt="zqwy_agnosia"/>
+</h1>
+
+>[!abstract] 
+> #### 
+
+>[!info] 
+> #### Пинанино, минимализм, спокойное, расслабляющее, мечтательное, созерцательное творческое. Тембр мягкий, регистр от пятая до шестой октавы. Композиция состоит из двух частей, первая часть медленное легато, а затем ускорение в арпеджио. Ритм от медленного до средне-быстрого, тональность Emin, между минорной и мажорной. Настроение биполярное. Саундтрек готов для минималистичной игры или сцены.
+
+>[!done] Музыкальные Инструменты:
+> #### 
+
+<iframe name="player" class="player" src="" scrolling="no" width="100%" height="500" align=center frameborder="0" title="zqwy_agnosia"></iframe>

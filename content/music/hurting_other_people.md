@@ -1,36 +1,27 @@
 ---
 title: hurting_other_people
-description:
-tags:
-  - phonk
-  - postrock
-aliases:
-  - электронная_музыка
-  - слушать_электронную_музыку
-  - слушать zqwy
-  - музыка zqwy
-  - zqwy послушать
-  - уничтожение земли
-cssclasses:
-date: 2023-12-24
-author: ZQWY
-cover:
-genre:
-  - Phonk
-  - Electro
-instrument:
-  - Cowbell
-  - Synthesizer
-epocha: 21st
-upc: "720167164949"
-multi_url: https://onerpm.link/895605872012
+author: zqwy
 alias: hop
-distribution:
-  - onerpm
-publish: "true"
+aliases: 
+tags: 
+- phonk
+- postrock 
+description: Тайная ненависть в стремление к разрушению мира, превышала все мыслимые органические возможности этого мира. 
+date: 2023-12-24
+publish: true
 ---
 
-<iframe src="https://audiomack.com//embed/zqwy/song/hurting-other-people" scrolling="no" width="100%" height="300" frameborder="0" title="Hurting Other People"></iframe>
+<h1 align=center>
+<img src="https://ia600704.us.archive.org/29/items/zqwy_hurting_other_people/zqwy_hurting_other_people_site.webp" alt="zqwy_hurting_other_people"/>
+</h1>
 
-## Тайная ненависть [[Некто]] в стремление к разрушению мира, превышала все мыслимые органические возможности этого мира. 
+>[!abstract] 
+> #### Тайная ненависть в стремление к разрушению мира, превышала все мыслимые органические возможности этого мира. 
 
+>[!info] 
+> #### 
+
+>[!done] Музыкальные Инструменты:
+> #### 
+
+<iframe name="player" class="player" src="https://archive.org/details/zqwy_hurting_other_people" scrolling="no" width="100%" height="500" align=center frameborder="0" title="zqwy_hurting_other_people"></iframe>

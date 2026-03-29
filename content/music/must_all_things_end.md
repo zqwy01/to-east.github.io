@@ -1,49 +1,28 @@
 ---
 title: must_all_things_end
-tags:
-  - metal
-  - phonk
-aliases:
-  - электронная_музыка
-  - слушать_электронную_музыку
-  - слушать zqwy
-  - музыка zqwy
-  - zqwy послушать
-cssclasses:
-date: 2024-12-02
-author: ZQWY
-icon: RaDeathSkull
-cover: "[[zqwy_must_all_things_end_cover.jpg]]"
-genre:
-  - PostMetal
-  - NuclearMetal
-  - Phonk
-  - PhonkMetal
-instrument:
-  - Synthesizer
-  - Guitar
-  - Cowbell
-  - Flute
-epocha: 20st
-upc: "3617666893715"
-multi_url:
-ISWC:
-emotional: apocalypse
-daw: Fl Studio
-size_album: single
+author: zqwy
 alias: mate
-distribution:
-  - soundcheck
-  - pond5
-publish: "true"
+aliases: 
+tags: 
+- metal
+- phonk
+- nuclear
+description: Эпоха уничтожение мира - катарсис события приближение уничтожения мира свершился, угрозы пред живыми, оказались не пустыми обещаниями, а воплощением идейне разн
+date: 2024-12-02
+publish: true
 ---
 
 <h1 align=center>
-<img src="../attachments/tracks/must_all_things_end/covers/zqwy_must_all_things_end_cover.jpg" width='100%' height='100%' alt="must_all_things_end" />
+<img src="https://archive.org/download/zqwy_must_all_things_end/zqwy_must_all_things_end_cover_site.webp" alt="zqwy_must_all_things_end"/>
 </h1>
 
-<iframe src="https://audiomack.com//embed/zqwy/song/must-all-things-end" scrolling="no" width="100%" height="252" frameborder="0" title="MUST ALL THINGS END"></iframe>
+>[!abstract] 
+> #### Эпоха уничтожение мира - катарсис события приближение уничтожения мира свершился, угрозы пред живыми, оказались не пустыми обещаниями, а воплощением идейне разнообразности
 
-# [must_all_things_end](https://www.pond5.com/ru/royalty-free-music/item/293667835-electronic-cyber-dance-must-all-things-end)
+>[!info] 
+> #### 
 
-## Эпоха уничтожение мира - катарсис события приближение уничтожения мира свершился, угрозы пред живыми, оказались не пустыми обещаниями, а воплощением идей[[not_diverse| не разнообразности]]
+>[!done] Музыкальные Инструменты:
+> #### - Synthesizer   - Guitar   - Cowbell   - Flute 
+
+<iframe name="player" class="player" src="https://www.pond5.com/ru/royalty-free-music/item/293667835-electronic-cyber-dance-must-all-things-end" scrolling="no" width="100%" height="500" align=center frameborder="0" title="zqwy_must_all_things_end"></iframe>

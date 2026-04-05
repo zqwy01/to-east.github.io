@@ -28,4 +28,4 @@ publish: true
 >[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:
 > #### - Piano   - Synthesizer   - Guitar   - Harpa   - Flute   - Violin   - Acoustic Guitar 
 
-<iframe name="player" class="player" src="https://archive.org/details/zqwy_kuzya" scrolling="no" width="100%" height="100%" align=center frameborder="0" title="zqwy_kuzya"></iframe>
+<iframe name="player" class="player" src="https://archive.org/details/zqwy_kuzya" scrolling="no" width="100%" height="50%" align=center frameborder="0" title="zqwy_kuzya"></iframe>

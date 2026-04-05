@@ -1,7 +1,7 @@
 ---
 title: axolotl
 author: zqwy
-alias: ax
+alias: 'ax'
 aliases: 
 tags: 
 - phonk

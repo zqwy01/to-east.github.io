@@ -1,7 +1,7 @@
 ---
 title: agnosia
 author: zqwy
-alias: agnosia
+alias: 'agnosia'
 aliases: 
 tags: 
 - piano

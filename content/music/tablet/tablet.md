@@ -1,7 +1,7 @@
 ---
 title: tablet
 author: zqwy
-alias: ta
+alias: 'ta'
 aliases: 
 tags: 
 description: Акс впервые встречает скрижаль так близко, что становится заложником в вечном лабиринте. 

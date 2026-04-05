@@ -1,7 +1,7 @@
 ---
 title: kuzya
 author: zqwy
-alias: kuzya
+alias: 'kuzya'
 aliases: 
 - кузя
 - рыжий котик

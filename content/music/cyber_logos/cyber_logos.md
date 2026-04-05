@@ -1,7 +1,7 @@
 ---
 title: cyber_logos
 author: zqwy
-alias: cl
+alias: 'cl'
 aliases: 
 tags: 
 - trap

@@ -1,7 +1,7 @@
 ---
 title: hurting_other_people
 author: zqwy
-alias: hop
+alias: 'hop'
 aliases: 
 tags: 
 - phonk

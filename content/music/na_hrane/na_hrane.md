@@ -1,7 +1,7 @@
 ---
 title: na_hrane
 author: zqwy
-alias: nh
+alias: 'nh'
 aliases: 
 tags: 
 - trap

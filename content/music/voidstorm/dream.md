@@ -1,7 +1,7 @@
 ---
 title: dream
 author: zqwy
-alias: dream
+alias: 'dream'
 aliases: 
 tags: 
 - neofolk

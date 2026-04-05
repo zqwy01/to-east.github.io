@@ -1,7 +1,7 @@
 ---
 title: alone
 author: zqwy
-alias: alone
+alias: 'alone'
 aliases: 
 tags: 
 - house

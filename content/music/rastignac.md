@@ -1,7 +1,7 @@
 ---
 title: rastignac
 author: zqwy
-alias: ra
+alias: 'ra'
 aliases: 
 tags: 
 - techno

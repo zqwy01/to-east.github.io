@@ -1,7 +1,7 @@
 ---
 title: glioma
 author: zqwy
-alias: glioma
+alias: 'glioma'
 aliases: 
 tags: 
 - drone

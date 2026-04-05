@@ -1,7 +1,7 @@
 ---
 title: someone
 author: zqwy
-alias: so
+alias: 'so'
 aliases: 
 - Некто
 tags: 

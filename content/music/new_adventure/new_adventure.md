@@ -1,7 +1,7 @@
 ---
 title: new_adventure
 author: zqwy
-alias: na
+alias: 'na'
 aliases: 
 tags: 
 - ambient

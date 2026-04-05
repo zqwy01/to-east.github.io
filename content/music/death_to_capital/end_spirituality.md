@@ -1,7 +1,7 @@
 ---
 title: end_spirituality
 author: zqwy
-alias: es
+alias: 'es'
 aliases: 
 tags: 
 - drone

@@ -1,7 +1,7 @@
 ---
 title: death_to_capital
 author: zqwy
-alias: dtc
+alias: 'dtc'
 aliases: 
 tags: 
 - drone

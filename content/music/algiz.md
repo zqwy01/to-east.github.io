@@ -1,7 +1,7 @@
 ---
 title: algiz
 author: zqwy
-alias: algiz
+alias: 'algiz'
 aliases: 
 tags: 
 - piano

@@ -1,7 +1,7 @@
 ---
 title: dystopian_future
 author: zqwy
-alias: df
+alias: 'df'
 aliases: 
 - конец сущего
 - конец света

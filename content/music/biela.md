@@ -1,7 +1,7 @@
 ---
 title: biela
 author: zqwy
-alias: biela
+alias: 'biela'
 aliases: 
 - белая лань
 - белая

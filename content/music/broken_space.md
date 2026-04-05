@@ -1,7 +1,7 @@
 ---
 title: broken_space
 author: zqwy
-alias: brsp
+alias: 'brsp'
 aliases: 
 tags: 
 - sovietwave

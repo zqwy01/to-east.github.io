@@ -28,4 +28,4 @@ publish: true
 >[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:
 > #### 
 
-<iframe name="player" class="player" src="https://archive.org/details/zqwy_forthy_hours" scrolling="no" width="100%" height="500" align=center frameborder="0" title="zqwy_forty_hours"></iframe>
+<iframe name="player" class="player" src="https://archive.org/details/zqwy_forthy_hours" scrolling="no" width="100%" height="100%" align=center frameborder="0" title="zqwy_forty_hours"></iframe>

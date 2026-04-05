@@ -24,4 +24,4 @@ publish: true
 >[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:
 > #### Синтезатор, фортепиано, флейта, драм-машина tr-808 
 
-<iframe name="player" class="player" src="" scrolling="no" width="100%" height="500" align=center frameborder="0" title="zqwy_dream"></iframe>
+<iframe name="player" class="player" src="" scrolling="no" width="100%" height="100%" align=center frameborder="0" title="zqwy_dream"></iframe>

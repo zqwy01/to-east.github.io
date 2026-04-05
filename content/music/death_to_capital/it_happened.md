@@ -26,4 +26,4 @@ publish: true
 >[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:
 > #### 
 
-<iframe name="player" class="player" src="" scrolling="no" width="100%" height="50%" align=center frameborder="0" title="zqwy_it_happened"></iframe>
+<iframe name="player" class="player" src="" scrolling="no" width="100%" height="30%" align=center frameborder="0" title="zqwy_it_happened"></iframe>

@@ -24,7 +24,7 @@ publish: true
 >[!info] 
 > #### Esoteric Ambient, Hopelessness Atmosphere (Contemplative Piano Soundtrack
 
->[!done] Музыкальные Инструменты:
+>[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:
 > #### 
 
 <iframe name="player" class="player" src="https://archive.org/details/zqwy_glioma" scrolling="no" width="100%" height="500" align=center frameborder="0" title="zqwy_glioma"></iframe>

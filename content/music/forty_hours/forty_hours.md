@@ -16,7 +16,7 @@ publish: true
 ---
 
 <h1 align=center>
-<img src="" alt="zqwy_forty_hours"/>
+<img src="https://ia801502.us.archive.org/13/items/zqwy_forthy_hours/zqwy_forty_hours_cover.jpg" alt="zqwy_forty_hours"/>
 </h1>
 
 >[!abstract] 
@@ -25,7 +25,7 @@ publish: true
 >[!info] 
 > #### Загадочный фонк с гитарой и флейтой. Атмосфера энергичная, эпичная немного тревожная, мотивирует на интенсивную работу. Стартует с трубы в тремоло, постепенно возывышается ирландская вистл-флейта. Взрыв - резкий переход, начинается электронная танцевальная музыка в среднем темпе. Фактура расыпается из-за аттак мощных ударных смешанных с оркестром. Резкий переход и вот немного cowbells. Гармония заводящее, на заднем фоне играет гитара с резкой динамикой. Тембр переливается от звонких колоков до плотного перегруженного баса.
 
->[!done] Музыкальные Инструменты:
+>[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:
 > #### 
 
 <iframe name="player" class="player" src="https://archive.org/details/zqwy_forthy_hours" scrolling="no" width="100%" height="500" align=center frameborder="0" title="zqwy_forty_hours"></iframe>

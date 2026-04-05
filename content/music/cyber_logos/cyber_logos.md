@@ -44,7 +44,7 @@ publish: true
 >[!info] 
 > #### 
 
->[!done] Музыкальные Инструменты:
+>[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:
 > #### Synthesizer, sampler 
 
 <iframe name="player" class="player" src="https://archive.org/details/cyber_logos" scrolling="no" width="100%" height="500" align=center frameborder="0" title="zqwy_cyber_logos"></iframe>

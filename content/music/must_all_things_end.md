@@ -22,7 +22,7 @@ publish: true
 >[!info] 
 > #### 
 
->[!done] Музыкальные Инструменты:
+>[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:
 > #### - Synthesizer   - Guitar   - Cowbell   - Flute 
 
 <iframe name="player" class="player" src="https://www.pond5.com/ru/royalty-free-music/item/293667835-electronic-cyber-dance-must-all-things-end" scrolling="no" width="100%" height="500" align=center frameborder="0" title="zqwy_must_all_things_end"></iframe>

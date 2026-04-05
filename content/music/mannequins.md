@@ -1,7 +1,7 @@
 ---
-title: mannequins
+title: "mannequins"
 author: zqwy
-alias: 'man'
+alias: "man"
 aliases: 
 tags: 
 - neoclassic

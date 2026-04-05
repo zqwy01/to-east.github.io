@@ -1,7 +1,7 @@
 ---
-title: mice_inside
+title: "mice_inside"
 author: zqwy
-alias: 'mi'
+alias: "mi"
 aliases: 
 tags: 
 - darkhappy

@@ -1,7 +1,7 @@
 ---
-title: in_forest
+title: "in_forest"
 author: zqwy
-alias: 'infor'
+alias: "infor"
 aliases: 
 - в лесу
 tags: 

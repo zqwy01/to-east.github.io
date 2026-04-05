@@ -1,7 +1,7 @@
 ---
-title: must_all_things_end
+title: "must_all_things_end"
 author: zqwy
-alias: 'mate'
+alias: "mate"
 aliases: 
 tags: 
 - metal

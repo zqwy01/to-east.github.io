@@ -1,7 +1,7 @@
 ---
-title: cyber_absolutus
+title: "cyber_absolutus"
 author: zqwy
-alias: 'ca'
+alias: "ca"
 aliases: 
 tags: 
 - techno

@@ -1,7 +1,7 @@
 ---
-title: not_diverse
+title: "not_diverse"
 author: zqwy
-alias: 'nd'
+alias: "nd"
 aliases: 
 tags: 
 - house

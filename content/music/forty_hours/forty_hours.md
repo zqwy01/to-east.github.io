@@ -1,7 +1,7 @@
 ---
-title: forty_hours
+title: "forty_hours"
 author: zqwy
-alias: 'fh'
+alias: "fh"
 aliases: 
 tags: 
 - electronic

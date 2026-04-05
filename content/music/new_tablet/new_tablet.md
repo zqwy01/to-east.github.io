@@ -1,7 +1,7 @@
 ---
-title: new_tablet
+title: "new_tablet"
 author: zqwy
-alias: 'nt'
+alias: "nt"
 aliases: 
 tags: 
 - drone

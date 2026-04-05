@@ -1,7 +1,7 @@
 ---
-title: voidstorm
+title: "voidstorm"
 author: zqwy
-alias: 'vs'
+alias: "vs"
 aliases: 
 - шторм
 - бездна

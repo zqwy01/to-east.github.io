@@ -1,7 +1,7 @@
 ---
-title: bass_mitzva
+title: "bass_mitzva"
 author: zqwy
-alias: 'bm'
+alias: "bm"
 aliases: 
 tags: 
 description: Пустыня. Песок. Только тишина, и больше ничего. Аксолотль лежит на спине, в небольшой луже воды. Вокруг сухой песок янтарного цвета, словно застывший свет древн

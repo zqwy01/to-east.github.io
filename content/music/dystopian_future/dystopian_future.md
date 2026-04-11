@@ -10,7 +10,8 @@ tags:
 - drone
 - phonk
 - ambient
-- noise 
+- noise
+- soundscape
 description: 
 date: 2023-05-21
 publish: true

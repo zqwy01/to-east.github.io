@@ -3,11 +3,8 @@ title: "biela"
 author: zqwy
 alias: "biela"
 aliases: 
-- белая лань
-- белая
-- лань
-- белого
-- белый
+- biela
+- white doe
 tags: 
 - folk
 - phonk
@@ -27,12 +24,12 @@ publish: true
 </h1>
 
 >[!abstract] История о том, что:
-> #### Белая лань с помощью руны осталась одной из выживших. В отличие от тёмной лани, которая была связана с помощью другой руны и находилась по другую сторону междумирья. Её суть - уничтожить всё на собственном пути! 📖
+> #### The [[biela|White Doe]], with the help of the [[algiz|rune]], remained [[alone|alone]] of the survivors. Unlike the dark doe, who was bound by another rune and was [on the other side](na_hrane) of the interworld. Her essence is to [destroy everything](dystopian_future) in her path! 📖
 
->[!info] Загадочный саундтрек, мистический, эзотерический оркестр:
-> #### Эпический скандинавский фольклёр. Мрачный эпос, таинственное фэнтези, эфирный фолк. Фолкотроника эмбиент и страшный фонк. Сумеречный скрытный и запретный оккультизм. Слияние восточного и западного, атмосфера мифологическая, синкопированный хтонический нигилизм. Магическая энергия, арканическая ритуальность и спиритуальность 🎹
+>[!info] Mysterious soundtrack, mystical, esoteric orchestra:
+> #### Epic Scandinavian folklore. Dark epic, mysterious fantasy, ethereal folk. Folktronic ambient and spooky phonk. Twilight, secretive, and forbidden occultism. A fusion of East and West, a mythological atmosphere, syncopated chthonic nihilism. Magical energy, arcane ritual, and spirituality. 🎹
 
 >[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:
-> #### Флейта, тальхарпа, пианино, ковбел, акустические и синтезированные ударные, а также перкуссии, синтезатор
+> #### Flute, talharpa, piano, cowbell, acoustic and synthesized drums, as well as percussion, synthesizer
 
 <iframe name="player" class="player" src="https://archive.org/details/zqwy_biela" scrolling="no" width="100%" height="500" align=center frameborder="0" title="zqwy_biela"></iframe>

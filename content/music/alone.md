@@ -3,13 +3,14 @@ title: "alone"
 author: zqwy
 alias: "alone"
 aliases: 
+- alone
 tags: 
 - house
 - dancepop
 - jungle
 - drumandbass 
 description: Одиночество и последний человек Демонстрируют две ситуации самостоятельности, представленным в едином субъекте. Одиночество существует всегда. Проявляется в чел
-date: 2025-08-19
+date: 2023-08-19
 publish: true
 ---
 
@@ -18,7 +19,7 @@ publish: true
 </h1>
 
 >[!abstract] 
-> #### Одиночество и последний человек Демонстрируют две ситуации самостоятельности, представленным в едином субъекте. Одиночество существует всегда. Проявляется в человеке для выработки эндорфина, при ощущении потерянного контакта с людьми. Одиночество не связано с ощущениями последнего человека. Единственный человек при наличии или отсутствие воли, остаётся абсолютно самостоятельным. Одиночество же связано с наличием других людей, а ощущение последнего человека, связано с мироощущением главного персонажа из-за отсутствия других. В следствие этого, растёт близость к божественному, что позволяет защитить от боли в разумной части души и экземплярности. Акс из последних кто остался на земле после уничтожение жизни на ней. Его животная душа отличалась от человеческой и всё же он пытался понять и почувствовать все то что ощущает последний человек находящийся в одиночестве.
+> #### Alone and the last man demonstrate two situations of independence, presented in a single subject. Alone always exists. It manifests itself in humans through endorphin production, with the feeling of lost contact with people. Alone is not associated with the sensations of being the last man. The only man, with or without willpower, remains completely independent. Alone, however, is associated with the presence of others, and the feeling of being the last man is linked to the protagonist's worldview due to the absence of others. As a result, a closeness to the divine grows, which provides protection from pain in the rational part of the soul and from individuality. Axe is one of the last remaining on earth after the destruction of life. His animal soul differed from that of a human, yet he tried to understand and feel everything that the last man feels in solitude.
 
 >[!info] 
 > #### 

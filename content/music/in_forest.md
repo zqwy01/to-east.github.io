@@ -3,13 +3,12 @@ title: "in_forest"
 author: zqwy
 alias: "infor"
 aliases: 
-- в лесу
 tags: 
 - ambient
 - ocrhestral
 - drone
 - soundscape
-description: Я не придумал пока-что описание, но трек уже лежит тут для прослушивание
+description: 
 date: 2026-03-24
 publish: true
 ---
@@ -19,10 +18,10 @@ publish: true
 </h1>
 
 >[!abstract] Что произошло:
-> #### Я не придумал пока-что описание, но трек уже лежит тут для прослушивание
+> #### 
 
 >[!info] 
-> #### drone dark ambient music, eerie electronic soundtrack instrumental 
+> #### 
 
 >[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:
 > #### 

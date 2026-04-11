@@ -3,8 +3,6 @@ title: "voidstorm"
 author: zqwy
 alias: "vs"
 aliases: 
-- шторм
-- бездна
 tags:    
 - cinematic
 - ambient

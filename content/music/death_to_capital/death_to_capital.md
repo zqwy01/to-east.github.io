@@ -8,7 +8,7 @@ tags:
 - noise
 - ambient
 - soundscape 
-description: Кризисы, резкие всплески, эмциональные выпады. Смерть капитала не единственный резонный случай для подобного, это может быть и Death To Social и так далее. Суть
+description: 
 date: 2024-11-19
 publish: true
 ---
@@ -18,10 +18,10 @@ publish: true
 </h1>
 
 >[!abstract] 
-> #### Кризисы, резкие всплески, эмциональные выпады. Смерть капитала не единственный резонный случай для подобного, это может быть и Death To Social и так далее. Суть в том, что это приводит к зрению в утопичное будущее.
+> #### 
 
 >[!info] 
-> #### emotions:   - dark   - anxiety   - chaotic   - evil   - mystical   - ominous   - suspense   - tension   - epic   - futuristic   - confident   - century 
+> #### 
 
 >[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:
 > #### 

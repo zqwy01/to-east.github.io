@@ -19,15 +19,15 @@ date: 2024-11-03
 publish: true
 ---
 
+>[!info] Mysterious soundtrack, mystical, esoteric orchestra:
+> #### Epic Scandinavian folklore. Dark epic, mysterious fantasy, ethereal folk. Folktronic ambient and spooky phonk. Twilight, secretive, and forbidden occultism. A fusion of East and West, a mythological atmosphere, syncopated chthonic nihilism. Magical energy, arcane ritual, and spirituality. 🎹
+
 <h1 align=center>
 <img src="https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp" alt="zqwy_biela"/>
 </h1>
 
 >[!abstract] История о том, что:
 > #### [[biela|The White Doe]], with the help of the [[algiz|rune]], remained [[alone|alone]] of the survivors. Unlike the dark doe, who was bound by another rune and was [on the other side](na_hrane) of the interworld. Her essence is to [destroy everything](dystopian_future), in her path! 📖
-
->[!info] Mysterious soundtrack, mystical, esoteric orchestra:
-> #### Epic Scandinavian folklore. Dark epic, mysterious fantasy, ethereal folk. Folktronic ambient and spooky phonk. Twilight, secretive, and forbidden occultism. A fusion of East and West, a mythological atmosphere, syncopated chthonic nihilism. Magical energy, arcane ritual, and spirituality. 🎹
 
 >[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:
 > #### Flute, talharpa, piano, cowbell, acoustic and synthesized drums, as well as percussion, synthesizer

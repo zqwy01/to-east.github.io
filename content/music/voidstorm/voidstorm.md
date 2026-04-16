@@ -27,14 +27,14 @@ date: 2025-02-02
 publish: true
 ---
 
+>[!info] 
+> #### 
+
 <h1 align=center>
 <img src="https://archive.org/download/zqwy_voidstorm/zqwy_voidstorm_cover_site.webp" alt="zqwy_voidstorm"/>
 </h1>
 
 >[!abstract] 
-> #### 
-
->[!info] 
 > #### 
 
 >[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:

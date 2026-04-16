@@ -11,14 +11,14 @@ date: 2025-09-04
 publish: true
 ---
 
+>[!info] 
+> #### 
+
 <h1 align=center>
 <img src="" alt="zqwy_someone"/>
 </h1>
 
 >[!abstract] 
-> #### 
-
->[!info] 
 > #### 
 
 >[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:

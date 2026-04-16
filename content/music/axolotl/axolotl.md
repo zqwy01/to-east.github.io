@@ -13,14 +13,14 @@ date: 2025-11-14
 publish: true
 ---
 
+>[!info] 
+> #### 
+
 <h1 align=center>
 <img src="https://ia801809.us.archive.org/14/items/zqwy_axs/axolotl_cover_v1.webp" alt="zqwy_axolotl"/>
 </h1>
 
 >[!abstract] 
-> #### 
-
->[!info] 
 > #### 
 
 >[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:

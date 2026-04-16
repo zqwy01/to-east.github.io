@@ -10,14 +10,14 @@ date: 2026-01-03
 publish: true
 ---
 
+>[!info] 
+> #### 
+
 <h1 align=center>
 <img src="" alt="zqwy_agnosia"/>
 </h1>
 
 >[!abstract] 
-> #### 
-
->[!info] 
 > #### 
 
 >[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:

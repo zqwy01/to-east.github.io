@@ -12,15 +12,15 @@ date: 2024-12-02
 publish: true
 ---
 
+>[!info] 
+> #### 
+
 <h1 align=center>
 <img src="https://archive.org/download/zqwy_must_all_things_end/zqwy_must_all_things_end_cover_site.webp" alt="zqwy_must_all_things_end"/>
 </h1>
 
 >[!abstract] 
-> #### 
-
->[!info] 
-> #### 
+> #### Эпоха уничтожение мира - катарсис события приближение уничтожения мира свершился, угрозы пред живыми, оказались не пустыми обещаниями, а воплощением идейне разнообразности
 
 >[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:
 > #### 

@@ -24,14 +24,14 @@ date:
 publish: true
 ---
 
+>[!info] 
+> #### 
+
 <h1 align=center>
 <img src="https://ia600409.us.archive.org/24/items/zqwy_na_hrane/ZQWY_NA_HRANE_COVER_site.webp" alt="zqwy_na_hrane"/>
 </h1>
 
 >[!abstract] 
-> #### 
-
->[!info] 
 > #### 
 
 >[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:

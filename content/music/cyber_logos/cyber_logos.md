@@ -29,7 +29,7 @@ tags:
 - psydub
 - dancepop
 - midtempo 
-description: 
+description: На изображении — стилизованное «глитч»-арт изображение человеческой головы в профиль (смотрит влево). Форма лица и шея — узнаваемы, но детали размыты и зашумлен
 date: 2024-03-12
 publish: true
 ---
@@ -41,7 +41,7 @@ publish: true
 <img src="https://ia902908.us.archive.org/2/items/cyber_logos/zqwy_cyber_logos_cover_site.webp" alt="zqwy_cyber_logos"/>
 </h1>
 
->[!abstract] 
+>[!abstract] Description of The Cover:
 > #### 
 
 >[!abstract] 

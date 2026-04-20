@@ -20,8 +20,8 @@ publish: true
 <img src="https://ia801809.us.archive.org/14/items/zqwy_axs/axolotl_cover_v1.webp" alt="zqwy_axolotl"/>
 </h1>
 
->[!abstract] 
-> #### 
+>[!abstract] Description of The Cover:
+> #### An axolotl is depicted in a stylized, almost naïve manner: a rounded, broad head with a soft “smile,” bright pink feathery external gills at the sides, short limbs extending from the lower body, and a thin finned tail. The color palette is dominated by turquoise and blue tones for the background and body, with contrasting pink accents on the gills; the brushstrokes are loose and decorative, creating a sense of an underwater environment.
 
 >[!abstract] 
 > #### 

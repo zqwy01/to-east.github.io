@@ -20,7 +20,7 @@ publish: true
 <img src="" alt="zqwy_it_happened"/>
 </h1>
 
->[!abstract] 
+>[!abstract] Description of The Cover:
 > #### 
 
 >[!abstract] 

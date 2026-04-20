@@ -19,7 +19,7 @@ publish: true
 <img src="" alt="zqwy_rastignac"/>
 </h1>
 
->[!abstract] 
+>[!abstract] Description of The Cover:
 > #### 
 
 >[!abstract] 

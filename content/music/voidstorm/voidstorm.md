@@ -3,6 +3,8 @@ title: "voidstorm"
 author: zqwy
 alias: "vs"
 aliases: 
+- storm
+- void
 tags:    
 - cinematic
 - ambient
@@ -34,10 +36,10 @@ publish: true
 <img src="https://archive.org/download/zqwy_voidstorm/zqwy_voidstorm_cover_site.webp" alt="zqwy_voidstorm"/>
 </h1>
 
->[!abstract] 
+>[!abstract] Description of The Cover:
 > #### 
 
->[!abstract] 
+>[!abstract] See on Void:
 > #### 
 
 >[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:
@@ -47,3 +49,11 @@ publish: true
 
 
 ![[dream]]
+
+![[drill_to_the_neighbor]]
+
+![[snake]]
+
+![[to_jupiter]]
+
+![[whisper_from_outland]]

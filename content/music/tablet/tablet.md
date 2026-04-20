@@ -16,7 +16,7 @@ publish: true
 <img src="" alt="zqwy_tablet"/>
 </h1>
 
->[!abstract] 
+>[!abstract] Description of The Cover:
 > #### 
 
 >[!abstract] 

@@ -15,10 +15,10 @@ publish: true
 > #### 
 
 <h1 align=center>
-<img src="" alt="zqwy_someone"/>
+<img src="https://ia801501.us.archive.org/13/items/zqwy_someone/someone_cover_site.webp" alt="zqwy_someone"/>
 </h1>
 
->[!abstract] 
+>[!abstract] Description of The Cover:
 > #### 
 
 >[!abstract] 

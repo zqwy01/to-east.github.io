@@ -21,10 +21,10 @@ publish: true
 > #### 
 
 <h1 align=center>
-<img src="https://dn710909.ca.archive.org/0/items/zqwy_dystopian_future/dystopian_future_cover.jpg" alt="zqwy_dystopian_future"/>
+<img src="https://ia600601.us.archive.org/16/items/zqwy_dystopian_future/dystopian_future_cover.jpg" alt="zqwy_dystopian_future"/>
 </h1>
 
->[!abstract] 
+>[!abstract] Description of The Cover:
 > #### 
 
 >[!abstract] 

@@ -26,7 +26,7 @@ publish: true
 <img src="https://ia903109.us.archive.org/30/items/zqwy_mice_inside/mice_inside_cover.webp" alt="zqwy_mice_inside"/>
 </h1>
 
->[!abstract] 
+>[!abstract] Description of The Cover:
 > #### 
 
 >[!abstract] 

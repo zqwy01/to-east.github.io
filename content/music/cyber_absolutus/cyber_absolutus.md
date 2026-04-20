@@ -28,7 +28,7 @@ publish: true
 <img src="https://dn720704.ca.archive.org/0/items/cyber_absolutus/zqwy_limon_cover.webp" alt="zqwy_cyber_absolutus"/>
 </h1>
 
->[!abstract] 
+>[!abstract] Description of The Cover:
 > #### 
 
 >[!abstract] 

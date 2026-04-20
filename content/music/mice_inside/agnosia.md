@@ -17,7 +17,7 @@ publish: true
 <img src="" alt="zqwy_agnosia"/>
 </h1>
 
->[!abstract] 
+>[!abstract] Description of The Cover:
 > #### 
 
 >[!abstract] 

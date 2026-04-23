@@ -6,14 +6,16 @@ aliases:
 tags: 
 - phonk
 - darkwave
-- postrock 
+- postrock
+- industrial
+- idm
 description: 
 date: 2024-11-18
 publish: true
 ---
 
->[!info] 
-> #### 
+>[!info] Nocturnal Anxiety - phonk, darkwave and industrial post‑rock tension
+> #### Moody, haunting, and eerie track with a heavy low end and industrial saturation; a groovy phonk beat at 92 BPM makes it simultaneously bouncy and driving. Expansive darkwave pads add a melancholic, meditative, and ethereal atmosphere, while post‑rock guitar accents give it cinematic, epic scale. Percussion and an IDM flair create chaotic, hypnotic, and tense rhythmic shifts, whereas vinyl noise and field samples provide a gritty, urban texture. The result is a dramatic, tense, and reflective track—both aggressive and contemplative—perfect for nocturnal, dystopian, and suspenseful soundtracks.
 
 <h1 align=center>
 <img src="https://ia600403.us.archive.org/32/items/zqwy_joker/zqwy_joker_cover.jpg" alt="zqwy_joker"/>

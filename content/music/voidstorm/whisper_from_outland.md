@@ -6,21 +6,20 @@ aliases:
 - whisper
 - from outland
 tags: 
-- Study beats
-- Jazz-hop
-- Chill-hop 
-- Lo-fi
-- Hip-Hop
-- Bedroom
-- Ambient
-- Downtempo
+
+- jazzhop
+- chillhop 
+- lofi
+- hiphop
+- ambient
+- downtempo
 description: 
 date: 2025-02-02
 publish: true
 ---
 
 >[!info] Cute Beat: Jazz‑Lo‑Fi for Study & Relaxation (Chillout Soundscape)
-> #### A warm, intimate, and rhythmically relaxed track with jazz harmony, spare melodies, and a sparse, atmospheric texture - perfect for studying, relaxing, or background listening: calm, soft, laid-back, dreamy, soothing, intimate, peaceful, contemplative, chill, lo-fi, jazzy, ambient, meditative, warm, serene, reflective, everyday, background, nostalgic.
+> #### Warm, intimate, and rhythmically relaxed track with jazz harmony, spare melodies, and a sparse, atmospheric texture - perfect for studying, relaxing, or background listening: calm, soft, laid-back, dreamy, soothing, intimate, peaceful, contemplative, chill, lo-fi, jazzy, ambient, meditative, warm, serene, reflective, everyday, background, nostalgic.
 
 <h1 align=center>
 <img src="https://i.pinimg.com/474x/5d/a6/a4/5da6a46cf3001323588b55d097de56ea.jpg" alt="zqwy_whisper_from_outland"/>

@@ -6,7 +6,7 @@ aliases:
 tags: 
 - house
 - dancepop
-- electronic
+- electronica
 - progressive_house
 - synthpop 
 description: 

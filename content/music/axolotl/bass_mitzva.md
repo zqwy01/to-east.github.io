@@ -6,6 +6,8 @@ aliases:
 tags: 
 - drumandbass
 - breakbeat
+- dubstep
+- idm
 description: 
 date: 2025-11-14
 publish: true

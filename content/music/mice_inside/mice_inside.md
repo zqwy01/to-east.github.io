@@ -5,7 +5,7 @@ alias: "mi"
 aliases: 
 tags: 
 - darkhappy
-- electronic
+- electronica
 - downtempo
 - piano
 - cinematic

@@ -4,6 +4,9 @@ author: zqwy
 alias: "ta"
 aliases: 
 tags: 
+- cinematic
+- ambient
+- postrock
 description: 
 date: 
 publish: true

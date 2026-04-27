@@ -4,7 +4,7 @@ author: zqwy
 alias: "fh"
 aliases: 
 tags: 
-- electronic
+- electronica
 - dancepop
 - cinematic
 - industrial

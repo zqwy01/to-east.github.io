@@ -66,12 +66,15 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown({
+        enableInHtmlEmbed: false
+        mermaid: false
+      }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+  //  Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [Plugin.ExplicitPublish()],
     emitters: [
@@ -83,7 +86,7 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
-	rssFullHtml: true,
+        rssFullHtml: true,
       }),
       Plugin.Assets(),
       Plugin.Static(),

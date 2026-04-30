@@ -6,17 +6,16 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    provider: 'giscus',
-    options: {
-      repo: 'zqwy01/to-east.github.io',
-      // from data-repo-id
-      repoId: 'R_kgDOQinmpg',
-      // from data-category
-      category: 'Announcements',
-      // from data-category-id
-      categoryId: 'DIC_kwDOQinmps4C8Evn',
-      // from data-lang
-      lang: 'en'
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        repo: 'zqwy01/to-east.github.io',
+        repoId: 'R_kgDOQinmpg',
+        category: 'Announcements',
+        categoryId: 'DIC_kwDOQinmps4C8Evn',
+        lang: 'en'
+      }
+    }),
   ],
   footer: Component.Footer({
     links: {

@@ -11,32 +11,34 @@ date: 2025-02-02
 publish: true
 ---
 
-<style>
-  .bg { /* your existing styles */ }
-  .content { color: #111; }
 
-  body.dark-mode .content { color: #fff; }
-  body.dark-mode .bg {
-    background-image:
-      linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-      url('');
-    filter: blur(8px) brightness(0.6);
-  }
-  body.light-mode .bg {
-    background-image:
-      linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)),
-      url('');
-    filter: blur(8px) brightness(1);
-  }
-</style>
+body.light-mode .content { color: #111; }
+body.dark-mode .content  { color: #fff; }
+
+body.light-mode .bg {
+  background-image: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url('path/to/cover.jpg');
+  filter: blur(8px) brightness(1);
+}
+body.dark-mode .bg {
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('path/to/cover.jpg');
+  filter: blur(8px) brightness(0.6);
+}
+
 
 <script>
-  // Найти существующую кнопку (подставьте точный селектор, если нужен)
-  const btn = document.querySelector('.darkMode') || document.querySelector('.dark-mode') || document.querySelector('button');
+  // Найти кнопку по реальному селектору (замените, если нужно)
+  const btn = document.querySelector('button.darkmode');
 
   if (btn) {
-    const apply = () => {
-      if (btn.classList.contains('dayIcon')) {
+    const hasVisibleDayIcon = () => {
+      const el = btn.querySelector('.dayIcon');
+      if (!el) return false;
+      const style = getComputedStyle(el);
+      return style.display !== 'none' && style.visibility !== 'hidden' && style.opacity !== '0';
+    };
+
+    const applyTheme = () => {
+      if (hasVisibleDayIcon()) {
         document.body.classList.add('light-mode');
         document.body.classList.remove('dark-mode');
       } else {
@@ -45,23 +47,23 @@ publish: true
       }
     };
 
-    // Синхронизировать сразу
-    apply();
+    // начальная синхронизация
+    applyTheme();
 
-    // Наблюдать за изменениями атрибутов класса кнопки (если класс меняется другими скриптами)
-    const mo = new MutationObserver(() => apply());
-    mo.observe(btn, { attributes: true, attributeFilter: ['class'] });
+    // Наблюдаем за изменениями атрибутов и деревом внутри кнопки
+    const mo = new MutationObserver(() => applyTheme());
+    mo.observe(btn, { attributes: true, attributeFilter: ['class', 'style'], childList: true, subtree: true });
 
-    // Опционально: если вы хотите, чтобы клик по кнопке переключал класс dayIcon
+    // Если хотите — также реагируем на клики (например, ваш код меняет вид иконок)
     btn.addEventListener('click', () => {
-      btn.classList.toggle('dayIcon');
-      // apply() вызовется через MutationObserver, но можно вызвать и тут для мгновенного эффекта:
-      apply();
+      // не обязателен — applyTheme вызовётся через MutationObserver, но можно и явно:
+      applyTheme();
     });
   } else {
-    console.warn('Theme button not found — проверьте селектор.');
+    console.warn('Button .darkmode not found');
   }
 </script>
+
 
 
 

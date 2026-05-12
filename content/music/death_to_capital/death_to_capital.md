@@ -13,48 +13,31 @@ date: 2024-11-19
 publish: true
 ---
 
-
-
 <head>
-  <style>
-    html, body { height: 100%; margin: 0; }
-
-    .bg {
-      position: fixed;
-      inset: 0;
-      background-image:
-        linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)),
-        url('path/to/cover.jpg');
-      background-size: cover;
-      background-position: center;
-      filter: blur(8px);
-      transform: scale(1.0);
-      z-index: -1;
-    }
-
-    .content {
-      position: relative;
-      z-index: 1;
-      padding: 2rem;
-      color: #111; /* light-mode default */
-    }
-
-    /* Dark mode (system) */
-    @media (prefers-color-scheme: dark) {
-      .content { color: #fff; }
-      .bg {
-        background-image:
-          linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-          url('path/to/cover.jpg');
-      }
-    }
-  </style>
+<style>
+  html, body { height: 100%; margin: 0; }
+  .bg {
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      url('https://ia800108.us.archive.org/7/items/death_to_capital/zqwy_death_to_capital_cover_site.webp');
+    background-size: cover;
+    background-position: center;
+    filter: blur(8px);
+    transform: scale(1.0);
+    z-index: -1;
+  }
+  .content {
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    padding: 2rem;
+  }
+</style>
 </head>
 <body>
   <div class="bg" aria-hidden="true"></div>
-
-  <div class="content">
-  </div>
 </body>
 
 >[!info] 

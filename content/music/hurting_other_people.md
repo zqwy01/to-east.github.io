@@ -24,7 +24,7 @@ publish: true
     background-size: cover;
     background-position: center;
     filter: blur(8px);
-    transform: scale(1.0);
+    transform: scale(0.9);
     z-index: -1;
   }
   .content {
@@ -38,8 +38,6 @@ publish: true
 <body>
   <div class="bg" aria-hidden="true"></div>
 </body>
-
-
 
 >[!info] 
 > #### 

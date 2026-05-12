@@ -31,7 +31,7 @@ publish: true
     background-size: cover;
     background-position: center;
     filter: blur(8px);
-    transform: scale(1.0);
+    transform: scale(0.9);
     z-index: -1;
   }
   .content {
@@ -45,8 +45,6 @@ publish: true
 <body>
   <div class="bg" aria-hidden="true"></div>
 </body>
-
-
 
 >[!info] Cute Beat: Jazz‑Lo‑Fi for Study & Relaxation (Chillout Soundscape)
 > #### Warm, intimate, and rhythmically relaxed track with jazz harmony, spare melodies, and a sparse, atmospheric texture - perfect for studying, relaxing, or background listening: calm, soft, laid-back, dreamy, soothing, intimate, peaceful, contemplative, chill, lo-fi, jazzy, ambient, meditative, warm, serene, reflective, everyday, background, nostalgic.

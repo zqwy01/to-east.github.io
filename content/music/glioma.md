@@ -42,8 +42,6 @@ publish: true
 </head>
 <body>
   <div class="bg" aria-hidden="true"></div>
-  <div class="content">
-  </div>
 </body>
 
 >[!info] 

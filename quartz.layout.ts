@@ -66,15 +66,14 @@ export const defaultContentPageLayout: PageLayout = {
           const parentName = String(node.parent?.displayName ?? "");
           const inMusic = path.split("/").includes("music") || parentName.toLowerCase() === "music";
 
-          let name = String(node.displayName ?? "");
+          let name = String(node.displayName ?? "").trim();
 
           if (inMusic) {
-            // варианты: Artist - "Title", Artist - 'Title', Artist - Title
-            const re = /^[^-]+-\s*(?:["'“”]?)(.+?)(?:["'“”]?)\s*$/;
-            const m = name.match(re);
-            if (m && m[1]) {
-              name = m[1].trim();
-            }
+            // удаляем всё до первого дефиса (включая дефис), затем снимаем кавычки и расширение
+            name = name.replace(/^[^-]*-\s*/, "");                      // убрать Artist -
+            name = name.replace(/^["'“”\s]+|["'“”\s]+$/g, "");          // убрать кавычки/лишние пробелы по краям
+            name = name.replace(/\.[a-z0-9]{1,5}$/i, "");               // убрать расширение (.mp3 .wav и т.д.)
+    name = name.trim();
           }
 
           node.displayName = `📄 ${name}`;

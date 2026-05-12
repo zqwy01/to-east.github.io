@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "death_to_capital"
+title: "death_to_capital"
 author: zqwy
 alias: "dtc"
 aliases: 

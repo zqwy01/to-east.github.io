@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "drill_to_the_neighbor"
+title: "drill_to_the_neighbor"
 author: zqwy
 alias: "dttn"
 aliases: 

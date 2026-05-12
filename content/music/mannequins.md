@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "mannequins"
+title: "mannequins"
 author: zqwy
 alias: "man"
 aliases: 

@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "agnosia"
+title: "agnosia"
 author: zqwy
 alias: "agnosia"
 aliases: 

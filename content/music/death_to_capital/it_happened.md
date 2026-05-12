@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "it_happened"
+title: "it_happened"
 author: zqwy
 alias: "ih"
 aliases: 

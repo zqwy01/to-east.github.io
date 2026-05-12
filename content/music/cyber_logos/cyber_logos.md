@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "cyber_logos"
+title: "cyber_logos"
 author: zqwy
 alias: "cl"
 aliases: 

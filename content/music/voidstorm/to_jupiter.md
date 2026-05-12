@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "to_jupiter"
+title: "to_jupiter"
 author: zqwy
 alias: "tj"
 aliases: 

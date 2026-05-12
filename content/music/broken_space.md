@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "broken_space"
+title: "broken_space"
 author: zqwy
 alias: "brsp"
 aliases: 

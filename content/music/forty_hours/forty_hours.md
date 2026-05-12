@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "forty_hours"
+title: "forty_hours"
 author: zqwy
 alias: "fh"
 aliases: 

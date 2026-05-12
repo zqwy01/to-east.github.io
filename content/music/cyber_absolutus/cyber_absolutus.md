@@ -29,13 +29,13 @@ publish: true
   body.dark-mode .bg {
     background-image:
       linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-      url('path/to/cover.jpg');
+      url('https://dn720704.ca.archive.org/0/items/cyber_absolutus/zqwy_limon_cover.webp');
     filter: blur(8px) brightness(0.6);
   }
   body.light-mode .bg {
     background-image:
       linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)),
-      url('path/to/cover.jpg');
+      url('https://dn720704.ca.archive.org/0/items/cyber_absolutus/zqwy_limon_cover.webp');
     filter: blur(8px) brightness(1);
   }
 </style>

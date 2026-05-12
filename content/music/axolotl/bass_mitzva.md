@@ -21,13 +21,13 @@ publish: true
   body.dark-mode .bg {
     background-image:
       linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-      url('path/to/cover.jpg');
+      url('https://i.pinimg.com/1200x/ba/ae/1d/baae1dafc04b11ec4deb981f6484e5af.jpg');
     filter: blur(8px) brightness(0.6);
   }
   body.light-mode .bg {
     background-image:
       linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)),
-      url('path/to/cover.jpg');
+      url('https://i.pinimg.com/1200x/ba/ae/1d/baae1dafc04b11ec4deb981f6484e5af.jpg');
     filter: blur(8px) brightness(1);
   }
 </style>

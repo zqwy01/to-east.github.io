@@ -42,13 +42,13 @@ publish: true
   body.dark-mode .bg {
     background-image:
       linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-      url('path/to/cover.jpg');
+      url('https://ia902908.us.archive.org/2/items/cyber_logos/zqwy_cyber_logos_cover_site.webp');
     filter: blur(8px) brightness(0.6);
   }
   body.light-mode .bg {
     background-image:
       linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)),
-      url('path/to/cover.jpg');
+      url('https://ia902908.us.archive.org/2/items/cyber_logos/zqwy_cyber_logos_cover_site.webp');
     filter: blur(8px) brightness(1);
   }
 </style>

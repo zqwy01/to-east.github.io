@@ -80,7 +80,6 @@ export const defaultContentPageLayout: PageLayout = {
 
           node.displayName = `📄 ${name}`;
         } catch (err) {
-          // гарантируем строковое значение, если что-то пошло не так
           node.displayName = `📄 ${String(node.displayName ?? "")}`;
         }
       },

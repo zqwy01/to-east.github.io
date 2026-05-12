@@ -56,9 +56,9 @@ export function pageResources(
 
   resources.js.push({
     src: joinSegments(baseDir, "postscript.js"),
-    loadTime: "afterDOMReady",
-    moduleType: "module",
-    contentType: "external",
+                    loadTime: "afterDOMReady",
+                    moduleType: "module",
+                    contentType: "external",
   })
 
   return resources
@@ -90,12 +90,12 @@ function renderTranscludes(
               type: "element",
               tagName: "p",
               properties: { style: "color: var(--secondary);" },
-              children: [
-                {
-                  type: "text",
-                  value: `Circular transclusion detected: ${transcludeTarget}`,
-                },
-              ],
+        children: [
+          {
+            type: "text",
+            value: `Circular transclusion detected: ${transcludeTarget}`,
+          },
+        ],
             },
           ]
           return
@@ -116,22 +116,22 @@ function renderTranscludes(
             if (blockNode.tagName === "li") {
               blockNode = {
                 type: "element",
-                tagName: "ul",
-                properties: {},
-                children: [blockNode],
+        tagName: "ul",
+        properties: {},
+        children: [blockNode],
               }
             }
 
             node.children = [
               normalizeHastElement(blockNode, slug, transcludeTarget),
-              {
-                type: "element",
-                tagName: "a",
-                properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
-                children: [
-                  { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
-                ],
-              },
+        {
+          type: "element",
+        tagName: "a",
+        properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
+        children: [
+          { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
+        ],
+        },
             ]
           }
         } else if (blockRef?.startsWith("#") && page.htmlAst) {
@@ -143,20 +143,20 @@ function renderTranscludes(
           for (const [i, el] of page.htmlAst.children.entries()) {
             // skip non-headers
             if (!(el.type === "element" && el.tagName.match(headerRegex))) continue
-            const depth = Number(el.tagName.substring(1))
+              const depth = Number(el.tagName.substring(1))
 
-            // lookin for our blockref
-            if (startIdx === undefined || startDepth === undefined) {
-              // skip until we find the blockref that matches
-              if (el.properties?.id === blockRef) {
-                startIdx = i
-                startDepth = depth
+              // lookin for our blockref
+              if (startIdx === undefined || startDepth === undefined) {
+                // skip until we find the blockref that matches
+                if (el.properties?.id === blockRef) {
+                  startIdx = i
+                  startDepth = depth
+                }
+              } else if (depth <= startDepth) {
+                // looking for new header that is same level or higher
+                endIdx = i
+                break
               }
-            } else if (depth <= startDepth) {
-              // looking for new header that is same level or higher
-              endIdx = i
-              break
-            }
           }
 
           if (startIdx === undefined) {
@@ -165,46 +165,46 @@ function renderTranscludes(
 
           node.children = [
             ...(page.htmlAst.children.slice(startIdx, endIdx) as ElementContent[]).map((child) =>
-              normalizeHastElement(child as Element, slug, transcludeTarget),
+            normalizeHastElement(child as Element, slug, transcludeTarget),
             ),
-            {
-              type: "element",
-              tagName: "a",
-              properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
-              children: [
-                { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
-              ],
-            },
+        {
+          type: "element",
+        tagName: "a",
+        properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
+        children: [
+          { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
+        ],
+        },
           ]
         } else if (page.htmlAst) {
           // page transclude
           node.children = [
             {
               type: "element",
-              tagName: "h1",
-              properties: {},
-              children: [
-                {
-                  type: "text",
-                  value:
-                    page.frontmatter?.title ??
-                    i18n(cfg.locale).components.transcludes.transcludeOf({
-                      targetSlug: page.slug!,
-                    }),
-                },
-              ],
+        tagName: "h1",
+        properties: {},
+        children: [
+          {
+            type: "text",
+        value:
+        page.frontmatter?.title ??
+        i18n(cfg.locale).components.transcludes.transcludeOf({
+          targetSlug: page.slug!,
+        }),
+          },
+        ],
             },
-            ...(page.htmlAst.children as ElementContent[]).map((child) =>
-              normalizeHastElement(child as Element, slug, transcludeTarget),
-            ),
-            {
-              type: "element",
-              tagName: "a",
-              properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
-              children: [
-                { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
-              ],
-            },
+        ...(page.htmlAst.children as ElementContent[]).map((child) =>
+        normalizeHastElement(child as Element, slug, transcludeTarget),
+        ),
+        {
+          type: "element",
+        tagName: "a",
+        properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
+        children: [
+          { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
+        ],
+        },
           ]
         }
       }
@@ -243,59 +243,67 @@ export function renderPage(
 
   const LeftComponent = (
     <div class="left sidebar">
-      {left.map((BodyComponent) => (
-        <BodyComponent {...componentData} />
-      ))}
+    {left.map((BodyComponent) => (
+      <BodyComponent {...componentData} />
+    ))}
     </div>
   )
 
   const RightComponent = (
     <div class="right sidebar">
-      {right.map((BodyComponent) => (
-        <BodyComponent {...componentData} />
-      ))}
+    {right.map((BodyComponent) => (
+      <BodyComponent {...componentData} />
+    ))}
     </div>
   )
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
   const direction = i18n(cfg.locale).direction ?? "ltr"
+
+  // получить классы страницы безопасно из componentData.frontmatter или других мест
+  const extraClasses =
+  componentData.fileData?.frontmatter?.cssclasses ||
+  (componentData as any).cssclasses ||
+  ""
+  const bodyClass = ["site-body", ...String(extraClasses).split(/\s+/)].filter(Boolean).join(" ")
+
   const doc = (
     <html lang={lang} dir={direction}>
-      <Head {...componentData} />
-      <body data-slug={slug} className={page?.cssclasses || page?.frontmatter?.cssclasses || ''}>
-        <div id="quartz-root" class="page">
-          <Body {...componentData}>
-            {LeftComponent}
-            <div class="center">
-              <div class="page-header">
-                <Header {...componentData}>
-                  {header.map((HeaderComponent) => (
-                    <HeaderComponent {...componentData} />
-                  ))}
-                </Header>
-                <div class="popover-hint">
-                  {beforeBody.map((BodyComponent) => (
-                    <BodyComponent {...componentData} />
-                  ))}
-                </div>
-              </div>
-              <Content {...componentData} />
-              <hr />
-              <div class="page-footer">
-                {afterBody.map((BodyComponent) => (
-                  <BodyComponent {...componentData} />
-                ))}
-              </div>
-            </div>
-            {RightComponent}
-            <Footer {...componentData} />
-          </Body>
-        </div>
-      </body>
-      {pageResources.js
-        .filter((resource) => resource.loadTime === "afterDOMReady")
-        .map((res) => JSResourceToScriptElement(res, true))}
-    </html>
+    <Head {...componentData} />
+    <body data-slug={slug ?? ""} className={bodyClass}>
+    <div id="quartz-root" class="page">
+    <Body {...componentData}>
+    {LeftComponent}
+    <div class="center">
+    <div class="page-header">
+    <Header {...componentData}>
+    {header.map((HeaderComponent) => (
+      <HeaderComponent {...componentData} />
+    ))}
+    </Header>
+    <div class="popover-hint">
+    {beforeBody.map((BodyComponent) => (
+      <BodyComponent {...componentData} />
+    ))}
+    </div>
+    </div>
+    <Content {...componentData} />
+    <hr />
+    <div class="page-footer">
+    {afterBody.map((BodyComponent) => (
+      <BodyComponent {...componentData} />
+    ))}
+    </div>
+    </div>
+    {RightComponent}
+    <Footer {...componentData} />
+    </Body>
+    </div>
+    </body>
+    {pageResources.js
+      .filter((resource) => resource.loadTime === "afterDOMReady")
+      .map((res) => JSResourceToScriptElement(res, true))}
+      </html>
   )
 
   return "<!DOCTYPE html>\n" + render(doc)

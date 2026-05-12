@@ -52,36 +52,36 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-Component.Explorer(
-  mapFn: (node: any) => {
-    if (node.isFolder) {
-      node.displayName = "📁 " + node.displayName;
-      return;
-    }
+    Component.Explorer(
+      mapFn: (node: any) => {
+        if (node.isFolder) {
+          node.displayName = "📁 " + node.displayName;
+          return;
+        }
 
-    // определяем, что файл в папке "music"
-    const inMusic = (
-      (typeof node.path === "string" && node.path.split("/").includes("music")) ||
-      node.parent?.displayName === "music"
-    );
+        // определяем, что файл в папке "music"
+        const inMusic = (
+          (typeof node.path === "string" && node.path.split("/").includes("music")) ||
+          node.parent?.displayName === "music"
+        );
 
-    let name = node.displayName;
+        let name = node.displayName;
 
-    if (inMusic) {
-      // матчит: что угодно до дефиса, затем пробелы и строка в кавычках
-      const m = name.match(/^[^-]+-\s*"(.*)"\s*$/);
-      if (m && m[1]) {
-        name = m[1];
-      } else {
-        // альтернативный случай: без кавычек, после дефиса
-        const m2 = name.match(/^[^-]+-\s*(.*)$/);
-        if (m2 && m2[1]) name = m2[1].trim();
-      }
-    }
+        if (inMusic) {
+          // матчит: что угодно до дефиса, затем пробелы и строка в кавычках
+          const m = name.match(/^[^-]+-\s*"(.*)"\s*$/);
+          if (m && m[1]) {
+            name = m[1];
+          } else {
+            // альтернативный случай: без кавычек, после дефиса
+            const m2 = name.match(/^[^-]+-\s*(.*)$/);
+            if (m2 && m2[1]) name = m2[1].trim();
+          }
+        }
 
-    node.displayName = "📄 " + name;
-  },
-    ),
+        node.displayName = "📄 " + name;
+      },
+        ),
   ],
   right: [
     Component.Graph(),

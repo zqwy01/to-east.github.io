@@ -1,5 +1,5 @@
 ---
-title: "new_adventure"
+title: ZQWY - "new_adventure"
 author: zqwy
 alias: "na"
 aliases: 

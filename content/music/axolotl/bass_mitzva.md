@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "bass_mitzva"
+title: "bass_mitzva"
 author: zqwy
 alias: "bm"
 aliases: 

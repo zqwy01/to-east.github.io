@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "whisper_from_outland"
+title: "whisper_from_outland"
 author: zqwy
 alias: "wfo"
 aliases: 

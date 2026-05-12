@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "glioma"
+title: "glioma"
 author: zqwy
 alias: "glioma"
 aliases: 

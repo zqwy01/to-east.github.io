@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "end_spirituality"
+title: "end_spirituality"
 author: zqwy
 alias: "es"
 aliases: 

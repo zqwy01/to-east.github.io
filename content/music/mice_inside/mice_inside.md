@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "mice_inside"
+title: "mice_inside"
 author: zqwy
 alias: "mi"
 aliases: 

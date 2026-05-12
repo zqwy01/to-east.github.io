@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "new_tablet"
+title: "new_tablet"
 author: zqwy
 alias: "nt"
 aliases: 

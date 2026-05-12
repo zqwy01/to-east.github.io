@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "na_hrane"
+title: "na_hrane"
 author: zqwy
 alias: "nh"
 aliases: 

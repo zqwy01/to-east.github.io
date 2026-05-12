@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "in_forest"
+title: "in_forest"
 author: zqwy
 alias: "infor"
 aliases: 

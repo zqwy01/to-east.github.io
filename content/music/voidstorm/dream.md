@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "dream"
+title: "dream"
 author: zqwy
 alias: "dream"
 aliases: 

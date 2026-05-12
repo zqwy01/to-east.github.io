@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "not_diverse"
+title: "not_diverse"
 author: zqwy
 alias: "nd"
 aliases: 

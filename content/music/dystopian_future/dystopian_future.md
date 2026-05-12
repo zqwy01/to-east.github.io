@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "dystopian_future"
+title: "dystopian_future"
 author: zqwy
 alias: "df"
 aliases: 

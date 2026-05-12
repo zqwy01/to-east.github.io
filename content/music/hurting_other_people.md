@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "hurting_other_people"
+title: "hurting_other_people"
 author: zqwy
 alias: "hop"
 aliases: 

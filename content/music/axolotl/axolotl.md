@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "axolotl"
+title: "axolotl"
 author: zqwy
 alias: "ax"
 aliases: 

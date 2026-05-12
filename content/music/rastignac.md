@@ -1,5 +1,5 @@
 ---
-title: ZQWY - "rastignac"
+title: "rastignac"
 author: zqwy
 alias: "ra"
 aliases: 

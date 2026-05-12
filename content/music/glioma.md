@@ -17,21 +17,31 @@ publish: true
 
 
 <head>
-  <meta charset="utf-8">
-  <title>Чёрный фон</title>
-  <style>
-    html, body {
-      height: 100%;
-      margin: 0;
-      background: #000;
-      color: #fff; /* текст на чёрном фоне */
-    }
-  </style>
+<style>
+  html, body { height: 100%; margin: 0; }
+  .bg {
+    position: fixed;
+    inset: 0;
+    background-image: url('https://ia902908.us.archive.org/30/items/zqwy_glioma/zqwy_glioma_cover_site.webp'); /* замените ссылку */
+    background-size: cover;
+    background-position: center;
+    filter: blur(8px);         /* сила размытия */
+    transform: scale(1.05);    /* чтобы края не были видны при размытии */
+    z-index: -1;
+  }
+  /* основной контент поверх фона */
+  .content {
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    padding: 2rem;
+  }
+</style>
 </head>
 <body>
-  <h1>Пример с чёрным фоном</h1>
+  <div class="bg" aria-hidden="true"></div>
+  <div class="content">
 </body>
-
 
 >[!info] 
 > #### 

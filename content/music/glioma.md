@@ -24,7 +24,7 @@ publish: true
     inset: 0;
     /* сначала затемнение rgba(0,0,0,0.8), затем фото */
     background-image:
-      linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.2)),
+      linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)),
       url('https://example.com/your-photo.jpg'); /* замените ссылку */
     background-size: cover;
     background-position: center;

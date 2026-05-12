@@ -16,10 +16,22 @@ publish: true
 ---
 
 
-<div> style="background-color:#f5f5f5";> 123</div
+<head>
+  <meta charset="utf-8">
+  <title>Чёрный фон</title>
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      background: #000;
+      color: #fff; /* текст на чёрном фоне */
+    }
+  </style>
+</head>
+<body>
+  <h1>Пример с чёрным фоном</h1>
+</body>
 
-
-123
 
 >[!info] 
 > #### 

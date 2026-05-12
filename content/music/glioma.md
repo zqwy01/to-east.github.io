@@ -24,7 +24,7 @@ publish: true
     inset: 0;
     /* сначала затемнение rgba(0,0,0,0.8), затем фото */
     background-image:
-      linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)),
+      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
       url('https://ia902908.us.archive.org/30/items/zqwy_glioma/zqwy_glioma_cover_site.webp');
     background-size: cover;
     background-position: center;

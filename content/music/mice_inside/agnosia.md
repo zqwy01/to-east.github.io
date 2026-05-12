@@ -10,7 +10,6 @@ date: 2026-01-03
 publish: true
 ---
 
-
 <head>
 <style>
   html, body { height: 100%; margin: 0; }
@@ -23,7 +22,7 @@ publish: true
     background-size: cover;
     background-position: center;
     filter: blur(8px);
-    transform: scale(0.9);
+    transform: scale(1.0);
     z-index: -1;
   }
   .content {

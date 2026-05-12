@@ -20,11 +20,11 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "email": "zqwy@to-east.org",
-      "tik-tok-live": "https://www.tiktok.com/@zqwy.live",
+	  "tik-tok-live": "https://www.tiktok.com/@zqwy.live",
       "tik-tok-to-east": "https://www.tiktok.com/@zqwy_to_east",
-      "pond5": "https://www.pond5.com/ru/artist/zqwy_music",
-      "pintrest": "https://pinterest.com/z_q_w_y/",
-    }
+	  "pond5": "https://www.pond5.com/ru/artist/zqwy_music",
+	  "pintrest": "https://pinterest.com/z_q_w_y/",
+	}
   }),
 }
 
@@ -33,7 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
-                                condition: (page) => page.fileData.slug !== "index",
+      condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
@@ -46,61 +46,15 @@ export const defaultContentPageLayout: PageLayout = {
       components: [
         {
           Component: Component.Search(),
-                   grow: true,
+          grow: true,
         },
         { Component: Component.Darkmode() },
-                   { Component: Component.ReaderMode() },
+        { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({
-      mapFn: (node: any) => {
-        try {
-          // безопасный лог (если нужен)
-          try { console.log(JSON.stringify({
-            path: node?.path,
-            parentDisplay: node?.parent?.displayName ?? node?.parent?.name,
-            displayName: node?.displayName,
-            name: node?.name,
-            title: node?.title,
-            fileName: node?.fileName,
-            isFolder: node?.isFolder
-          })) } catch (e) {}
+    Component.Explorer(
 
-          if (node?.isFolder) {
-            node.displayName = `📁 ${String(node.displayName ?? node.name ?? "")}`;
-            return;
-          }
-
-          const path = typeof node?.path === "string"
-          ? node.path
-          : String(node?.parent?.path ?? node?.parent?.displayName ?? node?.parent?.name ?? "");
-          const parentName = String(node?.parent?.displayName ?? node?.parent?.name ?? "").toLowerCase();
-          const inMusic = path.split("/").includes("music") || parentName === "music";
-
-          // исходное имя из возможных полей
-          const raw = String(node?.displayName ?? node?.name ?? node?.fileName ?? node?.title ?? "").trim();
-
-          let finalName = raw;
-          if (inMusic && raw) {
-            finalName = raw
-            .replace(/^[^-]*-\s*/, "")          // удалить всё до первого дефиса включительно
-            .replace(/^["'“”\s]+|["'“”\s]+$/g, "") // убрать кавычки и пробелы по краям
-            .replace(/\.[a-z0-9]{1,5}$/i, "")   // убрать расширение файла
-            .trim();
-            if (!finalName) finalName = raw.trim();
-          }
-
-          const display = `📄 ${finalName}`;
-          node.displayName = display;
-          node.name = finalName;
-          node.title = finalName;
-          node.fileName = finalName;
-        } catch (err) {
-          try { console.error("Explorer mapFn error:", String(err)) } catch (e) {}
-          node.displayName = `📄 ${String(node?.displayName ?? node?.name ?? "")}`;
-        }
-      }
-    }),
+    ),
   ],
   right: [
     Component.Graph(),
@@ -119,7 +73,7 @@ export const defaultListPageLayout: PageLayout = {
       components: [
         {
           Component: Component.Search(),
-                   grow: true,
+          grow: true,
         },
         { Component: Component.Darkmode() },
       ],

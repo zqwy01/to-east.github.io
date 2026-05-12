@@ -4,13 +4,3 @@
     color: var(--shiki-dark);
     background-color: #3B4252;
 }
-
-
-.mypage-bg {
-    background: url('/static/images/bg-mypage.jpg') center/cover no-repeat;
-    background-color: #0f1720; /* запасной цвет */
-}
-
-.mypage-bg .full-page { /* или другой селектор, зависящий от верстки */
-    min-height: 100vh;
-}

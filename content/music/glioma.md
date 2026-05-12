@@ -15,6 +15,12 @@ cssclasses: mypage-bg
 publish: true
 ---
 
+<!doctype html>
+<html style="background:#f5f5f5;min-height:100vh;margin:0">
+</html>
+
+123
+
 >[!info] 
 > #### 
 

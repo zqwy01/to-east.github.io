@@ -22,14 +22,16 @@ publish: true
   .bg {
     position: fixed;
     inset: 0;
-    background-image: url('https://ia902908.us.archive.org/30/items/zqwy_glioma/zqwy_glioma_cover_site.webp'); /* замените ссылку */
+    /* сначала затемнение rgba(0,0,0,0.8), затем фото */
+    background-image:
+      linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)),
+      url('https://example.com/your-photo.jpg'); /* замените ссылку */
     background-size: cover;
     background-position: center;
-    filter: blur(8px);         /* сила размытия */
-    transform: scale(1.05);    /* чтобы края не были видны при размытии */
+    filter: blur(8px);
+    transform: scale(1.05);
     z-index: -1;
   }
-  /* основной контент поверх фона */
   .content {
     position: relative;
     z-index: 1;
@@ -41,6 +43,9 @@ publish: true
 <body>
   <div class="bg" aria-hidden="true"></div>
   <div class="content">
+    <h1>Текст поверх затемнённого и размывшегося фонового изображения</h1>
+    <p>Контент страницы...</p>
+  </div>
 </body>
 
 >[!info] 

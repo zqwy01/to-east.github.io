@@ -18,62 +18,32 @@ date: 2025-02-02
 publish: true
 ---
 
-
-body.light-mode .content { color: #111; }
-body.dark-mode .content  { color: #fff; }
-
-body.light-mode .bg {
-  background-image: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url('path/to/cover.jpg');
-  filter: blur(8px) brightness(1);
-}
-body.dark-mode .bg {
-  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('path/to/cover.jpg');
-  filter: blur(8px) brightness(0.6);
-}
-
-
-<script>
-  // Найти кнопку по реальному селектору (замените, если нужно)
-  const btn = document.querySelector('button.darkmode');
-
-  if (btn) {
-    const hasVisibleDayIcon = () => {
-      const el = btn.querySelector('.dayIcon');
-      if (!el) return false;
-      const style = getComputedStyle(el);
-      return style.display !== 'none' && style.visibility !== 'hidden' && style.opacity !== '0';
-    };
-
-    const applyTheme = () => {
-      if (hasVisibleDayIcon()) {
-        document.body.classList.add('light-mode');
-        document.body.classList.remove('dark-mode');
-      } else {
-        document.body.classList.add('dark-mode');
-        document.body.classList.remove('light-mode');
-      }
-    };
-
-    // начальная синхронизация
-    applyTheme();
-
-    // Наблюдаем за изменениями атрибутов и деревом внутри кнопки
-    const mo = new MutationObserver(() => applyTheme());
-    mo.observe(btn, { attributes: true, attributeFilter: ['class', 'style'], childList: true, subtree: true });
-
-    // Если хотите — также реагируем на клики (например, ваш код меняет вид иконок)
-    btn.addEventListener('click', () => {
-      // не обязателен — applyTheme вызовётся через MutationObserver, но можно и явно:
-      applyTheme();
-    });
-  } else {
-    console.warn('Button .darkmode not found');
+<head>
+<style>
+  html, body { height: 100%; margin: 0; }
+  .bg {
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      url('https://i.pinimg.com/474x/5d/a6/a4/5da6a46cf3001323588b55d097de56ea.jpg');
+    background-size: cover;
+    background-position: center;
+    filter: blur(8px);
+    transform: scale(1.0);
+    z-index: -1;
   }
-</script>
-
-
-
-
+  .content {
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    padding: 2rem;
+  }
+</style>
+</head>
+<body>
+  <div class="bg" aria-hidden="true"></div>
+</body>
 
 
 

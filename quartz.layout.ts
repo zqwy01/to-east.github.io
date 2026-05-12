@@ -20,11 +20,11 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "email": "zqwy@to-east.org",
-	  "tik-tok-live": "https://www.tiktok.com/@zqwy.live",
+      "tik-tok-live": "https://www.tiktok.com/@zqwy.live",
       "tik-tok-to-east": "https://www.tiktok.com/@zqwy_to_east",
-	  "pond5": "https://www.pond5.com/ru/artist/zqwy_music",
-	  "pintrest": "https://pinterest.com/z_q_w_y/",
-	}
+      "pond5": "https://www.pond5.com/ru/artist/zqwy_music",
+      "pintrest": "https://pinterest.com/z_q_w_y/",
+    }
   }),
 }
 
@@ -33,7 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
+                                condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
@@ -46,13 +46,13 @@ export const defaultContentPageLayout: PageLayout = {
       components: [
         {
           Component: Component.Search(),
-          grow: true,
+                   grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
+                   { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(
+    Component.Explorer({
       mapFn: (node: any) => {
         try {
           if (node.isFolder) {
@@ -83,7 +83,7 @@ export const defaultContentPageLayout: PageLayout = {
           node.displayName = `📄 ${String(node.displayName ?? "")}`;
         }
       },
-    ),
+    }),
   ],
   right: [
     Component.Graph(),
@@ -102,7 +102,7 @@ export const defaultListPageLayout: PageLayout = {
       components: [
         {
           Component: Component.Search(),
-          grow: true,
+                   grow: true,
         },
         { Component: Component.Darkmode() },
       ],

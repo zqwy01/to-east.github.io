@@ -1,5 +1,5 @@
 ---
-title: "voidstorm"
+title: ZQWY - "voidstorm"
 author: zqwy
 alias: "vs"
 aliases: 

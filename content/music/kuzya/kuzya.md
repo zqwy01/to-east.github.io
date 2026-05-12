@@ -1,5 +1,5 @@
 ---
-title: "kuzya"
+title: ZQWY - "kuzya"
 author: zqwy
 alias: "kuzya"
 aliases: 

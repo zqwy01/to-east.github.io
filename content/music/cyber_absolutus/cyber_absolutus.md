@@ -1,5 +1,5 @@
 ---
-title: "cyber_absolutus"
+title: ZQWY - "cyber_absolutus"
 author: zqwy
 alias: "ca"
 aliases: 

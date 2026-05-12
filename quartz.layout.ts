@@ -52,9 +52,31 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(
+    Component.Explorer({
+      mapFn: (node) => {
+        if (node.isFolder) {
+          node.displayName = "📁 " + node.displayName
+          return node
+        }
 
-    ),
+        // определяем категории: поддерживаем строку или массив
+        const fileData = node.page?.fileData
+        const cats = fileData?.category ?? fileData?.categories
+        const isMusic = Array.isArray(cats) ? cats.includes("music") : cats === "music"
+
+        // стандартная иконка для файла
+        let name = node.displayName
+
+        if (isMusic && typeof name === "string") {
+          // матчим шаблон вида `ANY - "track_name"` или `ANY - “track_name”` или ANY - track_name
+          const m = name.match(/^[^-]+-\s*["“”]?(.+?)["“”]?$/)
+          if (m && m[1]) name = m[1].trim()
+        }
+
+        node.displayName = "📄 " + name
+        return node
+      }
+    }),
   ],
   right: [
     Component.Graph(),

@@ -19,6 +19,36 @@ date:
 publish: true
 ---
 
+
+<head>
+<style>
+  html, body { height: 100%; margin: 0; }
+  .bg {
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      url('https://ia903109.us.archive.org/30/items/zqwy_mice_inside/mice_inside_cover.webp');
+    background-size: cover;
+    background-position: center;
+    filter: blur(8px);
+    transform: scale(1.0);
+    z-index: -1;
+  }
+  .content {
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    padding: 2rem;
+  }
+</style>
+</head>
+<body>
+  <div class="bg" aria-hidden="true"></div>
+</body>
+
+
+
 >[!info] 
 > #### A 19-track album blending darkhappy, electronica, downtempo, piano, cinematic, drone, ambient, phonk, metal, and IDM — an experimental, atmospheric, and rhythmically diverse collection where melancholic piano motifs and drone soundscapes intertwine with gritty phonk riffs, metal aggression, and intricate IDM textures. Suited for fans of film scores, late-night ambient sets, and listeners seeking contrasting, emotionally rich sonic landscapes.
 

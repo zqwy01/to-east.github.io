@@ -15,6 +15,36 @@ date: 2025-02-06
 publish: true
 ---
 
+
+<head>
+<style>
+  html, body { height: 100%; margin: 0; }
+  .bg {
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      url('https://ia801502.us.archive.org/13/items/zqwy_forthy_hours/zqwy_forty_hours_cover.jpg');
+    background-size: cover;
+    background-position: center;
+    filter: blur(8px);
+    transform: scale(1.0);
+    z-index: -1;
+  }
+  .content {
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    padding: 2rem;
+  }
+</style>
+</head>
+<body>
+  <div class="bg" aria-hidden="true"></div>
+</body>
+
+
+
 >[!info] 
 > #### 
 

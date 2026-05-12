@@ -12,6 +12,36 @@ date: 2025-02-02
 publish: true
 ---
 
+
+<head>
+<style>
+  html, body { height: 100%; margin: 0; }
+  .bg {
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      url('');
+    background-size: cover;
+    background-position: center;
+    filter: blur(8px);
+    transform: scale(1.0);
+    z-index: -1;
+  }
+  .content {
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    padding: 2rem;
+  }
+</style>
+</head>
+<body>
+  <div class="bg" aria-hidden="true"></div>
+</body>
+
+
+
 >[!info] Nocturnal Reese Groove: Melancholic Club Drive, Night Car:
 > #### Dark, slightly melancholic club groove in E minor at 108 BPM: warm reese bass, filtered retro pads. Nighttime atmosphere, repeating melody, syncopated percussion and a light lo‑fi texture; dynamics are heavily compressed, creating a huge sense of space. Techno‑energy drive in a phonk atmosphere.
 

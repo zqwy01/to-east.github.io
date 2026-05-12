@@ -15,6 +15,36 @@ date: 2024-11-16
 publish: true
 ---
 
+
+<head>
+<style>
+  html, body { height: 100%; margin: 0; }
+  .bg {
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      url('https://ia600509.us.archive.org/4/items/zqwy_algiz/zqwy_algiz_cover.jpg');
+    background-size: cover;
+    background-position: center;
+    filter: blur(8px);
+    transform: scale(1.0);
+    z-index: -1;
+  }
+  .content {
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    padding: 2rem;
+  }
+</style>
+</head>
+<body>
+  <div class="bg" aria-hidden="true"></div>
+</body>
+
+
+
 >[!info] 
 > #### 
 

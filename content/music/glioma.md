@@ -11,7 +11,6 @@ tags:
 - noise 
 description: 
 date: 2024-11-14
-cssclasses: mypage-bg
 publish: true
 ---
 
@@ -22,14 +21,13 @@ publish: true
   .bg {
     position: fixed;
     inset: 0;
-    /* сначала затемнение rgba(0,0,0,0.8), затем фото */
     background-image:
       linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
       url('https://ia902908.us.archive.org/30/items/zqwy_glioma/zqwy_glioma_cover_site.webp');
     background-size: cover;
     background-position: center;
     filter: blur(8px);
-    transform: scale(1.05);
+    transform: scale(1.0);
     z-index: -1;
   }
   .content {
@@ -43,6 +41,8 @@ publish: true
 <body>
   <div class="bg" aria-hidden="true"></div>
 </body>
+
+
 
 >[!info] 
 > #### 

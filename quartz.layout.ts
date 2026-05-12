@@ -52,39 +52,39 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-  Component.Explorer(
-    mapFn: (node: any) => {
-      try {
-        if (node.isFolder) {
-          node.displayName = `📁 ${String(node.displayName ?? "")}`;
-          return;
-        }
-
-        const path = typeof node.path === "string"
-        ? node.path
-        : String(node.parent?.path ?? node.parent?.displayName ?? "");
-        const inMusic = path.split("/").includes("music") ||
-        String(node.parent?.displayName ?? "").toLowerCase() === "music";
-
-        let name = String(node.displayName ?? "");
-
-        if (inMusic) {
-          const m = name.match(/^[^-]+-\s*"(.*)"\s*$/);
-          if (m && m[1]) {
-            name = m[1];
-          } else {
-            const m2 = name.match(/^[^-]+-\s*(.*)$/);
-            if (m2 && m2[1]) name = m2[1].trim();
+    Component.Explorer(
+      mapFn: (node: any) => {
+        try {
+          if (node.isFolder) {
+            node.displayName = `📁 ${String(node.displayName ?? "")}`;
+            return;
           }
-        }
 
-        node.displayName = `📄 ${name}`;
-      } catch (err) {
-        // гарантируем строковое значение, если что-то пошло не так
-        node.displayName = `📄 ${String(node.displayName ?? "")}`;
-      }
-    },
-  ),
+          const path = typeof node.path === "string"
+          ? node.path
+          : String(node.parent?.path ?? node.parent?.displayName ?? "");
+          const inMusic = path.split("/").includes("music") ||
+          String(node.parent?.displayName ?? "").toLowerCase() === "music";
+
+          let name = String(node.displayName ?? "");
+
+          if (inMusic) {
+            const m = name.match(/^[^-]+-\s*"(.*)"\s*$/);
+            if (m && m[1]) {
+              name = m[1];
+            } else {
+              const m2 = name.match(/^[^-]+-\s*(.*)$/);
+              if (m2 && m2[1]) name = m2[1].trim();
+            }
+          }
+
+          node.displayName = `📄 ${name}`;
+        } catch (err) {
+          // гарантируем строковое значение, если что-то пошло не так
+          node.displayName = `📄 ${String(node.displayName ?? "")}`;
+        }
+      },
+    ),
   ],
   right: [
     Component.Graph(),

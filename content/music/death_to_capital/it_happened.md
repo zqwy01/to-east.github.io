@@ -61,7 +61,7 @@ publish: true
 >
 > ## it_happened
 >
-> <img src="" alt="zqwy_it_happened title="""/>
+<img src="" alt="zqwy_it_happened title="""/>
 >
 > ### Table Heading
 >

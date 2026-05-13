@@ -58,7 +58,7 @@ publish: true
 >
 > ## agnosia
 >
-> <img src="" alt="zqwy_agnosia title="""/>
+<img src="" alt="zqwy_agnosia title="""/>
 >
 > ### Table Heading
 >

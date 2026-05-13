@@ -61,7 +61,7 @@ publish: true
 >
 > ## mannequins
 >
-> <img src="" alt="zqwy_mannequins title="""/>
+<img src="" alt="zqwy_mannequins title="""/>
 >
 > ### Table Heading
 >

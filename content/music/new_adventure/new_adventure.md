@@ -61,7 +61,7 @@ publish: true
 >
 > ## new_adventure
 >
-> <img src="" alt="zqwy_new_adventure title="""/>
+<img src="" alt="zqwy_new_adventure title="""/>
 >
 > ### Table Heading
 >

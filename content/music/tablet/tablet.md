@@ -60,7 +60,7 @@ publish: true
 >
 > ## tablet
 >
-> <img src="" alt="zqwy_tablet title="""/>
+<img src="" alt="zqwy_tablet title="""/>
 >
 > ### Table Heading
 >

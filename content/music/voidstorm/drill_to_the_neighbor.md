@@ -62,7 +62,7 @@ publish: true
 >
 > ## drill_to_the_neighbor
 >
-> <img src="" alt="zqwy_drill_to_the_neighbor title="""/>
+<img src="" alt="zqwy_drill_to_the_neighbor title="""/>
 >
 > ### Table Heading
 >

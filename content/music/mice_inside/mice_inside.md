@@ -67,7 +67,7 @@ publish: true
 >
 > ## mice_inside
 >
-> <img src="https://ia903109.us.archive.org/30/items/zqwy_mice_inside/mice_inside_cover.webp" alt="zqwy_mice_inside title="""/>
+<img src="https://ia903109.us.archive.org/30/items/zqwy_mice_inside/mice_inside_cover.webp" alt="zqwy_mice_inside title="""/>
 >
 > ### Table Heading
 >

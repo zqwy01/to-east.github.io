@@ -60,7 +60,7 @@ publish: true
 >
 > ## rastignac
 >
-> <img src="" alt="zqwy_rastignac title="""/>
+<img src="" alt="zqwy_rastignac title="""/>
 >
 > ### Table Heading
 >

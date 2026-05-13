@@ -77,7 +77,7 @@ publish: true
 >
 > ## voidstorm
 >
-> <img src="https://archive.org/download/zqwy_voidstorm/zqwy_voidstorm_cover_site.webp" alt="zqwy_voidstorm title="""/>
+<img src="https://archive.org/download/zqwy_voidstorm/zqwy_voidstorm_cover_site.webp" alt="zqwy_voidstorm title="""/>
 >
 > ### Table Heading
 >

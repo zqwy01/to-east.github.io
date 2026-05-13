@@ -62,7 +62,7 @@ publish: true
 >
 > ## joker
 >
-> <img src="https://ia600403.us.archive.org/32/items/zqwy_joker/zqwy_joker_cover.jpg" alt="zqwy_joker title="""/>
+<img src="https://ia600403.us.archive.org/32/items/zqwy_joker/zqwy_joker_cover.jpg" alt="zqwy_joker title="""/>
 >
 > ### Table Heading
 >

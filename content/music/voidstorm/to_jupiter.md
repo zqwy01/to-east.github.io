@@ -59,7 +59,7 @@ publish: true
 >
 > ## to_jupiter
 >
-> <img src="" alt="zqwy_to_jupiter title="""/>
+<img src="" alt="zqwy_to_jupiter title="""/>
 >
 > ### Table Heading
 >

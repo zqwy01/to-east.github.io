@@ -61,7 +61,7 @@ publish: true
 >
 > ## bass_mitzva
 >
-> <img src="https://i.pinimg.com/1200x/ba/ae/1d/baae1dafc04b11ec4deb981f6484e5af.jpg" alt="zqwy_bass_mitzva title="""/>
+<img src="https://i.pinimg.com/1200x/ba/ae/1d/baae1dafc04b11ec4deb981f6484e5af.jpg" alt="zqwy_bass_mitzva title="""/>
 >
 > ### Table Heading
 >

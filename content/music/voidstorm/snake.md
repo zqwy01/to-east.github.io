@@ -60,7 +60,7 @@ publish: true
 >
 > ## snake
 >
-> <img src="" alt="zqwy_snake title="""/>
+<img src="" alt="zqwy_snake title="""/>
 >
 > ### Table Heading
 >

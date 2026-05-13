@@ -24,12 +24,14 @@ publish: true
 
 
 
+
+
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <style>
 :root{
-  --cover-url: url('https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp');
+  --cover-url: url('{cover}');
   --overlay-dark: rgba(0,0,0,0.85);
   --overlay-light: rgba(255,255,255,0.65);
   --content-color-dark: #ffffff;

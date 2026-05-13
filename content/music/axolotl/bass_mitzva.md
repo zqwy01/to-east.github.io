@@ -18,12 +18,14 @@ publish: true
 
 
 
+
+
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <style>
 :root{
-  --cover-url: url('https://i.pinimg.com/1200x/ba/ae/1d/baae1dafc04b11ec4deb981f6484e5af.jpg');
+  --cover-url: url('{cover}');
   --overlay-dark: rgba(0,0,0,0.85);
   --overlay-light: rgba(255,255,255,0.65);
   --content-color-dark: #ffffff;

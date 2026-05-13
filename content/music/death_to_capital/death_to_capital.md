@@ -18,12 +18,14 @@ publish: true
 
 
 
+
+
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <style>
 :root{
-  --cover-url: url('https://ia800108.us.archive.org/7/items/death_to_capital/zqwy_death_to_capital_cover_site.webp');
+  --cover-url: url('{cover}');
   --overlay-dark: rgba(0,0,0,0.85);
   --overlay-light: rgba(255,255,255,0.65);
   --content-color-dark: #ffffff;

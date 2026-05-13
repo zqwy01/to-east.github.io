@@ -26,12 +26,14 @@ publish: true
 
 
 
+
+
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <style>
 :root{
-  --cover-url: url('https://dn720704.ca.archive.org/0/items/cyber_absolutus/zqwy_limon_cover.webp');
+  --cover-url: url('{cover}');
   --overlay-dark: rgba(0,0,0,0.85);
   --overlay-light: rgba(255,255,255,0.65);
   --content-color-dark: #ffffff;

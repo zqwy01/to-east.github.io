@@ -12,72 +12,84 @@ date: 2025-02-02
 publish: true
 ---
 
+
+
+
+
 <head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <style>
-  html, body { height: 100%; margin: 0; }
+:root{
+  --cover-url: url('');
+  --overlay-dark: rgba(0,0,0,0.85);
+  --overlay-light: rgba(255,255,255,0.65);
+  --content-color-dark: #ffffff;
+  --content-color-light: #111111;
+  --blur: 8px;
+  --scale: 1;
+}
 
-  :root {
-    --overlay-dark: rgba(0,0,0,0.9);
-    --overlay-light: rgba(255,255,255,0.6);
+html, body { height: 100%; margin: 0; }
+.bg {
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--overlay-light), var(--overlay-light)),
+    var(--cover-url);
+  background-size: cover;
+  background-position: center;
+  filter: blur(var(--blur));
+  transform: scale(var(--scale));
+  z-index: -1;
+}
 
-    --text-light: #111;
-  }
+.content {
+  position: relative;
+  z-index: 1;
+  color: var(--content-color-light);
+  padding: 2rem;
+}
 
-  /* По умолчанию — светлая тема (если нужно, можно поменять местами) */
-  .bg {
-    position: fixed;
-    inset: 0;
-    background-image:
-      linear-gradient(var(--overlay-light), var(--overlay-light)),
-      url('{row['cover']}');
-    background-size: cover;
-    background-position: center;
-    filter: blur(8px);
-    transform: scale(1.0);
-    z-index: -1;
-  }
+/* prefers-color-scheme: dark */
+@media (prefers-color-scheme: dark) {
+  .bg { background-image: linear-gradient(var(--overlay-dark), var(--overlay-dark)), var(--cover-url); }
+  .content { color: var(--content-color-dark); }
+}
 
-  .content {
-    position: relative;
-    z-index: 1;
-    color: var(--text-light);
-    padding: 2rem;
-  }
+/* Явный выбор темы через html[data-theme="dark"] */
+html[data-theme="dark"] .bg { background-image: linear-gradient(var(--overlay-dark), var(--overlay-dark)), var(--cover-url); }
+html[data-theme="dark"] .content { color: var(--content-color-dark); }
 
-  /* Тёмная тема через предпочитаемую схему цветов ОС/браузера */
-  @media (prefers-color-scheme: dark) {
-    .bg {
-      background-image:
-        linear-gradient(var(--overlay-dark), var(--overlay-dark)),
-        url('');
-    }
-    .content {
-      color: var(--text-dark);
-    }
-  }
-
-  /* Дополнительно: поддержка атрибута data-theme (при необходимости в шаблоне) */
-  [data-theme="dark"] .bg {
-    background-image:
-      linear-gradient(var(--overlay-dark), var(--overlay-dark)),
-      url('');
-  }
-  [data-theme="dark"] .content { color: var(--text-dark); }
-
-  [data-theme="light"] .bg {
-    background-image:
-      linear-gradient(var(--overlay-light), var(--overlay-light)),
-      url('');
-  }
-  [data-theme="light"] .content { color: var(--text-light); }
+html[data-theme="light"] .bg { background-image: linear-gradient(var(--overlay-light), var(--overlay-light)), var(--cover-url); }
+html[data-theme="light"] .content { color: var(--content-color-light); }
 </style>
 </head>
 <body>
   <div class="bg" aria-hidden="true"></div>
-  <div class="content">
-    <!-- Ваш контент -->
-  </div>
+
+  <main class="content">
+    <h1>Заголовок</h1>
+    <p>Текст поверх фонового изображения.</p>
+  </main>
 </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <head>

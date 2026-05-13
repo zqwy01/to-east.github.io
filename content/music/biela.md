@@ -61,6 +61,23 @@ publish: true
   <div class="bg" aria-hidden="true"></div>
 </body>
 
+
+> [!infobox]
+>
+>
+> ## Article Title
+>
+> ![[image]]
+>
+> ### Table Heading
+>
+> | Type | Name |
+> | --- | --- |
+> | Row | Row |
+> | Row | Row |
+
+
+
 >[!info] Mysterious soundtrack, mystical, esoteric orchestra:
 > #### Epic Scandinavian folklore. Dark epic, mysterious fantasy, ethereal folk. Folktronic ambient and spooky phonk. Twilight, secretive, and forbidden occultism. A fusion of East and West, a mythological atmosphere, syncopated chthonic nihilism. Magical energy, arcane ritual, and spirituality. 🎹
 

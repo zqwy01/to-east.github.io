@@ -55,6 +55,23 @@ publish: true
   <div class="bg" aria-hidden="true"></div>
 </body>
 
+
+> [!infobox]
+>
+>
+> ## Article Title
+>
+> ![[image]]
+>
+> ### Table Heading
+>
+> | Type | Name |
+> | --- | --- |
+> | Row | Row |
+> | Row | Row |
+
+
+
 >[!info] 
 > #### 
 

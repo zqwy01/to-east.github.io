@@ -61,6 +61,23 @@ publish: true
   <div class="bg" aria-hidden="true"></div>
 </body>
 
+
+> [!infobox]
+>
+>
+> ## Article Title
+>
+> ![[image]]
+>
+> ### Table Heading
+>
+> | Type | Name |
+> | --- | --- |
+> | Row | Row |
+> | Row | Row |
+
+
+
 >[!info] 
 > #### A 19-track album blending darkhappy, electronica, downtempo, piano, cinematic, drone, ambient, phonk, metal, and IDM — an experimental, atmospheric, and rhythmically diverse collection where melancholic piano motifs and drone soundscapes intertwine with gritty phonk riffs, metal aggression, and intricate IDM textures. Suited for fans of film scores, late-night ambient sets, and listeners seeking contrasting, emotionally rich sonic landscapes.
 

@@ -15,6 +15,11 @@ date: 2025-02-06
 publish: true
 ---
 
+
+
+
+
+
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -55,6 +60,26 @@ publish: true
   @media (prefers-color-scheme: dark){:root{color-scheme: dark}}
 </style>
 </head>
+<body>
+  <div class="bg" aria-hidden="true"></div>
+  <main class="content">
+    <h1>Заголовок</h1>
+    <p>Пример контента поверх фона.</p>
+  </main>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

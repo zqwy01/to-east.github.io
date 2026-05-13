@@ -11,16 +11,58 @@ date: 2025-02-06
 publish: true
 ---
 
+
+
 <head>
 <style>
-  :root{
-    --blur:8px;
-    --bg-light:rgba(255,255,255,0.7);
-    --bg-dark:rgba(18,18,20,0.6);
-    --text-light:#111;
-    --text-dark:#fff;
-    --trans:300ms;
+
+  html[saved-theme="dark"] .bg,
+  body[saved-theme="dark"] .bg {
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      url('');
+    background-size: cover;
+    background-position: center;
+    filter: blur(8px) saturate(0.9) contrast(0.95);
+    transform: scale(1.0);
+    z-index: -1;
+    transition: filter .3s ease, transform .3s ease, background-color .3s ease;
   }
+
+  /* Светлая тема */
+  html[saved-theme="light"] .bg,
+  body[saved-theme="light"] .bg {
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)),
+      url('');
+    background-size: cover;
+    background-position: center;
+    filter: blur(6px) brightness(1.06) contrast(1.02);
+    transform: scale(1.02);
+    z-index: -1;
+    transition: filter .3s ease, transform .3s ease, background-color .3s ease;
+  }
+
+  /* Запасной вариант: если атрибут не задан, используем системную схему */
+  @media (prefers-color-scheme: dark) {
+    :root:not([saved-theme]) .bg {
+      background-image:
+        linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+        url('');
+      filter: blur(8px) saturate(0.9) contrast(0.95);
+    }
+  @media (prefers-color-scheme: light) {
+    :root:not([saved-theme]) .bg {
+      background-image:
+        linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)),
+        url('');
+      filter: blur(6px) brightness(1.06) contrast(1.02);
+    }
+
   html, body { height: 100%; margin: 0; }
   .bg {
     position: fixed;

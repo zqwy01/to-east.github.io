@@ -12,9 +12,6 @@ publish: true
 ---
 
 
-
-
-
 <head>
 <style>
   img {

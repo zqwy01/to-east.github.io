@@ -39,7 +39,7 @@ publish: true
     position: fixed;
     inset: 0;
     background-image:
-      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
       url('https://ia600409.us.archive.org/24/items/zqwy_na_hrane/ZQWY_NA_HRANE_COVER_site.webp');
     background-size: cover;
     background-position: center;

@@ -32,7 +32,7 @@ publish: true
     position: fixed;
     inset: 0;
     background-image:
-      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
       url('https://ia600601.us.archive.org/16/items/zqwy_dystopian_future/dystopian_future_cover.jpg');
     background-size: cover;
     background-position: center;

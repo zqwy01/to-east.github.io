@@ -34,7 +34,7 @@ publish: true
     position: fixed;
     inset: 0;
     background-image:
-      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
       url('https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp');
     background-size: cover;
     background-position: center;

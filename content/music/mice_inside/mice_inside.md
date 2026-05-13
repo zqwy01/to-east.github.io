@@ -34,7 +34,7 @@ publish: true
     position: fixed;
     inset: 0;
     background-image:
-      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
       url('https://ia903109.us.archive.org/30/items/zqwy_mice_inside/mice_inside_cover.webp');
     background-size: cover;
     background-position: center;

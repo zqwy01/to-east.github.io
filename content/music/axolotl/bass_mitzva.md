@@ -28,7 +28,7 @@ publish: true
     position: fixed;
     inset: 0;
     background-image:
-      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
       url('https://i.pinimg.com/1200x/ba/ae/1d/baae1dafc04b11ec4deb981f6484e5af.jpg');
     background-size: cover;
     background-position: center;

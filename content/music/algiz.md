@@ -30,7 +30,7 @@ publish: true
     position: fixed;
     inset: 0;
     background-image:
-      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
       url('https://ia600509.us.archive.org/4/items/zqwy_algiz/zqwy_algiz_cover.jpg');
     background-size: cover;
     background-position: center;

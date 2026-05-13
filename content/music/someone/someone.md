@@ -26,7 +26,7 @@ publish: true
     position: fixed;
     inset: 0;
     background-image:
-      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
       url('https://ia801501.us.archive.org/13/items/zqwy_someone/someone_cover_site.webp');
     background-size: cover;
     background-position: center;

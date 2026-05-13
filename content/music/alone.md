@@ -29,7 +29,7 @@ publish: true
     position: fixed;
     inset: 0;
     background-image:
-      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
       url('https://ia600801.us.archive.org/14/items/zqwy_alone_/zqwy_alone_cover_site.webp');
     background-size: cover;
     background-position: center;

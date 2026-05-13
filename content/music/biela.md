@@ -26,7 +26,6 @@ publish: true
   :root {
     --overlay-dark: rgba(0,0,0,0.9);
     --overlay-light: rgba(255,255,255,0.6);
-    --text-dark: #fff;
     --text-light: #111;
   }
 

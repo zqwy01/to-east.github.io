@@ -17,19 +17,11 @@ date: 2023-05-21
 publish: true
 ---
 
----
-
 <head>
 <style>
   html, body { height: 100%; margin: 0; }
 
-  :root {
-    --overlay-dark: rgba(0,0,0,0.9);
-    --overlay-light: rgba(255,255,255,0.6);
-    --text-dark: #fff;
-    --text-light: #111;
-  }
-
+  /* По умолчанию — светлая тема (если нужно, можно поменять местами) */
   .bg {
     position: fixed;
     inset: 0;
@@ -50,11 +42,12 @@ publish: true
     padding: 2rem;
   }
 
+  /* Тёмная тема через предпочитаемую схему цветов ОС/браузера */
   @media (prefers-color-scheme: dark) {
     .bg {
       background-image:
         linear-gradient(var(--overlay-dark), var(--overlay-dark)),
-        url('https://ia801502.us.archive.org/13/items/zqwy_forthy_hours/zqwy_forty_hours_cover.jpg');
+        url('https://ia600601.us.archive.org/16/items/zqwy_dystopian_future/dystopian_future_cover.jpg');
     }
     .content {
       color: var(--text-dark);
@@ -83,9 +76,6 @@ publish: true
     <!-- Ваш контент -->
   </div>
 </body>
-
----
-
 
 
 

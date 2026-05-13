@@ -15,19 +15,11 @@ date: 2025-02-06
 publish: true
 ---
 
----
-
 <head>
 <style>
   html, body { height: 100%; margin: 0; }
 
-  :root {
-    --overlay-dark: rgba(0,0,0,0.9);
-    --overlay-light: rgba(255,255,255,0.6);
-    --text-dark: #fff;
-    --text-light: #111;
-  }
-
+  /* По умолчанию — светлая тема (если нужно, можно поменять местами) */
   .bg {
     position: fixed;
     inset: 0;
@@ -48,6 +40,7 @@ publish: true
     padding: 2rem;
   }
 
+  /* Тёмная тема через предпочитаемую схему цветов ОС/браузера */
   @media (prefers-color-scheme: dark) {
     .bg {
       background-image:
@@ -81,9 +74,6 @@ publish: true
     <!-- Ваш контент -->
   </div>
 </body>
-
----
-
 
 
 

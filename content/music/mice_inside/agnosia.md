@@ -14,53 +14,13 @@ publish: true
 <style>
   html, body { height: 100%; margin: 0; }
 
-  /* По умолчанию — светлая тема (если нужно, можно поменять местами) */
-  .bg {
-    position: fixed;
-    inset: 0;
-    background-image:
-      linear-gradient(var(--overlay-light), var(--overlay-light)),
-      url('');
-    background-size: cover;
-    background-position: center;
-    filter: blur(8px);
-    transform: scale(1.0);
-    z-index: -1;
+  :root {
+    --overlay-dark: rgba(0,0,0,0.9);
+    --overlay-light: rgba(255,255,255,0.6);
+    --text-dark: #fff;
+    --text-light: #111;
   }
 
-  .content {
-    position: relative;
-    z-index: 1;
-    color: var(--text-light);
-    padding: 2rem;
-  }
-
-  /* Тёмная тема через предпочитаемую схему цветов ОС/браузера */
-  @media (prefers-color-scheme: dark) {
-    .bg {
-      background-image:
-        linear-gradient(var(--overlay-dark), var(--overlay-dark)),
-        url('');
-    }
-    .content {
-      color: var(--text-dark);
-    }
-  }
-
-  /* Дополнительно: поддержка атрибута data-theme (при необходимости в шаблоне) */
-  [data-theme="dark"] .bg {
-    background-image:
-      linear-gradient(var(--overlay-dark), var(--overlay-dark)),
-      url('');
-  }
-  [data-theme="dark"] .content { color: var(--text-dark); }
-
-  [data-theme="light"] .bg {
-    background-image:
-      linear-gradient(var(--overlay-light), var(--overlay-light)),
-      url('');
-  }
-  [data-theme="light"] .content { color: var(--text-light); }
 </style>
 </head>
 <body>
@@ -68,6 +28,34 @@ publish: true
   <div class="content">
     <!-- Ваш контент -->
   </div>
+</body>
+
+
+<head>
+<style>
+  html, body { height: 100%; margin: 0; }
+  .bg {
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      url('');
+    background-size: cover;
+    background-position: center;
+    filter: blur(8px);
+    transform: scale(1.0);
+    z-index: -1;
+  }
+  .content {
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    padding: 2rem;
+  }
+</style>
+</head>
+<body>
+  <div class="bg" aria-hidden="true"></div>
 </body>
 
 

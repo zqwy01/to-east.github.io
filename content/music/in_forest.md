@@ -62,8 +62,6 @@ publish: true
 > ## in_forest
 >
 > ![]()
->
-> ###### Description of The Cover:
 > ###### 
 
 

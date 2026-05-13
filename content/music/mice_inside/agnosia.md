@@ -59,8 +59,6 @@ publish: true
 > ## agnosia
 >
 > ![]()
->
-> ###### Description of The Cover:
 > ###### 
 
 

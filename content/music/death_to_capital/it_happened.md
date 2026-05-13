@@ -62,8 +62,6 @@ publish: true
 > ## it_happened
 >
 > ![]()
->
-> ###### Description of The Cover:
 > ###### 
 
 

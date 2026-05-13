@@ -70,8 +70,6 @@ publish: true
 > ## cyber_absolutus
 >
 > ![](https://dn720704.ca.archive.org/0/items/cyber_absolutus/zqwy_limon_cover.webp)
->
-> ###### Description of The Cover:
 > ###### 
 
 

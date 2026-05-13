@@ -61,8 +61,6 @@ publish: true
 > ## snake
 >
 > ![]()
->
-> ###### Description of The Cover:
 > ###### 
 
 

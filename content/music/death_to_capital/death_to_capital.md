@@ -62,8 +62,6 @@ publish: true
 > ## death_to_capital
 >
 > ![](https://ia800108.us.archive.org/7/items/death_to_capital/zqwy_death_to_capital_cover_site.webp)
->
-> ###### Description of The Cover:
 > ###### 
 
 

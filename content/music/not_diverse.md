@@ -63,8 +63,6 @@ publish: true
 > ## not_diverse
 >
 > ![](https://dn711109.ca.archive.org/0/items/zqwy_not_diverse/ZQWY_NOT_DIVERSE_COVER_archive.jpg)
->
-> ###### Description of The Cover:
 > ###### 
 
 

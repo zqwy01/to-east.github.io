@@ -60,8 +60,6 @@ publish: true
 > ## dream
 >
 > ![]()
->
-> ###### Description of The Cover:
 > ###### 
 
 

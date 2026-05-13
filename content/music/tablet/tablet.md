@@ -61,8 +61,6 @@ publish: true
 > ## tablet
 >
 > ![]()
->
-> ###### Description of The Cover:
 > ###### 
 
 

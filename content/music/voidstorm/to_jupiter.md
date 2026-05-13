@@ -60,8 +60,6 @@ publish: true
 > ## to_jupiter
 >
 > ![]()
->
-> ###### Description of The Cover:
 > ###### 
 
 

@@ -63,8 +63,6 @@ publish: true
 > ## drill_to_the_neighbor
 >
 > ![]()
->
-> ###### Description of The Cover:
 > ###### 
 
 

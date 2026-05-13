@@ -62,8 +62,6 @@ publish: true
 > ## mannequins
 >
 > ![]()
->
-> ###### Description of The Cover:
 > ###### 
 
 

@@ -62,8 +62,6 @@ publish: true
 > ## end_spirituality
 >
 > ![]()
->
-> ###### Description of The Cover:
 > ###### 
 
 

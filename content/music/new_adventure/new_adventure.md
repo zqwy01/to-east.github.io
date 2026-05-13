@@ -62,8 +62,6 @@ publish: true
 > ## new_adventure
 >
 > ![]()
->
-> ###### Description of The Cover:
 > ###### 
 
 

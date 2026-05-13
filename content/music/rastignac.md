@@ -61,8 +61,6 @@ publish: true
 > ## rastignac
 >
 > ![]()
->
-> ###### Description of The Cover:
 > ###### 
 
 

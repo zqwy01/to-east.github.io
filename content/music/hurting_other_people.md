@@ -60,8 +60,6 @@ publish: true
 > ## hurting_other_people
 >
 > ![](https://ia600704.us.archive.org/29/items/zqwy_hurting_other_people/zqwy_hurting_other_people_site.webp)
->
-> ###### Description of The Cover:
 > ###### 
 
 

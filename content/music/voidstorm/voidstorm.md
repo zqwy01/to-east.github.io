@@ -78,8 +78,6 @@ publish: true
 > ## voidstorm
 >
 > ![](https://archive.org/download/zqwy_voidstorm/zqwy_voidstorm_cover_site.webp)
->
-> ###### Description of The Cover:
 > ###### 
 
 

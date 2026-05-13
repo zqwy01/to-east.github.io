@@ -22,6 +22,7 @@ publish: true
 ---
 
 
+
 <head>
 <style>
   html, body { height: 100%; margin: 0; }
@@ -88,6 +89,11 @@ publish: true
     <!-- Ваш контент -->
   </div>
 </body>
+
+
+
+
+
 
 
 

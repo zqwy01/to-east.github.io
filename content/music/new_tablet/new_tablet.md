@@ -60,7 +60,7 @@ publish: true
 >
 > ## new_tablet
 >
-<img src="https://ia600503.us.archive.org/32/items/zqwy_new_tablet/tablet_of_the_souls_site.webp" alt="zqwy_new_tablet title="""/>
+> ![[<img src="https://ia600503.us.archive.org/32/items/zqwy_new_tablet/tablet_of_the_souls_site.webp" alt="zqwy_new_tablet title="""/>]]
 >
 > ### Table Heading
 >
@@ -73,6 +73,10 @@ publish: true
 
 >[!info] 
 > #### 
+
+<h1 align=center>
+<img src="https://ia600503.us.archive.org/32/items/zqwy_new_tablet/tablet_of_the_souls_site.webp" alt="zqwy_new_tablet"/>
+</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

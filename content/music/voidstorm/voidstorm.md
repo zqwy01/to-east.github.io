@@ -77,7 +77,7 @@ publish: true
 >
 > ## voidstorm
 >
-<img src="https://archive.org/download/zqwy_voidstorm/zqwy_voidstorm_cover_site.webp" alt="zqwy_voidstorm title="""/>
+> ![[<img src="https://archive.org/download/zqwy_voidstorm/zqwy_voidstorm_cover_site.webp" alt="zqwy_voidstorm title="""/>]]
 >
 > ### Table Heading
 >
@@ -90,6 +90,10 @@ publish: true
 
 >[!info] 
 > #### 
+
+<h1 align=center>
+<img src="https://archive.org/download/zqwy_voidstorm/zqwy_voidstorm_cover_site.webp" alt="zqwy_voidstorm"/>
+</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

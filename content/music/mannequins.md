@@ -61,7 +61,7 @@ publish: true
 >
 > ## mannequins
 >
-<img src="" alt="zqwy_mannequins title="""/>
+> ![[<img src="" alt="zqwy_mannequins title="""/>]]
 >
 > ### Table Heading
 >
@@ -74,6 +74,10 @@ publish: true
 
 >[!info] 
 > #### 
+
+<h1 align=center>
+<img src="" alt="zqwy_mannequins"/>
+</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

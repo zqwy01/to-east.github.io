@@ -59,7 +59,7 @@ publish: true
 >
 > ## broken_space
 >
-<img src="https://ia601802.us.archive.org/8/items/zqwy_broken_space/zqwy_broken_space_cover_site.webp" alt="zqwy_broken_space title="""/>
+> ![[<img src="https://ia601802.us.archive.org/8/items/zqwy_broken_space/zqwy_broken_space_cover_site.webp" alt="zqwy_broken_space title="""/>]]
 >
 > ### Table Heading
 >
@@ -72,6 +72,10 @@ publish: true
 
 >[!info] 
 > #### 
+
+<h1 align=center>
+<img src="https://ia601802.us.archive.org/8/items/zqwy_broken_space/zqwy_broken_space_cover_site.webp" alt="zqwy_broken_space"/>
+</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

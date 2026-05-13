@@ -60,7 +60,7 @@ publish: true
 >
 > ## snake
 >
-<img src="" alt="zqwy_snake title="""/>
+> ![[<img src="" alt="zqwy_snake title="""/>]]
 >
 > ### Table Heading
 >
@@ -73,6 +73,10 @@ publish: true
 
 >[!info] Nocturnal Reese Groove: Melancholic Club Drive, Night Car:
 > #### Dark, slightly melancholic club groove in E minor at 108 BPM: warm reese bass, filtered retro pads. Nighttime atmosphere, repeating melody, syncopated percussion and a light lo‑fi texture; dynamics are heavily compressed, creating a huge sense of space. Techno‑energy drive in a phonk atmosphere.
+
+<h1 align=center>
+<img src="" alt="zqwy_snake"/>
+</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

@@ -82,7 +82,7 @@ publish: true
 >
 > ## cyber_logos
 >
-<img src="https://ia902908.us.archive.org/2/items/cyber_logos/zqwy_cyber_logos_cover_site.webp" alt="zqwy_cyber_logos title="""/>
+> ![[<img src="https://ia902908.us.archive.org/2/items/cyber_logos/zqwy_cyber_logos_cover_site.webp" alt="zqwy_cyber_logos title="""/>]]
 >
 > ### Table Heading
 >
@@ -95,6 +95,10 @@ publish: true
 
 >[!info] 
 > #### 
+
+<h1 align=center>
+<img src="https://ia902908.us.archive.org/2/items/cyber_logos/zqwy_cyber_logos_cover_site.webp" alt="zqwy_cyber_logos"/>
+</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

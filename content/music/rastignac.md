@@ -60,7 +60,7 @@ publish: true
 >
 > ## rastignac
 >
-<img src="" alt="zqwy_rastignac title="""/>
+> ![[<img src="" alt="zqwy_rastignac title="""/>]]
 >
 > ### Table Heading
 >
@@ -73,6 +73,10 @@ publish: true
 
 >[!info] 
 > #### 
+
+<h1 align=center>
+<img src="" alt="zqwy_rastignac"/>
+</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

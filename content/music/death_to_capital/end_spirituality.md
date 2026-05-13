@@ -61,7 +61,7 @@ publish: true
 >
 > ## end_spirituality
 >
-<img src="" alt="zqwy_end_spirituality title="""/>
+> ![[<img src="" alt="zqwy_end_spirituality title="""/>]]
 >
 > ### Table Heading
 >
@@ -74,6 +74,10 @@ publish: true
 
 >[!info] 
 > #### 
+
+<h1 align=center>
+<img src="" alt="zqwy_end_spirituality"/>
+</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

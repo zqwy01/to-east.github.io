@@ -60,7 +60,7 @@ publish: true
 >
 > ## must_all_things_end
 >
-<img src="https://archive.org/download/zqwy_must_all_things_end/zqwy_must_all_things_end_cover_site.webp" alt="zqwy_must_all_things_end title="""/>
+> ![[<img src="https://archive.org/download/zqwy_must_all_things_end/zqwy_must_all_things_end_cover_site.webp" alt="zqwy_must_all_things_end title="""/>]]
 >
 > ### Table Heading
 >
@@ -73,6 +73,10 @@ publish: true
 
 >[!info] 
 > #### 
+
+<h1 align=center>
+<img src="https://archive.org/download/zqwy_must_all_things_end/zqwy_must_all_things_end_cover_site.webp" alt="zqwy_must_all_things_end"/>
+</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

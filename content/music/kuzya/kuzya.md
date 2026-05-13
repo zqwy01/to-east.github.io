@@ -61,7 +61,7 @@ publish: true
 >
 > ## kuzya
 >
-<img src="https://ia600604.us.archive.org/4/items/zqwy_kuzya/zqwy_kuzya_cover_site.webp" alt="zqwy_kuzya title="""/>
+> ![[<img src="https://ia600604.us.archive.org/4/items/zqwy_kuzya/zqwy_kuzya_cover_site.webp" alt="zqwy_kuzya title="""/>]]
 >
 > ### Table Heading
 >
@@ -74,6 +74,10 @@ publish: true
 
 >[!info] 
 > #### 
+
+<h1 align=center>
+<img src="https://ia600604.us.archive.org/4/items/zqwy_kuzya/zqwy_kuzya_cover_site.webp" alt="zqwy_kuzya"/>
+</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

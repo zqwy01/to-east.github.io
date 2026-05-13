@@ -61,7 +61,7 @@ publish: true
 >
 > ## it_happened
 >
-> ![[]]
+> ![]()
 >
 > ### Table Heading
 >
@@ -74,9 +74,6 @@ publish: true
 >[!info] 
 > #### 
 
-<h1 align=center>
-<img src="" alt="zqwy_it_happened"/>
-</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

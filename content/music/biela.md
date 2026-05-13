@@ -67,7 +67,7 @@ publish: true
 >
 > ## biela
 >
-> ![[https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp]]
+> ![The image is dark, on a black background showing a glowing, skeleton-like animal with long curved horns—looks like the skeleton of a goat or deer in a glitch/neon style: a skull, cervical and thoracic vertebrae, ribs, and part of a foreleg are visible. Colors are cold neon (blue, white, with a hint of purple); the image is grainy and distorted.](https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp)
 >
 > ### Table Heading
 >
@@ -80,9 +80,6 @@ publish: true
 >[!info] Mysterious soundtrack, mystical, esoteric orchestra:
 > #### Epic Scandinavian folklore. Dark epic, mysterious fantasy, ethereal folk. Folktronic ambient and spooky phonk. Twilight, secretive, and forbidden occultism. A fusion of East and West, a mythological atmosphere, syncopated chthonic nihilism. Magical energy, arcane ritual, and spirituality. 🎹
 
-<h1 align=center>
-<img src="https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp" alt="zqwy_biela"/>
-</h1>
 
 >[!abstract] Description of The Cover:
 > #### The image is dark, on a black background showing a glowing, skeleton-like animal with long curved horns—looks like the skeleton of a goat or deer in a glitch/neon style: a skull, cervical and thoracic vertebrae, ribs, and part of a foreleg are visible. Colors are cold neon (blue, white, with a hint of purple); the image is grainy and distorted.

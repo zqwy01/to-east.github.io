@@ -59,7 +59,7 @@ publish: true
 >
 > ## someone
 >
-> ![[https://ia801501.us.archive.org/13/items/zqwy_someone/someone_cover_site.webp]]
+> ![](https://ia801501.us.archive.org/13/items/zqwy_someone/someone_cover_site.webp)
 >
 > ### Table Heading
 >
@@ -72,9 +72,6 @@ publish: true
 >[!info] 
 > #### 
 
-<h1 align=center>
-<img src="https://ia801501.us.archive.org/13/items/zqwy_someone/someone_cover_site.webp" alt="zqwy_someone"/>
-</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

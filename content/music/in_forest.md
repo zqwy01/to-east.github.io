@@ -61,7 +61,7 @@ publish: true
 >
 > ## in_forest
 >
-> ![[]]
+> ![]()
 >
 > ### Table Heading
 >
@@ -74,9 +74,6 @@ publish: true
 >[!info] 
 > #### 
 
-<h1 align=center>
-<img src="" alt="zqwy_in_forest"/>
-</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

@@ -63,7 +63,7 @@ publish: true
 >
 > ## algiz
 >
-> ![[https://ia600509.us.archive.org/4/items/zqwy_algiz/zqwy_algiz_cover.jpg]]
+> ![](https://ia600509.us.archive.org/4/items/zqwy_algiz/zqwy_algiz_cover.jpg)
 >
 > ### Table Heading
 >
@@ -76,9 +76,6 @@ publish: true
 >[!info] 
 > #### 
 
-<h1 align=center>
-<img src="https://ia600509.us.archive.org/4/items/zqwy_algiz/zqwy_algiz_cover.jpg" alt="zqwy_algiz"/>
-</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

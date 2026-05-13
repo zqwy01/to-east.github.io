@@ -60,7 +60,7 @@ publish: true
 >
 > ## tablet
 >
-> ![[]]
+> ![]()
 >
 > ### Table Heading
 >
@@ -73,9 +73,6 @@ publish: true
 >[!info] 
 > #### 
 
-<h1 align=center>
-<img src="" alt="zqwy_tablet"/>
-</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

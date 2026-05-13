@@ -1,4 +1,24 @@
 .darkmode {
+
+  .bg {{
+    position: fixed;
+    inset: 0;
+    background-image:
+    linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+    url('{row['cover']}');
+    background-size: cover;
+    background-position: center;
+    filter: blur(8px);
+    transform: scale(1.0);
+    z-index: -1;
+  }}
+  .content {{
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    padding: 2rem;
+
+
   cursor: pointer;
   padding: 0;
   position: relative;
@@ -22,24 +42,6 @@
 
 :root[saved-theme="dark"] {
   color-scheme: dark;
-  html, body {{ height: 100%; margin: 0; }}
-  .bg {{
-    position: fixed;
-    inset: 0;
-    background-image:
-    linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
-    url('{row['cover']}');
-    background-size: cover;
-    background-position: center;
-    filter: blur(8px);
-    transform: scale(1.0);
-    z-index: -1;
-  }}
-  .content {{
-    position: relative;
-    z-index: 1;
-    color: #fff;
-    padding: 2rem;
 }
 
 :root[saved-theme="light"] {

@@ -38,38 +38,6 @@ publish: true
     transition: filter .3s ease, transform .3s ease, background-color .3s ease;
   }
 
-  /* Светлая тема */
-  html[saved-theme="light"] .bg,
-  body[saved-theme="light"] .bg {
-    position: fixed;
-    inset: 0;
-    background-image:
-      linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)),
-      url('https://i.pinimg.com/474x/5d/a6/a4/5da6a46cf3001323588b55d097de56ea.jpg');
-    background-size: cover;
-    background-position: center;
-    filter: blur(6px) brightness(1.06) contrast(1.02);
-    transform: scale(1.02);
-    z-index: -1;
-    transition: filter .3s ease, transform .3s ease, background-color .3s ease;
-  }
-
-  /* Запасной вариант: если атрибут не задан, используем системную схему */
-  @media (prefers-color-scheme: dark) {
-    :root:not([saved-theme]) .bg {
-      background-image:
-        linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
-        url('https://i.pinimg.com/474x/5d/a6/a4/5da6a46cf3001323588b55d097de56ea.jpg');
-      filter: blur(8px) saturate(0.9) contrast(0.95);
-    }
-  @media (prefers-color-scheme: light) {
-    :root:not([saved-theme]) .bg {
-      background-image:
-        linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)),
-        url('https://i.pinimg.com/474x/5d/a6/a4/5da6a46cf3001323588b55d097de56ea.jpg');
-      filter: blur(6px) brightness(1.06) contrast(1.02);
-    }
-
   html, body { height: 100%; margin: 0; }
   .bg {
     position: fixed;

@@ -31,38 +31,6 @@ publish: true
     transition: filter .3s ease, transform .3s ease, background-color .3s ease;
   }
 
-  /* Светлая тема */
-  html[saved-theme="light"] .bg,
-  body[saved-theme="light"] .bg {
-    position: fixed;
-    inset: 0;
-    background-image:
-      linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)),
-      url('https://ia600704.us.archive.org/29/items/zqwy_hurting_other_people/zqwy_hurting_other_people_site.webp');
-    background-size: cover;
-    background-position: center;
-    filter: blur(6px) brightness(1.06) contrast(1.02);
-    transform: scale(1.02);
-    z-index: -1;
-    transition: filter .3s ease, transform .3s ease, background-color .3s ease;
-  }
-
-  /* Запасной вариант: если атрибут не задан, используем системную схему */
-  @media (prefers-color-scheme: dark) {
-    :root:not([saved-theme]) .bg {
-      background-image:
-        linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
-        url('https://ia600704.us.archive.org/29/items/zqwy_hurting_other_people/zqwy_hurting_other_people_site.webp');
-      filter: blur(8px) saturate(0.9) contrast(0.95);
-    }
-  @media (prefers-color-scheme: light) {
-    :root:not([saved-theme]) .bg {
-      background-image:
-        linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)),
-        url('https://ia600704.us.archive.org/29/items/zqwy_hurting_other_people/zqwy_hurting_other_people_site.webp');
-      filter: blur(6px) brightness(1.06) contrast(1.02);
-    }
-
   html, body { height: 100%; margin: 0; }
   .bg {
     position: fixed;

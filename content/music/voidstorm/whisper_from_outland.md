@@ -68,8 +68,8 @@ publish: true
 >
 > ![A cozy evening scene: a table with a record player, a lit candle, and a lamp; on the table a mug with steam rising from it, a stack of books, and a smartphone — city lights visible through the window.](https://i.pinimg.com/474x/5d/a6/a4/5da6a46cf3001323588b55d097de56ea.jpg)
 >
-> ##### Description of The Cover:
-> ##### A cozy evening scene: a table with a record player, a lit candle, and a lamp; on the table a mug with steam rising from it, a stack of books, and a smartphone — city lights visible through the window.
+> ###### Description of The Cover:
+> ###### A cozy evening scene: a table with a record player, a lit candle, and a lamp; on the table a mug with steam rising from it, a stack of books, and a smartphone — city lights visible through the window.
 
 
 

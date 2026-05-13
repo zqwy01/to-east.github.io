@@ -84,8 +84,8 @@ publish: true
 >
 > ![](https://ia902908.us.archive.org/2/items/cyber_logos/zqwy_cyber_logos_cover_site.webp)
 >
-> ##### Description of The Cover:
-> ##### 
+> ###### Description of The Cover:
+> ###### 
 
 
 

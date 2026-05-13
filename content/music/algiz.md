@@ -65,8 +65,8 @@ publish: true
 >
 > ![](https://ia600509.us.archive.org/4/items/zqwy_algiz/zqwy_algiz_cover.jpg)
 >
-> ##### Description of The Cover:
-> ##### 
+> ###### Description of The Cover:
+> ###### 
 
 
 

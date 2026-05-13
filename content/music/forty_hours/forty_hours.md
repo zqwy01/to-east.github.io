@@ -65,8 +65,8 @@ publish: true
 >
 > ![](https://ia801502.us.archive.org/13/items/zqwy_forthy_hours/zqwy_forty_hours_cover.jpg)
 >
-> ##### Description of The Cover:
-> ##### 
+> ###### Description of The Cover:
+> ###### 
 
 
 

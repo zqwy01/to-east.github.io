@@ -19,24 +19,44 @@ publish: true
 <style>
   :root{
     --blur:8px;
-    --bg-light:rgba(255,255,255,0.1);
+    --bg-light:rgba(255,255,255,0.7);
     --bg-dark:rgba(18,18,20,0.6);
     --text-light:#111;
     --text-dark:#fff;
     --trans:300ms;
   }
   html, body { height: 100%; margin: 0; }
-  .bg {
+
+  .bg{
     position: fixed;
     inset: 0;
-    background-image:
-      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
-      url('https://ia801502.us.archive.org/13/items/zqwy_forthy_hours/zqwy_forty_hours_cover.jpg');
+    z-index: -1;
+    overflow: hidden;
+  }
+
+  /* сам градиент-перекрытие */
+  .bg::after{
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    pointer-events: none;
+  }
+
+  /* слой с картинкой — можно контролировать opacity и фильтры отдельно */
+  .bg::before{
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: url('path/to/your.jpg');
     background-size: cover;
     background-position: center;
-    filter: blur(8px);
+    opacity: 0.5;          /* нужная прозрачность картинки */
+    filter: blur(8px);     /* отдельно размываем картинку */
     transform: scale(1.0);
-    z-index: -1;
+    pointer-events: none;
+  }
+
   }
   .content {
     position: relative;

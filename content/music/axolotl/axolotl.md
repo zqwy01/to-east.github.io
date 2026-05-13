@@ -14,51 +14,74 @@ publish: true
 ---
 
 <head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <style>
-  html, body { height: 100%; margin: 0; }
-  .bg {
-    position: fixed;
-    inset: 0;
-    background-image:
-      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
-      url('https://ia801809.us.archive.org/14/items/zqwy_axs/axolotl_cover_v1.webp');
-    background-size: cover;
-    background-position: center;
-    filter: blur(8px);
-    transform: scale(1.0);
-    z-index: -1;
-  }
-  .content {
-    position: relative;
-    z-index: 1;
-    color: #fff;
-    padding: 2rem;
-  }
+:root{
+  --overlay-dark: rgba(0,0,0,0.9);
+  --overlay-light: rgba(255,255,255,0.6);
+  --overlay-color: var(--overlay-dark); /* fallback */
+  --text-color: #fff;
+}
+
+@media (prefers-color-scheme: light) {
+  :root{ --overlay-color: var(--overlay-light); --text-color: #111; }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root{ --overlay-color: var(--overlay-dark); --text-color: #fff; }
+}
+
+html, body { height: 100%; margin: 0; }
+.bg {
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--overlay-color), var(--overlay-color)),
+    url('https://ia801809.us.archive.org/14/items/zqwy_axs/axolotl_cover_v1.webp');
+  background-size: cover;
+  background-position: center;
+  filter: blur(8px);
+  transform: scale(1.0);
+  z-index: -1;
+}
+.content {
+  position: relative;
+  z-index: 1;
+  color: var(--text-color);
+  padding: 2rem;
+}
+.player {
+  width: 100%;
+  height: 500px;
+  border: none;
+}
+img.cover {
+  display: block;
+  max-width: 360px;
+  width: 100%;
+  margin: 1rem auto;
+}
 </style>
 </head>
 <body>
   <div class="bg" aria-hidden="true"></div>
+  <div class="content">
+
+    <h1>axolotl</h1>
+    <p><strong>Author:</strong> zqwy</p>
+    <img class="cover" src="https://ia801809.us.archive.org/14/items/zqwy_axs/axolotl_cover_v1.webp" alt="zqwy_axolotl" />
+    <section>
+      <h2>Описание</h2>
+      <p></p>
+    </section>
+    <section>
+      <h2>Инструменты</h2>
+      <p></p>
+    </section>
+    <iframe name="player" class="player" src="https://archive.org/details/zqwy_axs" scrolling="no" title="zqwy_axolotl"></iframe>
+
+  </div>
 </body>
-
-
-
->[!info] 
-> #### 
-
-<h1 align=center>
-<img src="https://ia801809.us.archive.org/14/items/zqwy_axs/axolotl_cover_v1.webp" alt="zqwy_axolotl"/>
-</h1>
-
->[!abstract] Description of The Cover:
-> #### An axolotl is depicted in a stylized, almost naïve manner: a rounded, broad head with a soft “smile,” bright pink feathery external gills at the sides, short limbs extending from the lower body, and a thin finned tail. The color palette is dominated by turquoise and blue tones for the background and body, with contrasting pink accents on the gills; the brushstrokes are loose and decorative, creating a sense of an underwater environment.
-
->[!abstract] 
-> #### 
-
->[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:
-> #### 
-
-<iframe name="player" class="player" src="https://archive.org/details/zqwy_axs" scrolling="no" width="100%" height="500" align=center frameborder="0" title="zqwy_axolotl"></iframe>
-
 
 ![[bass_mitzva]]

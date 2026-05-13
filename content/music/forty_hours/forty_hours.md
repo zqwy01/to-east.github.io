@@ -19,8 +19,6 @@ publish: true
 
 <head>
 <style>
-
-  html[saved-theme="dark"] .bg,
   body[saved-theme="dark"] .bg {
     position: fixed;
     inset: 0;

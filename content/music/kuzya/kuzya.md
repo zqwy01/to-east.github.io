@@ -34,11 +34,11 @@ publish: true
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay));
       url('https://ia600604.us.archive.org/4/items/zqwy_kuzya/zqwy_kuzya_cover_site.webp');
-    background-size:cover;
-    background-position:center;
-    filter:blur(8px);
-    transform:scale(1);
-    z-index:-1;
+      background-size:cover;
+      background-position:center;
+      filter:blur(8px);
+      transform:scale(1);
+      z-index:-1;
   }
   .content{
     position:relative;

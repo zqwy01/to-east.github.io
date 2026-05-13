@@ -50,11 +50,11 @@ publish: true
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay));
       url('https://archive.org/download/zqwy_voidstorm/zqwy_voidstorm_cover_site.webp');
-    background-size:cover;
-    background-position:center;
-    filter:blur(8px);
-    transform:scale(1);
-    z-index:-1;
+      background-size:cover;
+      background-position:center;
+      filter:blur(8px);
+      transform:scale(1);
+      z-index:-1;
   }
   .content{
     position:relative;

@@ -32,11 +32,11 @@ publish: true
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay));
       url('https://ia600704.us.archive.org/29/items/zqwy_hurting_other_people/zqwy_hurting_other_people_site.webp');
-    background-size:cover;
-    background-position:center;
-    filter:blur(8px);
-    transform:scale(1);
-    z-index:-1;
+      background-size:cover;
+      background-position:center;
+      filter:blur(8px);
+      transform:scale(1);
+      z-index:-1;
   }
   .content{
     position:relative;

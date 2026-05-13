@@ -36,11 +36,11 @@ publish: true
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay));
       url('https://ia600509.us.archive.org/4/items/zqwy_algiz/zqwy_algiz_cover.jpg');
-    background-size:cover;
-    background-position:center;
-    filter:blur(8px);
-    transform:scale(1);
-    z-index:-1;
+      background-size:cover;
+      background-position:center;
+      filter:blur(8px);
+      transform:scale(1);
+      z-index:-1;
   }
   .content{
     position:relative;

@@ -42,11 +42,11 @@ publish: true
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay));
       url('https://dn720704.ca.archive.org/0/items/cyber_absolutus/zqwy_limon_cover.webp');
-    background-size:cover;
-    background-position:center;
-    filter:blur(8px);
-    transform:scale(1);
-    z-index:-1;
+      background-size:cover;
+      background-position:center;
+      filter:blur(8px);
+      transform:scale(1);
+      z-index:-1;
   }
   .content{
     position:relative;

@@ -22,20 +22,6 @@ publish: true
 
 <head>
 <style>
-  body[saved-theme="dark"] .bg {
-    position: fixed;
-    inset: 0;
-    background-image:
-      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
-      url('https://i.pinimg.com/474x/5d/a6/a4/5da6a46cf3001323588b55d097de56ea.jpg');
-    background-size: cover;
-    background-position: center;
-    filter: blur(8px) saturate(0.9) contrast(0.95);
-    transform: scale(1.0);
-    z-index: -1;
-    transition: filter .3s ease, transform .3s ease, background-color .3s ease;
-  }
-
   html, body { height: 100%; margin: 0; }
   .bg {
     position: fixed;

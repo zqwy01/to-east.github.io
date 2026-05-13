@@ -15,20 +15,6 @@ publish: true
 
 <head>
 <style>
-  body[saved-theme="dark"] .bg {
-    position: fixed;
-    inset: 0;
-    background-image:
-      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
-      url('https://ia600704.us.archive.org/29/items/zqwy_hurting_other_people/zqwy_hurting_other_people_site.webp');
-    background-size: cover;
-    background-position: center;
-    filter: blur(8px) saturate(0.9) contrast(0.95);
-    transform: scale(1.0);
-    z-index: -1;
-    transition: filter .3s ease, transform .3s ease, background-color .3s ease;
-  }
-
   html, body { height: 100%; margin: 0; }
   .bg {
     position: fixed;

@@ -14,20 +14,6 @@ publish: true
 
 <head>
 <style>
-  body[saved-theme="dark"] .bg {
-    position: fixed;
-    inset: 0;
-    background-image:
-      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
-      url('');
-    background-size: cover;
-    background-position: center;
-    filter: blur(8px) saturate(0.9) contrast(0.95);
-    transform: scale(1.0);
-    z-index: -1;
-    transition: filter .3s ease, transform .3s ease, background-color .3s ease;
-  }
-
   html, body { height: 100%; margin: 0; }
   .bg {
     position: fixed;

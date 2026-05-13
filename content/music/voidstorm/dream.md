@@ -11,7 +11,40 @@ date: 2025-02-06
 publish: true
 ---
 
+
+
+
+
 <head>
+<style>
+
+img {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+  transition: transform 200ms ease, box-shadow 200ms ease, filter 200ms ease;
+  will-change: transform, box-shadow;
+  border-radius: 8px; /* опционально: скруглённые углы */
+}
+
+/* эффект при наведении и при фокусе (клавиатура) */
+img:hover,
+img:focus {
+  transform: translateZ(0) scale(1.04);
+  box-shadow:
+    0 4px 20px rgba(0,0,0,0.25),
+    0 0 30px rgba(50,150,255,0.55); /* основной цвет свечения */
+  filter: saturate(1.05);
+  outline: none; /* фокус можно заменить на более заметный стиль при необходимости */
+}
+
+/* вариант с разноцветным свечением (в зависимости от data-атрибута) */
+img[data-glow="magenta"]:hover { box-shadow: 0 4px 20px rgba(0,0,0,0.25), 0 0 30px rgba(255,50,200,0.6); }
+img[data-glow="green"]:hover   { box-shadow: 0 4px 20px rgba(0,0,0,0.25), 0 0 30px rgba(50,230,120,0.6); }
+
+
+</style>
+
 <style>
   :root{
     --blur:8px;

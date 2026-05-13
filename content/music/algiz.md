@@ -35,7 +35,7 @@ publish: true
     inset:0;
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay));
-      url('https://ia600509.us.archive.org/4/items/zqwy_algiz/zqwy_algiz_cover.jpg');
+      url('');
       background-size:cover;
       background-position:center;
       filter:blur(8px);

@@ -35,7 +35,7 @@ publish: true
     inset:0;
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay));
-      url('https://ia801502.us.archive.org/13/items/zqwy_forthy_hours/zqwy_forty_hours_cover.jpg');
+      url('');
       background-size:cover;
       background-position:center;
       filter:blur(8px);

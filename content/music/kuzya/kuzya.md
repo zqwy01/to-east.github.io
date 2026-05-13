@@ -33,7 +33,7 @@ publish: true
     inset:0;
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay));
-      url('https://ia600604.us.archive.org/4/items/zqwy_kuzya/zqwy_kuzya_cover_site.webp');
+      url('');
       background-size:cover;
       background-position:center;
       filter:blur(8px);

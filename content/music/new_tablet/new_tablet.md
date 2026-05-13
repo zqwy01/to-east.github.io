@@ -32,7 +32,7 @@ publish: true
     inset:0;
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay));
-      url('https://ia600503.us.archive.org/32/items/zqwy_new_tablet/tablet_of_the_souls_site.webp');
+      url('');
       background-size:cover;
       background-position:center;
       filter:blur(8px);

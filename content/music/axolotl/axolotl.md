@@ -33,7 +33,7 @@ publish: true
     inset:0;
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay));
-      url('https://ia801809.us.archive.org/14/items/zqwy_axs/axolotl_cover_v1.webp');
+      url('');
       background-size:cover;
       background-position:center;
       filter:blur(8px);

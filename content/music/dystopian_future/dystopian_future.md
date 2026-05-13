@@ -37,7 +37,7 @@ publish: true
     inset:0;
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay));
-      url('https://ia600601.us.archive.org/16/items/zqwy_dystopian_future/dystopian_future_cover.jpg');
+      url('');
       background-size:cover;
       background-position:center;
       filter:blur(8px);

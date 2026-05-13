@@ -44,7 +44,7 @@ publish: true
     inset:0;
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay));
-      url('https://ia600409.us.archive.org/24/items/zqwy_na_hrane/ZQWY_NA_HRANE_COVER_site.webp');
+      url('');
       background-size:cover;
       background-position:center;
       filter:blur(8px);

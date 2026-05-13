@@ -33,7 +33,7 @@ publish: true
     inset:0;
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay));
-      url('https://i.pinimg.com/1200x/ba/ae/1d/baae1dafc04b11ec4deb981f6484e5af.jpg');
+      url('');
       background-size:cover;
       background-position:center;
       filter:blur(8px);

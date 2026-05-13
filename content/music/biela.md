@@ -39,7 +39,7 @@ publish: true
     inset:0;
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay));
-      url('https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp');
+      url('');
       background-size:cover;
       background-position:center;
       filter:blur(8px);

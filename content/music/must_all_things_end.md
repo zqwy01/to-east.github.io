@@ -32,7 +32,7 @@ publish: true
     inset:0;
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay));
-      url('https://archive.org/download/zqwy_must_all_things_end/zqwy_must_all_things_end_cover_site.webp');
+      url('');
       background-size:cover;
       background-position:center;
       filter:blur(8px);

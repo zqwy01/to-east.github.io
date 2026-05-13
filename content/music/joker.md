@@ -34,7 +34,7 @@ publish: true
     inset:0;
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay));
-      url('https://ia600403.us.archive.org/32/items/zqwy_joker/zqwy_joker_cover.jpg');
+      url('');
       background-size:cover;
       background-position:center;
       filter:blur(8px);

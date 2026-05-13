@@ -39,7 +39,7 @@ publish: true
     inset:0;
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay));
-      url('https://ia903109.us.archive.org/30/items/zqwy_mice_inside/mice_inside_cover.webp');
+      url('');
       background-size:cover;
       background-position:center;
       filter:blur(8px);

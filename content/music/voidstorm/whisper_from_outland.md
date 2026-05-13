@@ -25,6 +25,7 @@ publish: true
   :root {
     --overlay-dark: rgba(0,0,0,0.9);
     --overlay-light: rgba(255,255,255,0.6);
+
     --text-light: #111;
   }
 
@@ -34,7 +35,7 @@ publish: true
     inset: 0;
     background-image:
       linear-gradient(var(--overlay-light), var(--overlay-light)),
-      url('https://i.pinimg.com/474x/5d/a6/a4/5da6a46cf3001323588b55d097de56ea.jpg');
+      url('{row['cover']}');
     background-size: cover;
     background-position: center;
     filter: blur(8px);

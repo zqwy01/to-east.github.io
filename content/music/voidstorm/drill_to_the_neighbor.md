@@ -21,6 +21,7 @@ publish: true
   :root {
     --overlay-dark: rgba(0,0,0,0.9);
     --overlay-light: rgba(255,255,255,0.6);
+
     --text-light: #111;
   }
 
@@ -30,7 +31,7 @@ publish: true
     inset: 0;
     background-image:
       linear-gradient(var(--overlay-light), var(--overlay-light)),
-      url('');
+      url('{row['cover']}');
     background-size: cover;
     background-position: center;
     filter: blur(8px);

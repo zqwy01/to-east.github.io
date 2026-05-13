@@ -28,6 +28,7 @@ publish: true
   :root {
     --overlay-dark: rgba(0,0,0,0.9);
     --overlay-light: rgba(255,255,255,0.6);
+
     --text-light: #111;
   }
 
@@ -37,7 +38,7 @@ publish: true
     inset: 0;
     background-image:
       linear-gradient(var(--overlay-light), var(--overlay-light)),
-      url('https://dn720704.ca.archive.org/0/items/cyber_absolutus/zqwy_limon_cover.webp');
+      url('{row['cover']}');
     background-size: cover;
     background-position: center;
     filter: blur(8px);

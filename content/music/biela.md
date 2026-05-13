@@ -19,14 +19,36 @@ date: 2024-11-03
 publish: true
 ---
 
+
+
 <head>
 <style>
+  :root{
+    --overlay-dark: rgba(0,0,0,0.9);
+    --overlay-light: rgba(255,255,255,0.6);
+    --text-color: #111;
+  }
+
+  @media (prefers-color-scheme: dark){
+    :root{
+      --overlay: var(--overlay-dark);
+      --text-color: #fff;
+    }
+  }
+
+  @media (prefers-color-scheme: light){
+    :root{
+      --overlay: var(--overlay-light);
+      --text-color: #111;
+    }
+  }
+
   html, body { height: 100%; margin: 0; }
   .bg {
     position: fixed;
     inset: 0;
     background-image:
-      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      linear-gradient(var(--overlay), var(--overlay)),
       url('https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp');
     background-size: cover;
     background-position: center;
@@ -37,7 +59,7 @@ publish: true
   .content {
     position: relative;
     z-index: 1;
-    color: #fff;
+    color: var(--text-color);
     padding: 2rem;
   }
 </style>
@@ -45,6 +67,7 @@ publish: true
 <body>
   <div class="bg" aria-hidden="true"></div>
 </body>
+
 
 
 

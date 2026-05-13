@@ -1,5 +1,8 @@
-@use "../base.scss";
-@use "../variables.scss" as *;
+// copied from https://github.com/morrowind-modding/morrowind-modding.github.io/blob/main/quartz/styles/custom/infobox-callout.scss
+// on 2025-03-07
+// Attribution-ShareAlike 4.0 International
+
+@use "./variables.scss" as *;
 
 /*----infobox callout----*/
 .callout[data-callout="infobox"] {
@@ -10,6 +13,7 @@
     width: 300px;
     margin: 0px 0px 10px 10px;
     padding: 5px;
+    display: grid;
 }
 
 /* mobile breakpoint */

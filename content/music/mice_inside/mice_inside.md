@@ -20,74 +20,51 @@ publish: true
 ---
 
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
 <style>
-:root{
-  --overlay-dark: rgba(0,0,0,0.9);
-  --overlay-light: rgba(255,255,255,0.6);
-  --overlay-color: var(--overlay-dark); /* fallback */
-  --text-color: #fff;
-}
-
-@media (prefers-color-scheme: light) {
-  :root{ --overlay-color: var(--overlay-light); --text-color: #111; }
-}
-
-@media (prefers-color-scheme: dark) {
-  :root{ --overlay-color: var(--overlay-dark); --text-color: #fff; }
-}
-
-html, body { height: 100%; margin: 0; }
-.bg {
-  position: fixed;
-  inset: 0;
-  background-image:
-    linear-gradient(var(--overlay-color), var(--overlay-color)),
-    url('https://ia903109.us.archive.org/30/items/zqwy_mice_inside/mice_inside_cover.webp');
-  background-size: cover;
-  background-position: center;
-  filter: blur(8px);
-  transform: scale(1.0);
-  z-index: -1;
-}
-.content {
-  position: relative;
-  z-index: 1;
-  color: var(--text-color);
-  padding: 2rem;
-}
-.player {
-  width: 100%;
-  height: 500px;
-  border: none;
-}
-img.cover {
-  display: block;
-  max-width: 360px;
-  width: 100%;
-  margin: 1rem auto;
-}
+  html, body { height: 100%; margin: 0; }
+  .bg {
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      url('https://ia903109.us.archive.org/30/items/zqwy_mice_inside/mice_inside_cover.webp');
+    background-size: cover;
+    background-position: center;
+    filter: blur(8px);
+    transform: scale(1.0);
+    z-index: -1;
+  }
+  .content {
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    padding: 2rem;
+  }
 </style>
 </head>
 <body>
   <div class="bg" aria-hidden="true"></div>
-  <div class="content">
-
-    <h1>mice_inside</h1>
-    <p><strong>Author:</strong> zqwy</p>
-    <img class="cover" src="https://ia903109.us.archive.org/30/items/zqwy_mice_inside/mice_inside_cover.webp" alt="zqwy_mice_inside" />
-    <section>
-      <h2>Описание</h2>
-      <p>Мышь прямоходящая как и Акс Уничтожение и разложение мыши связано, однако, причина и следствие не однородны. Душа мыши внутри... Является последней душой, необходимой для починки оружие и восстановление скрижали. </p>
-    </section>
-    <section>
-      <h2>Инструменты</h2>
-      <p></p>
-    </section>
-    <iframe name="player" class="player" src="https://archive.org/details/zqwy_mice_inside" scrolling="no" title="zqwy_mice_inside"></iframe>
-
-  </div>
 </body>
+
+
+
+>[!info] 
+> #### A 19-track album blending darkhappy, electronica, downtempo, piano, cinematic, drone, ambient, phonk, metal, and IDM — an experimental, atmospheric, and rhythmically diverse collection where melancholic piano motifs and drone soundscapes intertwine with gritty phonk riffs, metal aggression, and intricate IDM textures. Suited for fans of film scores, late-night ambient sets, and listeners seeking contrasting, emotionally rich sonic landscapes.
+
+<h1 align=center>
+<img src="https://ia903109.us.archive.org/30/items/zqwy_mice_inside/mice_inside_cover.webp" alt="zqwy_mice_inside"/>
+</h1>
+
+>[!abstract] Description of The Cover:
+> #### 
+
+>[!abstract] 
+> #### Мышь прямоходящая как и Акс Уничтожение и разложение мыши связано, однако, причина и следствие не однородны. Душа мыши внутри... Является последней душой, необходимой для починки оружие и восстановление скрижали. 
+
+>[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:
+> #### 
+
+<iframe name="player" class="player" src="https://archive.org/details/zqwy_mice_inside" scrolling="no" width="100%" height="500" align=center frameborder="0" title="zqwy_mice_inside"></iframe>
+
 
 ![[agnosia]]

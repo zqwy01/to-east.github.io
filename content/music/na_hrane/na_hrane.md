@@ -44,7 +44,7 @@ publish: true
     inset:0;
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay));
-      url('');
+      url('{row['cover']}');
       background-size:cover;
       background-position:center;
       filter:blur(8px);

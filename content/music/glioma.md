@@ -14,48 +14,6 @@ date: 2024-11-14
 publish: true
 ---
 
-
-
-
-
-
-
-<head>
-<style>
-
-  :root{
-    --blur:8px;
-    --bg-light:rgba(255,255,255,0.7);
-    --bg-dark:rgba(18,18,20,0.6);
-    --text-light:#111;
-    --text-dark:#fff;
-    --trans:300ms;
-  }
-
-  html,body { height:100%;margin:0 }
-  body{
-    color:var(--text-light);
-    background:var(--bg-light);
-    transition:background var(--trans),color var(--trans);
-  }
-
-  .bg{
-    position:fixed;inset:0;background:url('your-image.jpg') center/cover no-repeat;z-index:-2;
-  }
-  .bg::before{
-    content:"";position:absolute;inset:0;backdrop-filter:blur(var(--blur));-webkit-backdrop-filter:blur(var(--blur));
-    background:rgba(0,0,0,0.12);z-index:-1;
-  }
-
-  .theme-dark body{ background:var(--bg-dark); color:var(--text-dark); }
-  .theme-dark .bg::before{ background:rgba(0,0,0,0.45); backdrop-filter:blur(calc(var(--blur)*1.4)); -webkit-backdrop-filter:blur(calc(var(--blur)*1.4)); }
-
-</style>
-</head>
-
-
-
-
 <head>
 <style>
   :root{

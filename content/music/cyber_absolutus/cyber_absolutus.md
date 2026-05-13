@@ -71,20 +71,18 @@ publish: true
 >
 > ![](https://dn720704.ca.archive.org/0/items/cyber_absolutus/zqwy_limon_cover.webp)
 >
-> ### Table Heading
+> #### Description of The Cover:
+> #### 
 >
-> | Type | Name |
-> | --- | --- |
-> | Row | Row |
-> | Row | Row |
+>[!abstract] Description of The Cover:
+> #### 
+
 
 
 >[!info] 
 > #### 
 
 
->[!abstract] Description of The Cover:
-> #### 
 
 >[!abstract] 
 > #### 

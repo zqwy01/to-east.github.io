@@ -79,20 +79,18 @@ publish: true
 >
 > ![](https://archive.org/download/zqwy_voidstorm/zqwy_voidstorm_cover_site.webp)
 >
-> ### Table Heading
+> #### Description of The Cover:
+> #### 
 >
-> | Type | Name |
-> | --- | --- |
-> | Row | Row |
-> | Row | Row |
+>[!abstract] Description of The Cover:
+> #### 
+
 
 
 >[!info] 
 > #### 
 
 
->[!abstract] Description of The Cover:
-> #### 
 
 >[!abstract] See on Void:
 > #### 

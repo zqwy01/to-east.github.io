@@ -61,20 +61,18 @@ publish: true
 >
 > ![](https://ia600704.us.archive.org/29/items/zqwy_hurting_other_people/zqwy_hurting_other_people_site.webp)
 >
-> ### Table Heading
+> #### Description of The Cover:
+> #### 
 >
-> | Type | Name |
-> | --- | --- |
-> | Row | Row |
-> | Row | Row |
+>[!abstract] Description of The Cover:
+> #### 
+
 
 
 >[!info] 
 > #### 
 
 
->[!abstract] Description of The Cover:
-> #### 
 
 >[!abstract] 
 > #### Тайная ненависть в стремление к разрушению мира, превышала все мыслимые органические возможности этого мира. 

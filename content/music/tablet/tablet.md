@@ -62,20 +62,18 @@ publish: true
 >
 > ![]()
 >
-> ### Table Heading
+> #### Description of The Cover:
+> #### 
 >
-> | Type | Name |
-> | --- | --- |
-> | Row | Row |
-> | Row | Row |
+>[!abstract] Description of The Cover:
+> #### 
+
 
 
 >[!info] 
 > #### 
 
 
->[!abstract] Description of The Cover:
-> #### 
 
 >[!abstract] 
 > #### Акс впервые встречает скрижаль так близко, что становится заложником в вечном лабиринте. 

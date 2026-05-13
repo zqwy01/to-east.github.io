@@ -61,20 +61,18 @@ publish: true
 >
 > ![](https://ia801501.us.archive.org/13/items/zqwy_someone/someone_cover_site.webp)
 >
-> ### Table Heading
+> #### Description of The Cover:
+> #### 
 >
-> | Type | Name |
-> | --- | --- |
-> | Row | Row |
-> | Row | Row |
+>[!abstract] Description of The Cover:
+> #### 
+
 
 
 >[!info] 
 > #### 
 
 
->[!abstract] Description of The Cover:
-> #### 
 
 >[!abstract] 
 > #### 

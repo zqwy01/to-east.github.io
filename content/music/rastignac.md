@@ -62,20 +62,18 @@ publish: true
 >
 > ![]()
 >
-> ### Table Heading
+> #### Description of The Cover:
+> #### 
 >
-> | Type | Name |
-> | --- | --- |
-> | Row | Row |
-> | Row | Row |
+>[!abstract] Description of The Cover:
+> #### 
+
 
 
 >[!info] 
 > #### 
 
 
->[!abstract] Description of The Cover:
-> #### 
 
 >[!abstract] 
 > #### Растиньяк? Ремиссия? Реквием? Или это всё в реверсии? Человеческая суть заключенная в Некто. Заключение души в Некто, в ходе разрушение города и воплощение Некто через множество эпох

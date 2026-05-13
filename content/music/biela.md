@@ -69,20 +69,18 @@ publish: true
 >
 > ![The image is dark, on a black background showing a glowing, skeleton-like animal with long curved horns—looks like the skeleton of a goat or deer in a glitch/neon style: a skull, cervical and thoracic vertebrae, ribs, and part of a foreleg are visible. Colors are cold neon (blue, white, with a hint of purple); the image is grainy and distorted.](https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp)
 >
-> ### Table Heading
+> #### Description of The Cover:
+> #### The image is dark, on a black background showing a glowing, skeleton-like animal with long curved horns—looks like the skeleton of a goat or deer in a glitch/neon style: a skull, cervical and thoracic vertebrae, ribs, and part of a foreleg are visible. Colors are cold neon (blue, white, with a hint of purple); the image is grainy and distorted.
 >
-> | Type | Name |
-> | --- | --- |
-> | Row | Row |
-> | Row | Row |
+>[!abstract] Description of The Cover:
+> #### The image is dark, on a black background showing a glowing, skeleton-like animal with long curved horns—looks like the skeleton of a goat or deer in a glitch/neon style: a skull, cervical and thoracic vertebrae, ribs, and part of a foreleg are visible. Colors are cold neon (blue, white, with a hint of purple); the image is grainy and distorted.
+
 
 
 >[!info] Mysterious soundtrack, mystical, esoteric orchestra:
 > #### Epic Scandinavian folklore. Dark epic, mysterious fantasy, ethereal folk. Folktronic ambient and spooky phonk. Twilight, secretive, and forbidden occultism. A fusion of East and West, a mythological atmosphere, syncopated chthonic nihilism. Magical energy, arcane ritual, and spirituality. 🎹
 
 
->[!abstract] Description of The Cover:
-> #### The image is dark, on a black background showing a glowing, skeleton-like animal with long curved horns—looks like the skeleton of a goat or deer in a glitch/neon style: a skull, cervical and thoracic vertebrae, ribs, and part of a foreleg are visible. Colors are cold neon (blue, white, with a hint of purple); the image is grainy and distorted.
 
 >[!abstract] Story About:
 > #### [[biela|The White Doe]], with the help of the [[algiz|rune]], remained [[alone|alone]] of the survivors. Unlike the dark doe, who was bound by another rune and was [on the other side](na_hrane) of the interworld. Her essence is to [destroy everything](dystopian_future), in her path! 📖

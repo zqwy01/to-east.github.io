@@ -62,20 +62,18 @@ publish: true
 >
 > ![](https://archive.org/download/zqwy_must_all_things_end/zqwy_must_all_things_end_cover_site.webp)
 >
-> ### Table Heading
+> #### Description of The Cover:
+> #### 
 >
-> | Type | Name |
-> | --- | --- |
-> | Row | Row |
-> | Row | Row |
+>[!abstract] Description of The Cover:
+> #### 
+
 
 
 >[!info] 
 > #### 
 
 
->[!abstract] Description of The Cover:
-> #### 
 
 >[!abstract] 
 > #### Эпоха уничтожение мира - катарсис события приближение уничтожения мира свершился, угрозы пред живыми, оказались не пустыми обещаниями, а воплощением идейне разнообразности

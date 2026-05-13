@@ -69,20 +69,18 @@ publish: true
 >
 > ![](https://ia903109.us.archive.org/30/items/zqwy_mice_inside/mice_inside_cover.webp)
 >
-> ### Table Heading
+> #### Description of The Cover:
+> #### 
 >
-> | Type | Name |
-> | --- | --- |
-> | Row | Row |
-> | Row | Row |
+>[!abstract] Description of The Cover:
+> #### 
+
 
 
 >[!info] 
 > #### A 19-track album blending darkhappy, electronica, downtempo, piano, cinematic, drone, ambient, phonk, metal, and IDM — an experimental, atmospheric, and rhythmically diverse collection where melancholic piano motifs and drone soundscapes intertwine with gritty phonk riffs, metal aggression, and intricate IDM textures. Suited for fans of film scores, late-night ambient sets, and listeners seeking contrasting, emotionally rich sonic landscapes.
 
 
->[!abstract] Description of The Cover:
-> #### 
 
 >[!abstract] 
 > #### Мышь прямоходящая как и Акс Уничтожение и разложение мыши связано, однако, причина и следствие не однородны. Душа мыши внутри... Является последней душой, необходимой для починки оружие и восстановление скрижали. 

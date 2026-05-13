@@ -61,20 +61,18 @@ publish: true
 >
 > ![](https://ia601802.us.archive.org/8/items/zqwy_broken_space/zqwy_broken_space_cover_site.webp)
 >
-> ### Table Heading
+> #### Description of The Cover:
+> #### 
 >
-> | Type | Name |
-> | --- | --- |
-> | Row | Row |
-> | Row | Row |
+>[!abstract] Description of The Cover:
+> #### 
+
 
 
 >[!info] 
 > #### 
 
 
->[!abstract] Description of The Cover:
-> #### 
 
 >[!abstract] 
 > #### Подавляющая, гнетущая атмосфера безнадёжности и бессмысленности. Попытки человеческого разума, как пытки и поиски действительности, в реальности способной решительности в новом колонизаторстве. Связующая роль с утопичным будущем

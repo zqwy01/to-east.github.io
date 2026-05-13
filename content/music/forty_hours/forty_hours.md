@@ -65,20 +65,18 @@ publish: true
 >
 > ![](https://ia801502.us.archive.org/13/items/zqwy_forthy_hours/zqwy_forty_hours_cover.jpg)
 >
-> ### Table Heading
+> #### Description of The Cover:
+> #### 
 >
-> | Type | Name |
-> | --- | --- |
-> | Row | Row |
-> | Row | Row |
+>[!abstract] Description of The Cover:
+> #### 
+
 
 
 >[!info] 
 > #### 
 
 
->[!abstract] Description of The Cover:
-> #### 
 
 >[!abstract] 
 > #### История этого мини-альбома, связанна с небольшой трансляцией на сорок часов подряд... Первый восемь часов ушли на это Следующие четырнадцать на это И дальше лес формировался со мной сорок часов до этого состояние

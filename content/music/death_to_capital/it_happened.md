@@ -63,20 +63,18 @@ publish: true
 >
 > ![]()
 >
-> ### Table Heading
+> #### Description of The Cover:
+> #### 
 >
-> | Type | Name |
-> | --- | --- |
-> | Row | Row |
-> | Row | Row |
+>[!abstract] Description of The Cover:
+> #### 
+
 
 
 >[!info] 
 > #### 
 
 
->[!abstract] Description of The Cover:
-> #### 
 
 >[!abstract] 
 > #### Жуткое состояние, вызывающее сильное чувство дискомфорта. Взрывы ужасы переплетаются с индустриальной атмосферой. Тихий рок, пугающий кошмар, создающий ощущение пустоты…

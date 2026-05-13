@@ -40,9 +40,10 @@ publish: true
 
   html,body{height:100%;margin:0}
   .bg{
-    position:fixed;inset:0;
+    position:fixed;
+    inset:0;
     background-image:
-      linear-gradient(var(--bg-overlay), var(--bg-overlay)),
+      linear-gradient(var(--bg-overlay), var(--bg-overlay));
       url('https://ia600409.us.archive.org/24/items/zqwy_na_hrane/ZQWY_NA_HRANE_COVER_site.webp');
     background-size:cover;
     background-position:center;

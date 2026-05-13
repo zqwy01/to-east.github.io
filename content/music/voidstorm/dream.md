@@ -27,9 +27,10 @@ publish: true
 
   html,body{height:100%;margin:0}
   .bg{
-    position:fixed;inset:0;
+    position:fixed;
+    inset:0;
     background-image:
-      linear-gradient(var(--bg-overlay), var(--bg-overlay)),
+      linear-gradient(var(--bg-overlay), var(--bg-overlay));
       url('');
     background-size:cover;
     background-position:center;

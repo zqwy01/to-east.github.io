@@ -27,9 +27,10 @@ publish: true
 
   html,body{height:100%;margin:0}
   .bg{
-    position:fixed;inset:0;
+    position:fixed;
+    inset:0;
     background-image:
-      linear-gradient(var(--bg-overlay), var(--bg-overlay)),
+      linear-gradient(var(--bg-overlay), var(--bg-overlay));
       url('https://ia601802.us.archive.org/8/items/zqwy_broken_space/zqwy_broken_space_cover_site.webp');
     background-size:cover;
     background-position:center;

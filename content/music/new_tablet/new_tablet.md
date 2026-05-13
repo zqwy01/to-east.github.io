@@ -28,9 +28,10 @@ publish: true
 
   html,body{height:100%;margin:0}
   .bg{
-    position:fixed;inset:0;
+    position:fixed;
+    inset:0;
     background-image:
-      linear-gradient(var(--bg-overlay), var(--bg-overlay)),
+      linear-gradient(var(--bg-overlay), var(--bg-overlay));
       url('https://ia600503.us.archive.org/32/items/zqwy_new_tablet/tablet_of_the_souls_site.webp');
     background-size:cover;
     background-position:center;

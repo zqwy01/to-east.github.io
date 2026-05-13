@@ -34,9 +34,10 @@ publish: true
 
   html,body{height:100%;margin:0}
   .bg{
-    position:fixed;inset:0;
+    position:fixed;
+    inset:0;
     background-image:
-      linear-gradient(var(--bg-overlay), var(--bg-overlay)),
+      linear-gradient(var(--bg-overlay), var(--bg-overlay));
       url('https://i.pinimg.com/474x/5d/a6/a4/5da6a46cf3001323588b55d097de56ea.jpg');
     background-size:cover;
     background-position:center;

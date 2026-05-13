@@ -23,6 +23,53 @@ publish: true
     --text-light: #111;
   }
 
+  /* По умолчанию — светлая тема (если нужно, можно поменять местами) */
+  .bg {
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(var(--overlay-light), var(--overlay-light)),
+      url('https://i.pinimg.com/1200x/ba/ae/1d/baae1dafc04b11ec4deb981f6484e5af.jpg');
+    background-size: cover;
+    background-position: center;
+    filter: blur(8px);
+    transform: scale(1.0);
+    z-index: -1;
+  }
+
+  .content {
+    position: relative;
+    z-index: 1;
+    color: var(--text-light);
+    padding: 2rem;
+  }
+
+  /* Тёмная тема через предпочитаемую схему цветов ОС/браузера */
+  @media (prefers-color-scheme: dark) {
+    .bg {
+      background-image:
+        linear-gradient(var(--overlay-dark), var(--overlay-dark)),
+        url('https://i.pinimg.com/1200x/ba/ae/1d/baae1dafc04b11ec4deb981f6484e5af.jpg');
+    }
+    .content {
+      color: var(--text-dark);
+    }
+  }
+
+  /* Дополнительно: поддержка атрибута data-theme (при необходимости в шаблоне) */
+  [data-theme="dark"] .bg {
+    background-image:
+      linear-gradient(var(--overlay-dark), var(--overlay-dark)),
+      url('https://i.pinimg.com/1200x/ba/ae/1d/baae1dafc04b11ec4deb981f6484e5af.jpg');
+  }
+  [data-theme="dark"] .content { color: var(--text-dark); }
+
+  [data-theme="light"] .bg {
+    background-image:
+      linear-gradient(var(--overlay-light), var(--overlay-light)),
+      url('https://i.pinimg.com/1200x/ba/ae/1d/baae1dafc04b11ec4deb981f6484e5af.jpg');
+  }
+  [data-theme="light"] .content { color: var(--text-light); }
 </style>
 </head>
 <body>

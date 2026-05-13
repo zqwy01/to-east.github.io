@@ -15,7 +15,7 @@ publish: true
 <style>
   :root{
     --blur:8px;
-    --bg-light:rgba(255,255,255,0.7);
+    --bg-light:rgba(255,255,255,0.1);
     --bg-dark:rgba(18,18,20,0.6);
     --text-light:#111;
     --text-dark:#fff;

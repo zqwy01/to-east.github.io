@@ -15,6 +15,9 @@ publish: true
 
 
 
+
+
+
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -50,13 +53,11 @@ html, body { height: 100%; margin: 0; }
   padding: 2rem;
 }
 
-/* prefers-color-scheme: dark */
 @media (prefers-color-scheme: dark) {
   .bg { background-image: linear-gradient(var(--overlay-dark), var(--overlay-dark)), var(--cover-url); }
   .content { color: var(--content-color-dark); }
 }
 
-/* Явный выбор темы через html[data-theme="dark"] */
 html[data-theme="dark"] .bg { background-image: linear-gradient(var(--overlay-dark), var(--overlay-dark)), var(--cover-url); }
 html[data-theme="dark"] .content { color: var(--content-color-dark); }
 
@@ -66,13 +67,12 @@ html[data-theme="light"] .content { color: var(--content-color-light); }
 </head>
 <body>
   <div class="bg" aria-hidden="true"></div>
-
   <main class="content">
     <h1>Заголовок</h1>
     <p>Текст поверх фонового изображения.</p>
   </main>
 </body>
-</html>
+
 
 
 

@@ -19,49 +19,76 @@ date: 2024-11-03
 publish: true
 ---
 
-<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <style>
-  html, body { height: 100%; margin: 0; }
-  .bg {
-    position: fixed;
-    inset: 0;
-    background-image:
-      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
-      url('https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp');
-    background-size: cover;
-    background-position: center;
-    filter: blur(8px);
-    transform: scale(1.0);
-    z-index: -1;
-  }
-  .content {
-    position: relative;
-    z-index: 1;
-    color: #fff;
-    padding: 2rem;
-  }
+:root{
+  --overlay-dark: rgba(0,0,0,0.9);
+  --overlay-light: rgba(255,255,255,0.6);
+  --overlay-color: var(--overlay-dark); /* fallback */
+  --text-color: #fff;
+}
+
+@media (prefers-color-scheme: light) {
+  :root{ --overlay-color: var(--overlay-light); --text-color: #111; }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root{ --overlay-color: var(--overlay-dark); --text-color: #fff; }
+}
+
+html, body { height: 100%; margin: 0; }
+.bg {
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--overlay-color), var(--overlay-color)),
+    url('https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp');
+  background-size: cover;
+  background-position: center;
+  filter: blur(8px);
+  transform: scale(1.0);
+  z-index: -1;
+}
+.content {
+  position: relative;
+  z-index: 1;
+  color: var(--text-color);
+  padding: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.player {
+  width: 100%;
+  max-width: 100%;
+  height: 500px;
+  border: none;
+}
+img.cover {
+  display: block;
+  max-width: 360px;
+  width: 100%;
+  margin: 1rem auto;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.4);
+}
 </style>
-</head>
+
 <body>
   <div class="bg" aria-hidden="true"></div>
+  <div class="content">
+    <h1>biela</h1>
+    <p><strong>Author:</strong> zqwy</p>
+    <img class="cover" src="https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp" alt="zqwy_biela" />
+    <section>
+      <h2>Описание</h2>
+      <p>[[biela|The White Doe]], with the help of the [[algiz|rune]], remained [[alone|alone]] of the survivors. Unlike the dark doe, who was bound by another rune and was [on the other side](na_hrane) of the interworld. Her essence is to [destroy everything](dystopian_future), in her path! 📖</p>
+    </section>
+
+    <section>
+      <h2>Инструменты</h2>
+      <p>Flute, talharpa, piano, cowbell, acoustic and synthesized drums, as well as percussion, synthesizer</p>
+    </section>
+
+    <iframe name="player" class="player" src="https://archive.org/details/zqwy_biela" scrolling="no" title="zqwy_biela"></iframe>
+  </div>
 </body>
-
-
-
->[!info] Mysterious soundtrack, mystical, esoteric orchestra:
-> #### Epic Scandinavian folklore. Dark epic, mysterious fantasy, ethereal folk. Folktronic ambient and spooky phonk. Twilight, secretive, and forbidden occultism. A fusion of East and West, a mythological atmosphere, syncopated chthonic nihilism. Magical energy, arcane ritual, and spirituality. 🎹
-
-<h1 align=center>
-<img src="https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp" alt="zqwy_biela"/>
-</h1>
-
->[!abstract] Description of The Cover:
-> #### The image is dark, on a black background showing a glowing, skeleton-like animal with long curved horns—looks like the skeleton of a goat or deer in a glitch/neon style: a skull, cervical and thoracic vertebrae, ribs, and part of a foreleg are visible. Colors are cold neon (blue, white, with a hint of purple); the image is grainy and distorted.
-
->[!abstract] Story About:
-> #### [[biela|The White Doe]], with the help of the [[algiz|rune]], remained [[alone|alone]] of the survivors. Unlike the dark doe, who was bound by another rune and was [on the other side](na_hrane) of the interworld. Her essence is to [destroy everything](dystopian_future), in her path! 📖
-
->[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:
-> #### Flute, talharpa, piano, cowbell, acoustic and synthesized drums, as well as percussion, synthesizer
-
-<iframe name="player" class="player" src="https://archive.org/details/zqwy_biela" scrolling="no" width="100%" height="500" align=center frameborder="0" title="zqwy_biela"></iframe>

@@ -18,28 +18,6 @@ publish: true
 
 <head>
 <style>
-  img {
-    display: inline-block;
-    max-width: 100%;
-    height: auto;
-    transition: transform 200ms ease, box-shadow 200ms ease, filter 200ms ease;
-    will-change: transform, box-shadow;
-    border-radius: 8px; /* опционально: скруглённые углы */
-  }
-
-  img:hover,
-  img:focus {
-    transform: translateZ(0) scale(1.04);
-    box-shadow:
-      0 4px 20px rgba(0,0,0,0.25),
-      0 0 30px rgba(50,150,255,0.55);
-    filter: saturate(1.05);
-    outline: none;
-  }
-
-</style>
-
-<style>
   :root{
     --blur:8px;
     --bg-light:rgba(255,255,255,0.7);

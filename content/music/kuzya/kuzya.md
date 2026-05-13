@@ -13,76 +13,49 @@ date: 2024-11-25
 publish: true
 ---
 
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<head>
 <style>
-:root{
-  --overlay-dark: rgba(0,0,0,0.9);
-  --overlay-light: rgba(255,255,255,0.6);
-  --overlay-color: var(--overlay-dark); /* fallback */
-  --text-color: #fff;
-}
-
-@media (prefers-color-scheme: light) {
-  :root{ --overlay-color: var(--overlay-light); --text-color: #111; }
-}
-
-@media (prefers-color-scheme: dark) {
-  :root{ --overlay-color: var(--overlay-dark); --text-color: #fff; }
-}
-
-html, body { height: 100%; margin: 0; }
-.bg {
-  position: fixed;
-  inset: 0;
-  background-image:
-    linear-gradient(var(--overlay-color), var(--overlay-color)),
-    url('https://ia600604.us.archive.org/4/items/zqwy_kuzya/zqwy_kuzya_cover_site.webp');
-  background-size: cover;
-  background-position: center;
-  filter: blur(8px);
-  transform: scale(1.0);
-  z-index: -1;
-}
-.content {
-  position: relative;
-  z-index: 1;
-  color: var(--text-color);
-  padding: 2rem;
-  max-width: 900px;
-  margin: 0 auto;
-}
-.player {
-  width: 100%;
-  max-width: 100%;
-  height: 500px;
-  border: none;
-}
-img.cover {
-  display: block;
-  max-width: 360px;
-  width: 100%;
-  margin: 1rem auto;
-  box-shadow: 0 8px 30px rgba(0,0,0,0.4);
-}
+  html, body { height: 100%; margin: 0; }
+  .bg {
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      url('https://ia600604.us.archive.org/4/items/zqwy_kuzya/zqwy_kuzya_cover_site.webp');
+    background-size: cover;
+    background-position: center;
+    filter: blur(8px);
+    transform: scale(1.0);
+    z-index: -1;
+  }
+  .content {
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    padding: 2rem;
+  }
 </style>
-
+</head>
 <body>
   <div class="bg" aria-hidden="true"></div>
-  <div class="content">
-    <h1>kuzya</h1>
-    <p><strong>Author:</strong> zqwy</p>
-    <img class="cover" src="https://ia600604.us.archive.org/4/items/zqwy_kuzya/zqwy_kuzya_cover_site.webp" alt="zqwy_kuzya" />
-    <section>
-      <h2>Описание</h2>
-      <p>Расслабляющий, медитотивный, как наблюдение за погодой темп музыки Увидел человека, а этот котик как анекдотик Котик не хочет вызывать эмоции, ведь это - намеренное управление сознанием человека, его сознанием! В отличие от Бисимплер и остальных, котик умел понимать человеческую часть души Его конечная судьба, привела к естественной кончине, чтобы грустно не было, ему пришлось уйти вдаль, дабы его тело не нашёл человек Мыши в стенах, словно сны на местах, где не видно их. Котик не ловил мышей, боязнь причинение вреда. Даже последний птенец не был тронут</p>
-    </section>
-
-    <section>
-      <h2>Инструменты</h2>
-      <p></p>
-    </section>
-
-    <iframe name="player" class="player" src="https://archive.org/details/zqwy_kuzya" scrolling="no" title="zqwy_kuzya"></iframe>
-  </div>
 </body>
+
+
+
+>[!info] 
+> #### 
+
+<h1 align=center>
+<img src="https://ia600604.us.archive.org/4/items/zqwy_kuzya/zqwy_kuzya_cover_site.webp" alt="zqwy_kuzya"/>
+</h1>
+
+>[!abstract] Description of The Cover:
+> #### 
+
+>[!abstract] 
+> #### Расслабляющий, медитотивный, как наблюдение за погодой темп музыки Увидел человека, а этот котик как анекдотик Котик не хочет вызывать эмоции, ведь это - намеренное управление сознанием человека, его сознанием! В отличие от Бисимплер и остальных, котик умел понимать человеческую часть души Его конечная судьба, привела к естественной кончине, чтобы грустно не было, ему пришлось уйти вдаль, дабы его тело не нашёл человек Мыши в стенах, словно сны на местах, где не видно их. Котик не ловил мышей, боязнь причинение вреда. Даже последний птенец не был тронут
+
+>[!done] При создание использовались следующие музыкальные и не музыкальные инструменты:
+> #### 
+
+<iframe name="player" class="player" src="https://archive.org/details/zqwy_kuzya" scrolling="no" width="100%" height="500" align=center frameborder="0" title="zqwy_kuzya"></iframe>

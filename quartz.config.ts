@@ -74,6 +74,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
+      Plugin.ClickableImages(),
   //  Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [Plugin.ExplicitPublish()],
@@ -94,7 +95,6 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
-      Plugin.ClickableImages(),
     ],
   },
 }

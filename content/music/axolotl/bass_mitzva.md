@@ -33,11 +33,17 @@ publish: true
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay)),
       url('https://i.pinimg.com/1200x/ba/ae/1d/baae1dafc04b11ec4deb981f6484e5af.jpg');
-    background-size:cover;background-position:center;
-    filter:blur(8px);transform:scale(1);z-index:-1;
+    background-size:cover;
+    background-position:center;
+    filter:blur(8px);
+    transform:scale(1);
+    z-index:-1;
   }
   .content{
-    position:relative;z-index:1;color:var(--text-color);padding:2rem;
+    position:relative;
+    z-index:1;
+    color:var(--text-color);
+    padding:2rem;
   }
   :root{color-scheme: light}
   @media (prefers-color-scheme: dark){:root{color-scheme: dark}}

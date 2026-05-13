@@ -38,11 +38,17 @@ publish: true
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay)),
       url('https://i.pinimg.com/474x/5d/a6/a4/5da6a46cf3001323588b55d097de56ea.jpg');
-    background-size:cover;background-position:center;
-    filter:blur(8px);transform:scale(1);z-index:-1;
+    background-size:cover;
+    background-position:center;
+    filter:blur(8px);
+    transform:scale(1);
+    z-index:-1;
   }
   .content{
-    position:relative;z-index:1;color:var(--text-color);padding:2rem;
+    position:relative;
+    z-index:1;
+    color:var(--text-color);
+    padding:2rem;
   }
   :root{color-scheme: light}
   @media (prefers-color-scheme: dark){:root{color-scheme: dark}}

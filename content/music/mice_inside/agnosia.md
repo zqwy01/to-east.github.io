@@ -10,7 +10,7 @@ date: 2026-01-03
 publish: true
 ---
 
-
+---
 
 <head>
 <style>
@@ -23,7 +23,6 @@ publish: true
     --text-light: #111;
   }
 
-  /* По умолчанию — светлая тема (если нужно, можно поменять местами) */
   .bg {
     position: fixed;
     inset: 0;
@@ -44,12 +43,11 @@ publish: true
     padding: 2rem;
   }
 
-  /* Тёмная тема через предпочитаемую схему цветов ОС/браузера */
   @media (prefers-color-scheme: dark) {
     .bg {
       background-image:
         linear-gradient(var(--overlay-dark), var(--overlay-dark)),
-        url('');
+        url('https://ia801502.us.archive.org/13/items/zqwy_forthy_hours/zqwy_forty_hours_cover.jpg');
     }
     .content {
       color: var(--text-dark);
@@ -79,12 +77,7 @@ publish: true
   </div>
 </body>
 
-
-
-
-
-
-
+---
 
 
 

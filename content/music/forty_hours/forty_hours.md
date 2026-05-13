@@ -15,7 +15,7 @@ date: 2025-02-06
 publish: true
 ---
 
-
+---
 
 <head>
 <style>
@@ -28,7 +28,6 @@ publish: true
     --text-light: #111;
   }
 
-  /* По умолчанию — светлая тема (если нужно, можно поменять местами) */
   .bg {
     position: fixed;
     inset: 0;
@@ -49,7 +48,6 @@ publish: true
     padding: 2rem;
   }
 
-  /* Тёмная тема через предпочитаемую схему цветов ОС/браузера */
   @media (prefers-color-scheme: dark) {
     .bg {
       background-image:
@@ -84,12 +82,7 @@ publish: true
   </div>
 </body>
 
-
-
-
-
-
-
+---
 
 
 

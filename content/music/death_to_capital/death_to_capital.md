@@ -13,7 +13,7 @@ date: 2024-11-19
 publish: true
 ---
 
-
+---
 
 <head>
 <style>
@@ -26,7 +26,6 @@ publish: true
     --text-light: #111;
   }
 
-  /* По умолчанию — светлая тема (если нужно, можно поменять местами) */
   .bg {
     position: fixed;
     inset: 0;
@@ -47,12 +46,11 @@ publish: true
     padding: 2rem;
   }
 
-  /* Тёмная тема через предпочитаемую схему цветов ОС/браузера */
   @media (prefers-color-scheme: dark) {
     .bg {
       background-image:
         linear-gradient(var(--overlay-dark), var(--overlay-dark)),
-        url('https://ia800108.us.archive.org/7/items/death_to_capital/zqwy_death_to_capital_cover_site.webp');
+        url('https://ia801502.us.archive.org/13/items/zqwy_forthy_hours/zqwy_forty_hours_cover.jpg');
     }
     .content {
       color: var(--text-dark);
@@ -82,12 +80,7 @@ publish: true
   </div>
 </body>
 
-
-
-
-
-
-
+---
 
 
 

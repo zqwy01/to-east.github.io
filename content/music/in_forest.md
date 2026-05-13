@@ -58,9 +58,7 @@ publish: true
 
 > [!infobox]
 >
->
 > ## in_forest
->
 > ![]()
 > ###### 
 

@@ -57,9 +57,7 @@ publish: true
 
 > [!infobox]
 >
->
 > ## tablet
->
 > ![]()
 > ###### 
 

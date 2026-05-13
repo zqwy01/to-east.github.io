@@ -59,9 +59,7 @@ publish: true
 
 > [!infobox]
 >
->
 > ## joker
->
 > ![](https://ia600403.us.archive.org/32/items/zqwy_joker/zqwy_joker_cover.jpg)
 > ###### 
 

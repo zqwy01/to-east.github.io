@@ -59,9 +59,7 @@ publish: true
 
 > [!infobox]
 >
->
 > ## drill_to_the_neighbor
->
 > ![]()
 > ###### 
 

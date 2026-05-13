@@ -62,9 +62,7 @@ publish: true
 
 > [!infobox]
 >
->
 > ## dystopian_future
->
 > ![](https://ia600601.us.archive.org/16/items/zqwy_dystopian_future/dystopian_future_cover.jpg)
 > ###### 
 

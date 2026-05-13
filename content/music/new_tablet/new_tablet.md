@@ -57,9 +57,7 @@ publish: true
 
 > [!infobox]
 >
->
 > ## new_tablet
->
 > ![](https://ia600503.us.archive.org/32/items/zqwy_new_tablet/tablet_of_the_souls_site.webp)
 > ###### 
 

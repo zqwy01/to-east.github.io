@@ -69,9 +69,7 @@ publish: true
 
 > [!infobox]
 >
->
 > ## na_hrane
->
 > ![](https://ia600409.us.archive.org/24/items/zqwy_na_hrane/ZQWY_NA_HRANE_COVER_site.webp)
 > ###### 
 

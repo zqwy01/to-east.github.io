@@ -56,9 +56,7 @@ publish: true
 
 > [!infobox]
 >
->
 > ## to_jupiter
->
 > ![]()
 > ###### 
 

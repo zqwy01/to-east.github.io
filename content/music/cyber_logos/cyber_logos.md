@@ -79,9 +79,7 @@ publish: true
 
 > [!infobox]
 >
->
 > ## cyber_logos
->
 > ![](https://ia902908.us.archive.org/2/items/cyber_logos/zqwy_cyber_logos_cover_site.webp)
 > ###### 
 

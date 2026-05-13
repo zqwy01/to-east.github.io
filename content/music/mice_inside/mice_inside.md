@@ -64,9 +64,7 @@ publish: true
 
 > [!infobox]
 >
->
 > ## mice_inside
->
 > ![](https://ia903109.us.archive.org/30/items/zqwy_mice_inside/mice_inside_cover.webp)
 > ###### 
 

@@ -55,9 +55,7 @@ publish: true
 
 > [!infobox]
 >
->
 > ## agnosia
->
 > ![]()
 > ###### 
 

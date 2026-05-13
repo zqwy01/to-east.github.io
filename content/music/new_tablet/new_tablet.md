@@ -30,7 +30,8 @@ publish: true
 
   html,body{height:100%;margin:0}
   .bg{
-    position:fixed;inset:0;
+    position:fixed;
+    inset:0;
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay)),
       url(https://ia902908.us.archive.org/2/items/cyber_logos/zqwy_cyber_logos_cover_site.webp);
@@ -51,13 +52,6 @@ publish: true
   @media (prefers-color-scheme: dark){:root{color-scheme: dark}}
 </style>
 </head>
-<body>
-  <div class="bg" aria-hidden="true"></div>
-  <main class="content">
-    <h1>Заголовок</h1>
-    <p>Пример контента поверх фона.</p>
-  </main>
-</body>
 
 
 

@@ -42,7 +42,7 @@ publish: true
     inset:0;
     background-image:
       linear-gradient(var(--bg-overlay), var(--bg-overlay)),
-      url(https://ia902908.us.archive.org/2/items/cyber_logos/zqwy_cyber_logos_cover_site.webp);
+      url('https://ia902908.us.archive.org/2/items/cyber_logos/zqwy_cyber_logos_cover_site.webp');
     background-size:cover;
     background-position:center;
     filter:blur(8px);
@@ -63,8 +63,6 @@ publish: true
 <body>
   <div class="bg" aria-hidden="true"></div>
   <main class="content">
-    <h1>Заголовок</h1>
-    <p>Пример контента поверх фона.</p>
   </main>
 </body>
 

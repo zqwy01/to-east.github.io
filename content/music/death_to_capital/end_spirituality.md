@@ -59,9 +59,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## end_spirituality
 >
-> ![[image]]
+> ![[]]
 >
 > ### Table Heading
 >

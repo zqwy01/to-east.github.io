@@ -57,9 +57,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## to_jupiter
 >
-> ![[image]]
+> ![[]]
 >
 > ### Table Heading
 >

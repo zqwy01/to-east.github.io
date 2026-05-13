@@ -57,9 +57,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## broken_space
 >
-> ![[image]]
+> ![[https://ia601802.us.archive.org/8/items/zqwy_broken_space/zqwy_broken_space_cover_site.webp]]
 >
 > ### Table Heading
 >

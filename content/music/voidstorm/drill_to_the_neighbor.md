@@ -60,9 +60,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## drill_to_the_neighbor
 >
-> ![[image]]
+> ![[]]
 >
 > ### Table Heading
 >

@@ -58,9 +58,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## must_all_things_end
 >
-> ![[image]]
+> ![[https://archive.org/download/zqwy_must_all_things_end/zqwy_must_all_things_end_cover_site.webp]]
 >
 > ### Table Heading
 >

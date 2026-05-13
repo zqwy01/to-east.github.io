@@ -63,9 +63,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## dystopian_future
 >
-> ![[image]]
+> ![[https://ia600601.us.archive.org/16/items/zqwy_dystopian_future/dystopian_future_cover.jpg]]
 >
 > ### Table Heading
 >

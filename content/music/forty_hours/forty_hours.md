@@ -61,9 +61,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## forty_hours
 >
-> ![[image]]
+> ![[https://ia801502.us.archive.org/13/items/zqwy_forthy_hours/zqwy_forty_hours_cover.jpg]]
 >
 > ### Table Heading
 >

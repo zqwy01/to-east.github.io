@@ -59,9 +59,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## new_adventure
 >
-> ![[image]]
+> ![[]]
 >
 > ### Table Heading
 >

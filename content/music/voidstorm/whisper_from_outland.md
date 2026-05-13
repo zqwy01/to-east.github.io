@@ -64,9 +64,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## whisper_from_outland
 >
-> ![[image]]
+> ![[https://i.pinimg.com/474x/5d/a6/a4/5da6a46cf3001323588b55d097de56ea.jpg]]
 >
 > ### Table Heading
 >

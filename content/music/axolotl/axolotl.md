@@ -59,9 +59,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## axolotl
 >
-> ![[image]]
+> ![[https://ia801809.us.archive.org/14/items/zqwy_axs/axolotl_cover_v1.webp]]
 >
 > ### Table Heading
 >

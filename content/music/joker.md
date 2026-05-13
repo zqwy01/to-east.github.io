@@ -60,9 +60,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## joker
 >
-> ![[image]]
+> ![[https://ia600403.us.archive.org/32/items/zqwy_joker/zqwy_joker_cover.jpg]]
 >
 > ### Table Heading
 >

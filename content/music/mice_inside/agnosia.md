@@ -56,9 +56,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## agnosia
 >
-> ![[image]]
+> ![[]]
 >
 > ### Table Heading
 >

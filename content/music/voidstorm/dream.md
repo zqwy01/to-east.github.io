@@ -57,9 +57,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## dream
 >
-> ![[image]]
+> ![[]]
 >
 > ### Table Heading
 >

@@ -58,9 +58,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## tablet
 >
-> ![[image]]
+> ![[]]
 >
 > ### Table Heading
 >

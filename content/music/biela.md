@@ -65,9 +65,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## biela
 >
-> ![[image]]
+> ![[https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp]]
 >
 > ### Table Heading
 >

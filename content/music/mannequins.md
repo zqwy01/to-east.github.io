@@ -59,9 +59,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## mannequins
 >
-> ![[image]]
+> ![[]]
 >
 > ### Table Heading
 >

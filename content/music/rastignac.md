@@ -58,9 +58,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## rastignac
 >
-> ![[image]]
+> ![[]]
 >
 > ### Table Heading
 >

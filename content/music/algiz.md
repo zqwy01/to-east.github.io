@@ -61,9 +61,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## algiz
 >
-> ![[image]]
+> ![[https://ia600509.us.archive.org/4/items/zqwy_algiz/zqwy_algiz_cover.jpg]]
 >
 > ### Table Heading
 >

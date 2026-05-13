@@ -59,9 +59,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## in_forest
 >
-> ![[image]]
+> ![[]]
 >
 > ### Table Heading
 >

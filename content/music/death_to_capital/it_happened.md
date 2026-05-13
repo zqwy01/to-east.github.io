@@ -59,9 +59,9 @@ publish: true
 > [!infobox]
 >
 >
-> ## Article Title
+> ## it_happened
 >
-> ![[image]]
+> ![[]]
 >
 > ### Table Heading
 >

@@ -13,42 +13,27 @@ date: 2025-11-14
 publish: true
 ---
 
-
 <head>
 <style>
-  root{
-    --bg-overlay: rgba(255,255,255,0.6);
-    --text-color: #000;
-  }
-  @media (prefers-color-scheme: dark){
-    :root{
-      --bg-overlay: rgba(0,0,0,0.9);
-      --text-color: #fff;
-    }
-  }
-
-  html,body{height:100%;margin:0}
-  .bg{
-    position:fixed;
-    inset:0;
+  html, body { height: 100%; margin: 0; }
+  .bg {
+    position: fixed;
+    inset: 0;
     background-image:
-      linear-gradient(var(--bg-overlay), var(--bg-overlay));
-      url('{row['cover']}');
-    background-size:cover;
-    background-position:center;
-    filter:blur(8px);
-    transform:scale(1);
-    z-index:-1;
+      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      url('https://i.pinimg.com/1200x/ba/ae/1d/baae1dafc04b11ec4deb981f6484e5af.jpg');
+    background-size: cover;
+    background-position: center;
+    filter: blur(8px);
+    transform: scale(1.0);
+    z-index: -1;
   }
-  .content{
-    position:relative;
-    z-index:1;
-    color:var(--text-color);
-    padding:2rem;
+  .content {
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    padding: 2rem;
   }
-  :root{color-scheme: light}
-  @media (prefers-color-scheme: dark){:root{color-scheme: dark}}
-
 </style>
 </head>
 <body>

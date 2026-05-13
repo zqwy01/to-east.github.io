@@ -1,5 +1,5 @@
 @use "./base.scss";
-@use "./_infobox-callout.scss";
+@use "./custom/infobox-callout.scss";
 
 [saved-theme=dark] code[data-theme*=\ ] {
     color: var(--shiki-dark);

@@ -13,9 +13,6 @@ date: 2023-06-15
 publish: true
 ---
 
-
-
-
 root{
   --bg-overlay: rgba(255,255,255,0.6);
   --text-color: #000;
@@ -27,7 +24,6 @@ root{
   }
 }
 
-/* общий стиль */
 html,body{height:100%;margin:0}
 .bg{
   position:fixed;inset:0;
@@ -40,8 +36,6 @@ html,body{height:100%;margin:0}
 .content{
   position:relative;z-index:1;color:var(--text-color);padding:2rem;
 }
-
-/* если хотите браузерные элементы корректно подстраивать */
 :root{color-scheme: light}
 @media (prefers-color-scheme: dark){:root{color-scheme: dark}}
 

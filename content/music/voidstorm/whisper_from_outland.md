@@ -18,53 +18,12 @@ date: 2025-02-02
 publish: true
 ---
 
-<head>
-<style>
-:root{
-  --overlay-dark: rgba(0,0,0,0.9);
-  --overlay-light: rgba(255,255,255,0.6);
-  --text-color: #111;
-}
-
-@media (prefers-color-scheme: dark){
-  :root{
-    --overlay: var(--overlay-dark);
-    --text-color: #fff;
-  }
-}
-
-@media (prefers-color-scheme: light){
-  :root{
-    --overlay: var(--overlay-light);
-    --text-color: #111;
-  }
-}
-
-html, body { height: 100%; margin: 0; }
-.bg {
-  position: fixed;
-  inset: 0;
-  background-image:
-    linear-gradient(var(--overlay), var(--overlay)),
-    url('https://i.pinimg.com/474x/5d/a6/a4/5da6a46cf3001323588b55d097de56ea.jpg');
-  background-size: cover;
-  background-position: center;
-  filter: blur(8px);
-  transform: scale(1.0);
-  z-index: -1;
-}
-.content {
-  position: relative;
-  z-index: 1;
-  color: var(--text-color);
-  padding: 2rem;
-}
-</style>
-</head>
 
 <body>
   <div class="bg" aria-hidden="true"></div>
 </body>
+
+
 
 >[!info] Cute Beat: Jazz‑Lo‑Fi for Study & Relaxation (Chillout Soundscape)
 > #### Warm, intimate, and rhythmically relaxed track with jazz harmony, spare melodies, and a sparse, atmospheric texture - perfect for studying, relaxing, or background listening: calm, soft, laid-back, dreamy, soothing, intimate, peaceful, contemplative, chill, lo-fi, jazzy, ambient, meditative, warm, serene, reflective, everyday, background, nostalgic.

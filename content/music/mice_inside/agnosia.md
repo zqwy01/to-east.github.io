@@ -32,7 +32,7 @@ publish: true
     background-position: center, center;
     background-repeat: no-repeat, no-repeat;
     background-blend-mode: normal; /* градиент сверху смешивается с картинкой */
-    opacity: 0.1;
+    opacity: 0.2;
     filter: blur(8px);
   }
   .content {

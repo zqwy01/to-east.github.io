@@ -40,8 +40,6 @@ publish: true
     outline: none;
   }
 
-  img[data-glow="magenta"]:hover { box-shadow: 0 4px 20px rgba(0,0,0,0.25), 0 0 30px rgba(255,50,200,0.6); }
-  img[data-glow="green"]:hover   { box-shadow: 0 4px 20px rgba(0,0,0,0.25), 0 0 30px rgba(50,230,120,0.6); }
 </style>
 
 <style>

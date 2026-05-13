@@ -61,7 +61,7 @@ publish: true
 >
 > ## death_to_capital
 >
-> ![[https://ia800108.us.archive.org/7/items/death_to_capital/zqwy_death_to_capital_cover_site.webp]]
+> <img src="https://ia800108.us.archive.org/7/items/death_to_capital/zqwy_death_to_capital_cover_site.webp" alt="zqwy_death_to_capital title="""/>
 >
 > ### Table Heading
 >
@@ -74,10 +74,6 @@ publish: true
 
 >[!info] 
 > #### 
-
-<h1 align=center>
-<img src="https://ia800108.us.archive.org/7/items/death_to_capital/zqwy_death_to_capital_cover_site.webp" alt="zqwy_death_to_capital"/>
-</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

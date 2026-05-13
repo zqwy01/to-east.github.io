@@ -65,7 +65,7 @@ publish: true
 >
 > ## dystopian_future
 >
-> ![[https://ia600601.us.archive.org/16/items/zqwy_dystopian_future/dystopian_future_cover.jpg]]
+> <img src="https://ia600601.us.archive.org/16/items/zqwy_dystopian_future/dystopian_future_cover.jpg" alt="zqwy_dystopian_future title="""/>
 >
 > ### Table Heading
 >
@@ -78,10 +78,6 @@ publish: true
 
 >[!info] 
 > #### 
-
-<h1 align=center>
-<img src="https://ia600601.us.archive.org/16/items/zqwy_dystopian_future/dystopian_future_cover.jpg" alt="zqwy_dystopian_future"/>
-</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

@@ -59,7 +59,7 @@ publish: true
 >
 > ## hurting_other_people
 >
-> ![[https://ia600704.us.archive.org/29/items/zqwy_hurting_other_people/zqwy_hurting_other_people_site.webp]]
+> <img src="https://ia600704.us.archive.org/29/items/zqwy_hurting_other_people/zqwy_hurting_other_people_site.webp" alt="zqwy_hurting_other_people title="""/>
 >
 > ### Table Heading
 >
@@ -72,10 +72,6 @@ publish: true
 
 >[!info] 
 > #### 
-
-<h1 align=center>
-<img src="https://ia600704.us.archive.org/29/items/zqwy_hurting_other_people/zqwy_hurting_other_people_site.webp" alt="zqwy_hurting_other_people"/>
-</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

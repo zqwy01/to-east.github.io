@@ -63,7 +63,7 @@ publish: true
 >
 > ## forty_hours
 >
-> ![[https://ia801502.us.archive.org/13/items/zqwy_forthy_hours/zqwy_forty_hours_cover.jpg]]
+> <img src="https://ia801502.us.archive.org/13/items/zqwy_forthy_hours/zqwy_forty_hours_cover.jpg" alt="zqwy_forty_hours title="""/>
 >
 > ### Table Heading
 >
@@ -76,10 +76,6 @@ publish: true
 
 >[!info] 
 > #### 
-
-<h1 align=center>
-<img src="https://ia801502.us.archive.org/13/items/zqwy_forthy_hours/zqwy_forty_hours_cover.jpg" alt="zqwy_forty_hours"/>
-</h1>
 
 >[!abstract] Description of The Cover:
 > #### 

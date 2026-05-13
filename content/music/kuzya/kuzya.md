@@ -63,11 +63,8 @@ publish: true
 >
 > ![](https://ia600604.us.archive.org/4/items/zqwy_kuzya/zqwy_kuzya_cover_site.webp)
 >
-> #### Description of The Cover:
-> #### 
->
->[!abstract] Description of The Cover:
-> #### 
+> ##### Description of The Cover:
+> ##### 
 
 
 

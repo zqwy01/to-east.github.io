@@ -74,11 +74,8 @@ publish: true
 >
 > ![](https://ia600409.us.archive.org/24/items/zqwy_na_hrane/ZQWY_NA_HRANE_COVER_site.webp)
 >
-> #### Description of The Cover:
-> #### 
->
->[!abstract] Description of The Cover:
-> #### 
+> ##### Description of The Cover:
+> ##### 
 
 
 

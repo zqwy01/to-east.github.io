@@ -79,11 +79,8 @@ publish: true
 >
 > ![](https://archive.org/download/zqwy_voidstorm/zqwy_voidstorm_cover_site.webp)
 >
-> #### Description of The Cover:
-> #### 
->
->[!abstract] Description of The Cover:
-> #### 
+> ##### Description of The Cover:
+> ##### 
 
 
 

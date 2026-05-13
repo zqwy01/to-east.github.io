@@ -69,11 +69,8 @@ publish: true
 >
 > ![](https://ia903109.us.archive.org/30/items/zqwy_mice_inside/mice_inside_cover.webp)
 >
-> #### Description of The Cover:
-> #### 
->
->[!abstract] Description of The Cover:
-> #### 
+> ##### Description of The Cover:
+> ##### 
 
 
 

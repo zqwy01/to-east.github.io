@@ -60,11 +60,8 @@ publish: true
 >
 > ![]()
 >
-> #### Description of The Cover:
-> #### 
->
->[!abstract] Description of The Cover:
-> #### 
+> ##### Description of The Cover:
+> ##### 
 
 
 

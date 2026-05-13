@@ -69,11 +69,8 @@ publish: true
 >
 > ![The image is dark, on a black background showing a glowing, skeleton-like animal with long curved horns—looks like the skeleton of a goat or deer in a glitch/neon style: a skull, cervical and thoracic vertebrae, ribs, and part of a foreleg are visible. Colors are cold neon (blue, white, with a hint of purple); the image is grainy and distorted.](https://ia800106.us.archive.org/23/items/zqwy_biela/zqwy_biela_cover_original.webp)
 >
-> #### Description of The Cover:
-> #### The image is dark, on a black background showing a glowing, skeleton-like animal with long curved horns—looks like the skeleton of a goat or deer in a glitch/neon style: a skull, cervical and thoracic vertebrae, ribs, and part of a foreleg are visible. Colors are cold neon (blue, white, with a hint of purple); the image is grainy and distorted.
->
->[!abstract] Description of The Cover:
-> #### The image is dark, on a black background showing a glowing, skeleton-like animal with long curved horns—looks like the skeleton of a goat or deer in a glitch/neon style: a skull, cervical and thoracic vertebrae, ribs, and part of a foreleg are visible. Colors are cold neon (blue, white, with a hint of purple); the image is grainy and distorted.
+> ##### Description of The Cover:
+> ##### The image is dark, on a black background showing a glowing, skeleton-like animal with long curved horns—looks like the skeleton of a goat or deer in a glitch/neon style: a skull, cervical and thoracic vertebrae, ribs, and part of a foreleg are visible. Colors are cold neon (blue, white, with a hint of purple); the image is grainy and distorted.
 
 
 

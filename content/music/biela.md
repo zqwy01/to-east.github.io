@@ -19,10 +19,16 @@ date: 2024-11-03
 publish: true
 ---
 
-
-
 <head>
 <style>
+  :root{
+    --blur:8px;
+    --bg-light:rgba(255,255,255,0.7);
+    --bg-dark:rgba(18,18,20,0.6);
+    --text-light:#111;
+    --text-dark:#fff;
+    --trans:300ms;
+  }
   html, body { height: 100%; margin: 0; }
   .bg {
     position: fixed;

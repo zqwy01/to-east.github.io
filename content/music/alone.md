@@ -25,37 +25,18 @@ publish: true
     --trans:300ms;
   }
   html, body { height: 100%; margin: 0; }
-
-  .bg{
+  .bg {
     position: fixed;
     inset: 0;
     z-index: -1;
-    overflow: hidden;
-  }
-
-  /* сам градиент-перекрытие */
-  .bg::after{
-    content: "";
-    position: absolute;
-    inset: 0;
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-    pointer-events: none;
-  }
-
-  /* слой с картинкой — можно контролировать opacity и фильтры отдельно */
-  .bg::before{
-    content: "";
-    position: absolute;
-    inset: 0;
-    background-image: url('path/to/your.jpg');
-    background-size: cover;
-    background-position: center;
-    opacity: 0.5;          /* нужная прозрачность картинки */
-    filter: blur(8px);     /* отдельно размываем картинку */
-    transform: scale(1.0);
-    pointer-events: none;
-  }
-
+    background-image:
+      linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
+      url('https://ia600801.us.archive.org/14/items/zqwy_alone_/zqwy_alone_cover_site.webp');
+    background-size: cover, cover;
+    background-position: center, center;
+    background-repeat: no-repeat, no-repeat;
+    background-blend-mode: normal; /* градиент сверху смешивается с картинкой */
+    filter: blur(8px);
   }
   .content {
     position: relative;

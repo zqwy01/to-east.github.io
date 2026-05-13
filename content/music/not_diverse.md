@@ -14,14 +14,24 @@ date: 2022-01-02
 publish: true
 ---
 
+
 <head>
 <style>
   html, body { height: 100%; margin: 0; }
+
+  :root {
+    --overlay-dark: rgba(0,0,0,0.9);
+    --overlay-light: rgba(255,255,255,0.6);
+    --text-dark: #fff;
+    --text-light: #111;
+  }
+
+  /* По умолчанию — светлая тема (если нужно, можно поменять местами) */
   .bg {
     position: fixed;
     inset: 0;
     background-image:
-      linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),
+      linear-gradient(var(--overlay-light), var(--overlay-light)),
       url('https://dn711109.ca.archive.org/0/items/zqwy_not_diverse/ZQWY_NOT_DIVERSE_COVER_archive.jpg');
     background-size: cover;
     background-position: center;
@@ -29,17 +39,53 @@ publish: true
     transform: scale(1.0);
     z-index: -1;
   }
+
   .content {
     position: relative;
     z-index: 1;
-    color: #fff;
+    color: var(--text-light);
     padding: 2rem;
   }
+
+  /* Тёмная тема через предпочитаемую схему цветов ОС/браузера */
+  @media (prefers-color-scheme: dark) {
+    .bg {
+      background-image:
+        linear-gradient(var(--overlay-dark), var(--overlay-dark)),
+        url('https://dn711109.ca.archive.org/0/items/zqwy_not_diverse/ZQWY_NOT_DIVERSE_COVER_archive.jpg');
+    }
+    .content {
+      color: var(--text-dark);
+    }
+  }
+
+  /* Дополнительно: поддержка атрибута data-theme (при необходимости в шаблоне) */
+  [data-theme="dark"] .bg {
+    background-image:
+      linear-gradient(var(--overlay-dark), var(--overlay-dark)),
+      url('https://dn711109.ca.archive.org/0/items/zqwy_not_diverse/ZQWY_NOT_DIVERSE_COVER_archive.jpg');
+  }
+  [data-theme="dark"] .content { color: var(--text-dark); }
+
+  [data-theme="light"] .bg {
+    background-image:
+      linear-gradient(var(--overlay-light), var(--overlay-light)),
+      url('https://dn711109.ca.archive.org/0/items/zqwy_not_diverse/ZQWY_NOT_DIVERSE_COVER_archive.jpg');
+  }
+  [data-theme="light"] .content { color: var(--text-light); }
 </style>
 </head>
 <body>
   <div class="bg" aria-hidden="true"></div>
+  <div class="content">
+    <!-- Ваш контент -->
+  </div>
 </body>
+
+
+
+
+
 
 >[!info] 
 > #### 

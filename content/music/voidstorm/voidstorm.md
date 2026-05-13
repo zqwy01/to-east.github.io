@@ -32,34 +32,6 @@ publish: true
 
 
 
-(function(){
-  const saved = localStorage.getItem('saved-theme'); // "dark" | "light" | null
-  const html = document.documentElement;
-  const dataTheme = html.getAttribute('data-theme'); // например "dark" или "light"
-  const hasDarkClass = html.classList.contains('dark');
-  let state;
-
-  if (saved === 'dark' || saved === 'light') {
-    state = saved;
-    console.log('saved-theme (localStorage):', state);
-  } else if (dataTheme === 'dark' || dataTheme === 'light') {
-    state = dataTheme;
-    console.log('data-theme (html attribute):', state);
-  } else if (hasDarkClass) {
-    state = 'dark';
-    console.log('html has class "dark":', state);
-  } else {
-    state = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-    console.log('system preference (prefers-color-scheme):', state);
-  }
-
-  // при необходимости вернуть значение
-  return state;
-})();
-
-
-
-
 
 
 

@@ -63,7 +63,7 @@ publish: true
 >
 > ## forty_hours
 >
-> ![[<img src="https://ia801502.us.archive.org/13/items/zqwy_forthy_hours/zqwy_forty_hours_cover.jpg" alt="zqwy_forty_hours title="""/>]]
+> ![[https://ia801502.us.archive.org/13/items/zqwy_forthy_hours/zqwy_forty_hours_cover.jpg]]
 >
 > ### Table Heading
 >
@@ -71,7 +71,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

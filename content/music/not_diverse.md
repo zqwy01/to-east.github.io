@@ -62,7 +62,7 @@ publish: true
 >
 > ## not_diverse
 >
-> ![[<img src="https://dn711109.ca.archive.org/0/items/zqwy_not_diverse/ZQWY_NOT_DIVERSE_COVER_archive.jpg" alt="zqwy_not_diverse title="""/>]]
+> ![[https://dn711109.ca.archive.org/0/items/zqwy_not_diverse/ZQWY_NOT_DIVERSE_COVER_archive.jpg]]
 >
 > ### Table Heading
 >
@@ -70,7 +70,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

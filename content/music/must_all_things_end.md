@@ -60,7 +60,7 @@ publish: true
 >
 > ## must_all_things_end
 >
-> ![[<img src="https://archive.org/download/zqwy_must_all_things_end/zqwy_must_all_things_end_cover_site.webp" alt="zqwy_must_all_things_end title="""/>]]
+> ![[https://archive.org/download/zqwy_must_all_things_end/zqwy_must_all_things_end_cover_site.webp]]
 >
 > ### Table Heading
 >
@@ -68,7 +68,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

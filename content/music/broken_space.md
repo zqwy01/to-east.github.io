@@ -59,7 +59,7 @@ publish: true
 >
 > ## broken_space
 >
-> ![[<img src="https://ia601802.us.archive.org/8/items/zqwy_broken_space/zqwy_broken_space_cover_site.webp" alt="zqwy_broken_space title="""/>]]
+> ![[https://ia601802.us.archive.org/8/items/zqwy_broken_space/zqwy_broken_space_cover_site.webp]]
 >
 > ### Table Heading
 >
@@ -67,7 +67,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

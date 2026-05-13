@@ -69,7 +69,7 @@ publish: true
 >
 > ## cyber_absolutus
 >
-> ![[<img src="https://dn720704.ca.archive.org/0/items/cyber_absolutus/zqwy_limon_cover.webp" alt="zqwy_cyber_absolutus title="""/>]]
+> ![[https://dn720704.ca.archive.org/0/items/cyber_absolutus/zqwy_limon_cover.webp]]
 >
 > ### Table Heading
 >
@@ -77,7 +77,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

@@ -59,7 +59,7 @@ publish: true
 >
 > ## dream
 >
-> ![[<img src="" alt="zqwy_dream title="""/>]]
+> ![[]]
 >
 > ### Table Heading
 >
@@ -67,7 +67,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

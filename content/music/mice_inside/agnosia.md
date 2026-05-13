@@ -58,7 +58,7 @@ publish: true
 >
 > ## agnosia
 >
-> ![[<img src="" alt="zqwy_agnosia title="""/>]]
+> ![[]]
 >
 > ### Table Heading
 >
@@ -66,7 +66,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

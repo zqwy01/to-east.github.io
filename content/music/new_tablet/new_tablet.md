@@ -60,7 +60,7 @@ publish: true
 >
 > ## new_tablet
 >
-> ![[<img src="https://ia600503.us.archive.org/32/items/zqwy_new_tablet/tablet_of_the_souls_site.webp" alt="zqwy_new_tablet title="""/>]]
+> ![[https://ia600503.us.archive.org/32/items/zqwy_new_tablet/tablet_of_the_souls_site.webp]]
 >
 > ### Table Heading
 >
@@ -68,7 +68,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

@@ -61,7 +61,7 @@ publish: true
 >
 > ## kuzya
 >
-> ![[<img src="https://ia600604.us.archive.org/4/items/zqwy_kuzya/zqwy_kuzya_cover_site.webp" alt="zqwy_kuzya title="""/>]]
+> ![[https://ia600604.us.archive.org/4/items/zqwy_kuzya/zqwy_kuzya_cover_site.webp]]
 >
 > ### Table Heading
 >
@@ -69,7 +69,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

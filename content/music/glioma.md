@@ -62,7 +62,7 @@ publish: true
 >
 > ## glioma
 >
-> ![[<img src="https://ia902908.us.archive.org/30/items/zqwy_glioma/zqwy_glioma_cover_site.webp" alt="zqwy_glioma title="""/>]]
+> ![[https://ia902908.us.archive.org/30/items/zqwy_glioma/zqwy_glioma_cover_site.webp]]
 >
 > ### Table Heading
 >
@@ -70,7 +70,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

@@ -61,7 +61,7 @@ publish: true
 >
 > ## in_forest
 >
-> ![[<img src="" alt="zqwy_in_forest title="""/>]]
+> ![[]]
 >
 > ### Table Heading
 >
@@ -69,7 +69,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

@@ -60,7 +60,7 @@ publish: true
 >
 > ## snake
 >
-> ![[<img src="" alt="zqwy_snake title="""/>]]
+> ![[]]
 >
 > ### Table Heading
 >
@@ -68,7 +68,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] Nocturnal Reese Groove: Melancholic Club Drive, Night Car:

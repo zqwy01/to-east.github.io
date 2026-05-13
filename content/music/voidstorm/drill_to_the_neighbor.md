@@ -62,7 +62,7 @@ publish: true
 >
 > ## drill_to_the_neighbor
 >
-> ![[<img src="" alt="zqwy_drill_to_the_neighbor title="""/>]]
+> ![[]]
 >
 > ### Table Heading
 >
@@ -70,7 +70,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] Hard Club Music - Maniacal Resonance (Hybrid Industrial Hardbass)

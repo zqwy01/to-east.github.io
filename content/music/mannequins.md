@@ -61,7 +61,7 @@ publish: true
 >
 > ## mannequins
 >
-> ![[<img src="" alt="zqwy_mannequins title="""/>]]
+> ![[]]
 >
 > ### Table Heading
 >
@@ -69,7 +69,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

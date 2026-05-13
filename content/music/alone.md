@@ -62,7 +62,7 @@ publish: true
 >
 > ## alone
 >
-> ![[<img src="https://ia600801.us.archive.org/14/items/zqwy_alone_/zqwy_alone_cover_site.webp" alt="zqwy_alone title="""/>]]
+> ![[https://ia600801.us.archive.org/14/items/zqwy_alone_/zqwy_alone_cover_site.webp]]
 >
 > ### Table Heading
 >
@@ -70,7 +70,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

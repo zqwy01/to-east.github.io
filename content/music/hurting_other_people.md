@@ -59,7 +59,7 @@ publish: true
 >
 > ## hurting_other_people
 >
-> ![[<img src="https://ia600704.us.archive.org/29/items/zqwy_hurting_other_people/zqwy_hurting_other_people_site.webp" alt="zqwy_hurting_other_people title="""/>]]
+> ![[https://ia600704.us.archive.org/29/items/zqwy_hurting_other_people/zqwy_hurting_other_people_site.webp]]
 >
 > ### Table Heading
 >
@@ -67,7 +67,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

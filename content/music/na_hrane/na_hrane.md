@@ -72,7 +72,7 @@ publish: true
 >
 > ## na_hrane
 >
-> ![[<img src="https://ia600409.us.archive.org/24/items/zqwy_na_hrane/ZQWY_NA_HRANE_COVER_site.webp" alt="zqwy_na_hrane title="""/>]]
+> ![[https://ia600409.us.archive.org/24/items/zqwy_na_hrane/ZQWY_NA_HRANE_COVER_site.webp]]
 >
 > ### Table Heading
 >
@@ -80,7 +80,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

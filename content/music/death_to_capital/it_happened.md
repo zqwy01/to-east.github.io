@@ -61,7 +61,7 @@ publish: true
 >
 > ## it_happened
 >
-> ![[<img src="" alt="zqwy_it_happened title="""/>]]
+> ![[]]
 >
 > ### Table Heading
 >
@@ -69,7 +69,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

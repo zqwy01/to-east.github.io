@@ -61,7 +61,7 @@ publish: true
 >
 > ## new_adventure
 >
-> ![[<img src="" alt="zqwy_new_adventure title="""/>]]
+> ![[]]
 >
 > ### Table Heading
 >
@@ -69,7 +69,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

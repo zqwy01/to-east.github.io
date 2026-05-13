@@ -82,7 +82,7 @@ publish: true
 >
 > ## cyber_logos
 >
-> ![[<img src="https://ia902908.us.archive.org/2/items/cyber_logos/zqwy_cyber_logos_cover_site.webp" alt="zqwy_cyber_logos title="""/>]]
+> ![[https://ia902908.us.archive.org/2/items/cyber_logos/zqwy_cyber_logos_cover_site.webp]]
 >
 > ### Table Heading
 >
@@ -90,7 +90,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

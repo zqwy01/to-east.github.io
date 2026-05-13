@@ -59,7 +59,7 @@ publish: true
 >
 > ## someone
 >
-> ![[<img src="https://ia801501.us.archive.org/13/items/zqwy_someone/someone_cover_site.webp" alt="zqwy_someone title="""/>]]
+> ![[https://ia801501.us.archive.org/13/items/zqwy_someone/someone_cover_site.webp]]
 >
 > ### Table Heading
 >
@@ -67,7 +67,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] 

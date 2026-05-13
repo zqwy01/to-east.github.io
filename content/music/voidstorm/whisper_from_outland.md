@@ -66,7 +66,7 @@ publish: true
 >
 > ## whisper_from_outland
 >
-> ![[<img src="https://i.pinimg.com/474x/5d/a6/a4/5da6a46cf3001323588b55d097de56ea.jpg" alt="zqwy_whisper_from_outland title="A cozy evening scene: a table with a record player, a lit candle, and a lamp; on the table a mug with steam rising from it, a stack of books, and a smartphone — city lights visible through the window.""/>]]
+> ![[https://i.pinimg.com/474x/5d/a6/a4/5da6a46cf3001323588b55d097de56ea.jpg]]
 >
 > ### Table Heading
 >
@@ -74,7 +74,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] Cute Beat: Jazz‑Lo‑Fi for Study & Relaxation (Chillout Soundscape)

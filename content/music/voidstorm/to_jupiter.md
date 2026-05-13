@@ -59,7 +59,7 @@ publish: true
 >
 > ## to_jupiter
 >
-> ![[<img src="" alt="zqwy_to_jupiter title="""/>]]
+> ![[]]
 >
 > ### Table Heading
 >
@@ -67,7 +67,6 @@ publish: true
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
-
 
 
 >[!info] Неоновое тепло - клубный чилл: тёплый аналоговый бас, пышные пады, милая лид-мелодия

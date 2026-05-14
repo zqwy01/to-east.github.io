@@ -53,9 +53,10 @@ publish: true
     const digit = 7;
     console.log(digit);
   </script>
-  <div class="bg" aria-hidden="true"></div>
+  <div class="bg" aria-hidden=true"></div>
 </body>
 
+>
 
 > [!infobox]
 >
@@ -63,9 +64,6 @@ publish: true
 > ![](https://ia902908.us.archive.org/30/items/zqwy_glioma/zqwy_glioma_cover_site.webp)
 > ###### 
 
-
-
->[!info] 
 > #### 
 
 

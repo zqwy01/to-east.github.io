@@ -51,9 +51,10 @@ publish: true
     const digit = 7;
     console.log(digit);
   </script>
-  <div class="bg" aria-hidden="true"></div>
+  <div class="bg" aria-hidden=true"></div>
 </body>
 
+>
 
 > [!infobox]
 >
@@ -61,9 +62,6 @@ publish: true
 > ![](https://archive.org/download/zqwy_must_all_things_end/zqwy_must_all_things_end_cover_site.webp)
 > ###### 
 
-
-
->[!info] 
 > #### 
 
 

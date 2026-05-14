@@ -56,9 +56,10 @@ publish: true
     const digit = 7;
     console.log(digit);
   </script>
-  <div class="bg" aria-hidden="true"></div>
+  <div class="bg" aria-hidden=true"></div>
 </body>
 
+>
 
 > [!infobox]
 >
@@ -66,9 +67,6 @@ publish: true
 > ![](https://ia600601.us.archive.org/16/items/zqwy_dystopian_future/dystopian_future_cover.jpg)
 > ###### 
 
-
-
->[!info] 
 > #### 
 
 

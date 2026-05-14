@@ -52,9 +52,10 @@ publish: true
     const digit = 7;
     console.log(digit);
   </script>
-  <div class="bg" aria-hidden="true"></div>
+  <div class="bg" aria-hidden=true"></div>
 </body>
 
+>
 
 > [!infobox]
 >
@@ -62,9 +63,6 @@ publish: true
 > ![](https://i.pinimg.com/1200x/ba/ae/1d/baae1dafc04b11ec4deb981f6484e5af.jpg)
 > ###### 
 
-
-
->[!info] 
 > #### 
 
 

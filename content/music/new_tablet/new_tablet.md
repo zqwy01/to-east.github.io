@@ -51,9 +51,10 @@ publish: true
     const digit = 7;
     console.log(digit);
   </script>
-  <div class="bg" aria-hidden="true"></div>
+  <div class="bg" aria-hidden=true"></div>
 </body>
 
+>
 
 > [!infobox]
 >
@@ -61,9 +62,6 @@ publish: true
 > ![](https://ia600503.us.archive.org/32/items/zqwy_new_tablet/tablet_of_the_souls_site.webp)
 > ###### 
 
-
-
->[!info] 
 > #### 
 
 

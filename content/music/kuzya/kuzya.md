@@ -52,9 +52,10 @@ publish: true
     const digit = 7;
     console.log(digit);
   </script>
-  <div class="bg" aria-hidden="true"></div>
+  <div class="bg" aria-hidden=true"></div>
 </body>
 
+>
 
 > [!infobox]
 >
@@ -62,9 +63,6 @@ publish: true
 > ![](https://ia600604.us.archive.org/4/items/zqwy_kuzya/zqwy_kuzya_cover_site.webp)
 > ###### 
 
-
-
->[!info] 
 > #### 
 
 

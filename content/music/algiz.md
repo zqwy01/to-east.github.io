@@ -54,9 +54,10 @@ publish: true
     const digit = 7;
     console.log(digit);
   </script>
-  <div class="bg" aria-hidden="true"></div>
+  <div class="bg" aria-hidden=true"></div>
 </body>
 
+>
 
 > [!infobox]
 >
@@ -64,9 +65,6 @@ publish: true
 > ![](https://ia600509.us.archive.org/4/items/zqwy_algiz/zqwy_algiz_cover.jpg)
 > ###### 
 
-
-
->[!info] 
 > #### 
 
 

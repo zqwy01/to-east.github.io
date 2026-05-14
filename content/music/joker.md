@@ -64,7 +64,7 @@ Moody, haunting, and eerie track with a heavy low end and industrial saturation;
 >
 > ## joker
 > ![](https://ia600403.us.archive.org/32/items/zqwy_joker/zqwy_joker_cover.jpg)
-> ###### 
+> 
 
 
 

@@ -69,7 +69,7 @@ A 19-track album blending darkhappy, electronica, downtempo, piano, cinematic, d
 >
 > ## mice_inside
 > ![](https://ia903109.us.archive.org/30/items/zqwy_mice_inside/mice_inside_cover.webp)
-> ###### 
+> 
 
 
 

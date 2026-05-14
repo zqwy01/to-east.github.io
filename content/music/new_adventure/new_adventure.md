@@ -63,7 +63,7 @@ publish: true
 >
 > ## new_adventure
 > ![]()
-> ###### 
+> 
 
 
 

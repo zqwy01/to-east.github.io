@@ -62,7 +62,7 @@ publish: true
 >
 > ## tablet
 > ![]()
-> ###### 
+> 
 
 
 

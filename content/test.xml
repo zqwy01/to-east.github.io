@@ -1,0 +1,7 @@
+<item>
+    <title>Эпизод 1</title>
+    <guid>https://example.com/ep1</guid>
+    <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
+    <description>Короткое описание эпизода 1.</description>
+    <enclosure url="https://cdn.example.com/audio/ep1.mp3" length="12345678" type="audio/mpeg" />
+</item>

@@ -1,7 +1,53 @@
-<item>
-    <title>Эпизод 1</title>
-    <guid>https://example.com/ep1</guid>
-    <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
-    <description>Короткое описание эпизода 1.</description>
-    <enclosure url="https://cdn.example.com/audio/ep1.mp3" length="12345678" type="audio/mpeg" />
-</item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Тестовый подкаст — Полный канал</title>
+        <link>https://example.com/</link>
+        <description>Полный RSS-канал для тестирования воспроизведения аудиофайлов (enclosures).</description>
+        <language>ru-RU</language>
+        <lastBuildDate>Mon, 18 May 2026 12:00:00 +0000</lastBuildDate>
+        <copyright>© 2026 Пример</copyright>
+        <managingEditor>editor@example.com (Редактор)</managingEditor>
+        <webMaster>webmaster@example.com (Вебмастер)</webMaster>
+        <itunes:author>Автор канала</itunes:author>
+        <itunes:summary>Канал содержит тестовые эпизоды в формате MP3 для проверки работы RSS-плееров и почтовых клиентов (Thunderbird и т.д.).</itunes:summary>
+        <itunes:image href="https://example.com/assets/podcast-cover.jpg"/>
+
+        <item>
+            <title>Эпизод 001 — Вступление</title>
+            <link>https://example.com/episodes/ep001</link>
+            <guid isPermaLink="false">ep001-20260518</guid>
+            <pubDate>Mon, 18 May 2026 10:00:00 +0000</pubDate>
+            <author>author@example.com (Автор)</author>
+            <description>Короткое описание: знакомство с тестовым подкастом.</description>
+            <enclosure url="https://cdn.example.com/audio/ep001.mp3" length="12345678" type="audio/mpeg"/>
+            <itunes:duration>00:03:15</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Эпизод 002 — Тест звука</title>
+            <link>https://example.com/episodes/ep002</link>
+            <guid isPermaLink="false">ep002-20260518</guid>
+            <pubDate>Mon, 18 May 2026 11:00:00 +0000</pubDate>
+            <author>author@example.com (Автор)</author>
+            <description>Тестовый эпизод с разными уровнями громкости и метаданными.</description>
+            <enclosure url="https://cdn.example.com/audio/ep002.mp3" length="23456789" type="audio/mpeg"/>
+            <itunes:duration>00:05:20</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Эпизод 003 — Демо M4A</title>
+            <link>https://example.com/episodes/ep003</link>
+            <guid isPermaLink="false">ep003-20260518</guid>
+            <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
+            <author>author@example.com (Автор)</author>
+            <description>Пример с файлом в формате M4A (audio/mp4).</description>
+            <enclosure url="https://cdn.example.com/audio/ep003.m4a" length="3456789" type="audio/mp4"/>
+            <itunes:duration>00:02:40</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+    </channel>
+</rss>
